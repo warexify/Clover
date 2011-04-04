@@ -21,6 +21,14 @@ CpuDxe/X64/CpuInterrupt.asm -text
 /DuetPkgIa32.dsc -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
+Include/Guids/AcpiDescription.h -text
+Include/Guids/ConsoleOutConfig.h -text
+Include/Guids/FlashMapHob.h -text
+Include/Guids/PciExpressBaseAddress.h -text
+Include/Guids/PciOptionRomTable.h -text
+Include/IndustryStandards/PeImage.h -text
+Include/IndustryStandards/Smbios.h -text
+Include/Library/PeCoffLib.h -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
