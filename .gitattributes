@@ -1,15 +1,6 @@
 * text=auto !eol
 AcpiTables/AcpiTables.c -text
 AcpiTables/AcpiTables.inf -text
-AcpiTables/BmLib.c -text
-AcpiTables/BootMaint.h -text
-AcpiTables/DevicePath.c -text
-AcpiTables/DevicePath.h -text
-AcpiTables/DevicePathFromText.c -text
-AcpiTables/InternalBdsLib.h -text
-AcpiTables/lib.c -text
-AcpiTables/lib.h -text
-AcpiTables/libeg.h -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
