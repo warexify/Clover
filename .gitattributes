@@ -153,6 +153,8 @@ VBoxIdeControllerDxe/IdeController.h -text
 VBoxIdeControllerDxe/VBoxIdeControllerDxe.inf -text
 VBoxPeCoffLib/BasePeCoff.c -text
 VBoxPeCoffLib/BasePeCoffLibInternals.h -text
+VBoxPeCoffLib/PeCoffLib.h -text
 VBoxPeCoffLib/PeCoffLoaderEx.c -text
+VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build32.sh -text
