@@ -86,6 +86,8 @@ OsxEfiLdr/Support.h -text
 OsxEfiLdr/TianoDecompress.c -text
 OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
+OsxLegacyAcpi/AcpiPlatform.c -text
+OsxLegacyAcpi/AcpiPlatformDxe.inf -text
 OsxPartitionDxe/Apple.c -text
 OsxPartitionDxe/ComponentName.c -text
 OsxPartitionDxe/ElTorito.c -text
