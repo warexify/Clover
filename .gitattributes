@@ -25,6 +25,7 @@ Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
 OsxAcpiPlatformDxe/AcpiPlatform.c -text
 OsxAcpiPlatformDxe/AcpiPlatformDxe.inf -text
+OsxAcpiPlatformDxe/AcpiTable.h -text
 OsxAcpiTableDxe/AcpiSdt.c -text
 OsxAcpiTableDxe/AcpiSdt.h -text
 OsxAcpiTableDxe/AcpiTable.c -text
@@ -49,6 +50,7 @@ OsxBdsLib/InternalBdsLib.h -text
 OsxBdsLib/Performance.c -text
 OsxBdsLib/String.c -text
 OsxBdsLib/String.h -text
+OsxBdsPlatformLib/AcpiTable.h -text
 OsxBdsPlatformLib/BdsPlatform.c -text
 OsxBdsPlatformLib/BdsPlatform.h -text
 OsxBdsPlatformLib/PlatformBds.inf -text
