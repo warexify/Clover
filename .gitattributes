@@ -104,6 +104,7 @@ OsxSmbiosGenDxe/cpuid.h -text
 VBoxAppleSim/Console.c -text
 VBoxAppleSim/ConsoleControl.h -text
 VBoxAppleSim/Cpu.c -text
+VBoxAppleSim/SmBios.h -text
 VBoxAppleSim/VBoxAppleSim.c -text
 VBoxAppleSim/VBoxAppleSim.inf -text
 VBoxFsDxe/VBoxExt2.inf -text
