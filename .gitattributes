@@ -1,6 +1,4 @@
 * text=auto !eol
-AcpiTables/AcpiTables.c -text
-AcpiTables/AcpiTables.inf -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
@@ -88,8 +86,6 @@ OsxEfiLdr/Support.h -text
 OsxEfiLdr/TianoDecompress.c -text
 OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
-OsxLegacyAcpi/AcpiPlatform.c -text
-OsxLegacyAcpi/AcpiPlatformDxe.inf -text
 OsxPartitionDxe/Apple.c -text
 OsxPartitionDxe/ComponentName.c -text
 OsxPartitionDxe/ElTorito.c -text
