@@ -1,4 +1,10 @@
 * text=auto !eol
+BootHFS/StartHFS.com -text
+BootHFS/boot0.s -text
+BootHFS/boot1.s -text
+BootHFS/boot1f32-install.sh -text
+BootHFS/boot1f32.s -text
+BootHFS/efi32.com2 -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
