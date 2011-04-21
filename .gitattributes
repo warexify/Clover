@@ -1,4 +1,5 @@
 * text=auto !eol
+BootHFS/README.txt -text
 BootHFS/StartHFS.com -text
 BootHFS/boot0.s -text
 BootHFS/boot1.s -text
