@@ -6,6 +6,8 @@ BootHFS/boot1.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/efi32.com2 -text
+/Clover.fdf -text
+/CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
@@ -194,3 +196,4 @@ VBoxPeCoffLib/PeCoffLoaderEx.c -text
 VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build32.sh -text
+/buildIDE.sh -text
