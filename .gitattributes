@@ -17,6 +17,7 @@ CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
 /DuetPkg.fdf -text
 /DuetPkgIa32.dsc -text
+/DuetPkgX64.dsc -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/Guids/AcpiDescription.h -text
@@ -197,4 +198,5 @@ VBoxPeCoffLib/PeCoffLoaderEx.c -text
 VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build32.sh -text
+/build64.sh -text
 /buildIDE.sh -text
