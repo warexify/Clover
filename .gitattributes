@@ -28,6 +28,17 @@ Include/Guids/PciOptionRomTable.h -text
 Include/IndustryStandards/PeImage.h -text
 Include/IndustryStandards/Smbios.h -text
 Include/Library/PeCoffLib.h -text
+IntelGmaDxe/ComponentName.c -text
+IntelGmaDxe/CpuSupport.h -text
+IntelGmaDxe/EDID.c -text
+IntelGmaDxe/EDID.h -text
+IntelGmaDxe/GOP_Release_Notes.txt -text
+IntelGmaDxe/Gop.c -text
+IntelGmaDxe/Gop.h -text
+IntelGmaDxe/Gop.inf -text
+IntelGmaDxe/GraphicsOutput.c -text
+IntelGmaDxe/Ia32/CpuSupport.c -text
+IntelGmaDxe/VideoModes.c -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
