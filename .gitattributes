@@ -150,6 +150,8 @@ OsxSmbiosGenDxe/SmbiosGen.inf -text
 OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 OsxSmbiosGenDxe/cpuid.h -text
 /PostBuild.sh -text
+U90AcpiTables/U90AcpiTables.c -text
+U90AcpiTables/U90AcpiTables.inf -text
 VBoxAppleSim/Console.c -text
 VBoxAppleSim/ConsoleControl.h -text
 VBoxAppleSim/Cpu.c -text
