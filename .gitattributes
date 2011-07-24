@@ -1,4 +1,5 @@
 * text=auto !eol
+BootHFS/HowToCompileAsm.rtf -text
 BootHFS/README.txt -text
 BootHFS/StartHFS.com -text
 BootHFS/boot0.s -text
@@ -6,6 +7,7 @@ BootHFS/boot1.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/efi32.com2 -text
+BootHFS/efi32.com3 -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
@@ -42,6 +44,7 @@ IntelGmaDxe/VideoModes.c -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
+/MdeModulePkg-Modded.dec -text
 OsxAcpiPlatformDxe/AcpiPlatform.c -text
 OsxAcpiPlatformDxe/AcpiPlatformDxe.inf -text
 OsxAcpiPlatformDxe/AcpiTable.h -text
