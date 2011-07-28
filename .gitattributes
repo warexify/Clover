@@ -18,6 +18,7 @@ CpuDxe/Ia32/CpuInterrupt.asm -text
 CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
 /DuetPkg.fdf -text
+/DuetPkg64.fdf -text
 /DuetPkgIa32.dsc -text
 /DuetPkgX64.dsc -text
 HFSPlus/HFSPlus.inf -text
