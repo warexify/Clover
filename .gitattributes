@@ -8,6 +8,19 @@ BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/efi32.com2 -text
 BootHFS/efi32.com3 -text
+BootSector/bin/Gpt.com -text
+BootSector/bin/Mbr.com -text
+BootSector/bin/Readme.txt -text
+BootSector/bin/St32_64.com -text
+BootSector/bin/Start32.com -text
+BootSector/bin/Start64.com -text
+BootSector/bin/StartHFS.com -text
+BootSector/bin/boot0 -text
+BootSector/bin/boot1h -text
+BootSector/bin/bs32.com -text
+BootSector/bin/efi32.com2 -text
+BootSector/bin/efi32.com3 -text
+BootSector/bin/efi64.com2 -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
@@ -273,6 +286,7 @@ VBoxPeCoffLib/PeCoffLib.h -text
 VBoxPeCoffLib/PeCoffLoaderEx.c -text
 VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
+/build.sh -text
 /build32.sh -text
 /build64.sh -text
 /buildIDE.sh -text
