@@ -289,4 +289,5 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build.sh -text
 /build32.sh -text
 /build64.sh -text
+/buildDeb.sh -text
 /buildIDE.sh -text
