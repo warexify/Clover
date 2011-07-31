@@ -1,4 +1,10 @@
 * text=auto !eol
+BiosVideo/BiosVideo.c -text
+BiosVideo/BiosVideo.h -text
+BiosVideo/BiosVideo.inf -text
+BiosVideo/ComponentName.c -text
+BiosVideo/LegacyBiosThunk.c -text
+BiosVideo/VesaBiosExtensions.h -text
 BootHFS/HowToCompileAsm.rtf -text
 BootHFS/README.txt -text
 BootHFS/StartHFS.com -text
