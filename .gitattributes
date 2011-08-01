@@ -27,6 +27,7 @@ BootSector/bin/bs32.com -text
 BootSector/bin/efi32.com2 -text
 BootSector/bin/efi32.com3 -text
 BootSector/bin/efi64.com2 -text
+BootSector/bin/start32H.com2 -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
