@@ -219,14 +219,6 @@ OsxPartitionDxe/Mbr.c -text
 OsxPartitionDxe/Partition.c -text
 OsxPartitionDxe/Partition.h -text
 OsxPartitionDxe/PartitionDxe.inf -text
-OsxPartitionDxeOld/Apple.c -text
-OsxPartitionDxeOld/ComponentName.c -text
-OsxPartitionDxeOld/ElTorito.c -text
-OsxPartitionDxeOld/Gpt.c -text
-OsxPartitionDxeOld/Mbr.c -text
-OsxPartitionDxeOld/Partition.c -text
-OsxPartitionDxeOld/Partition.h -text
-OsxPartitionDxeOld/PartitionDxe.inf -text
 OsxPciBusNoEnumerationDxe/ComponentName.c -text
 OsxPciBusNoEnumerationDxe/PciBus.c -text
 OsxPciBusNoEnumerationDxe/PciBus.h -text
