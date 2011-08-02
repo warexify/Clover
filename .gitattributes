@@ -43,14 +43,6 @@ CpuDxe/X64/CpuInterrupt.asm -text
 /DuetPkgX64.dsc -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
-HiiDatabaseDxe/ConfigRouting.c -text
-HiiDatabaseDxe/Database.c -text
-HiiDatabaseDxe/Font.c -text
-HiiDatabaseDxe/HiiDatabase.h -text
-HiiDatabaseDxe/HiiDatabaseDxe.inf -text
-HiiDatabaseDxe/HiiDatabaseEntry.c -text
-HiiDatabaseDxe/Image.c -text
-HiiDatabaseDxe/String.c -text
 Include/Guids/AcpiDescription.h -text
 Include/Guids/ConsoleOutConfig.h -text
 Include/Guids/FlashMapHob.h -text
