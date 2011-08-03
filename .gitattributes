@@ -257,6 +257,9 @@ OsxPciBusNoEnumerationDxe/PciPowerManagement.c -text
 OsxPciBusNoEnumerationDxe/PciPowerManagement.h -text
 OsxPciBusNoEnumerationDxe/PciRomTable.c -text
 OsxPciBusNoEnumerationDxe/PciRomTable.h -text
+OsxSmbiosDxe/SmbiosDxe.c -text
+OsxSmbiosDxe/SmbiosDxe.h -text
+OsxSmbiosDxe/SmbiosDxe.inf -text
 OsxSmbiosGenDxe/SmBios.h -text
 OsxSmbiosGenDxe/SmbiosGen.c -text
 OsxSmbiosGenDxe/SmbiosGen.h -text
