@@ -267,6 +267,7 @@ OsxSmbiosGenDxe/SmbiosGen.inf -text
 OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 OsxSmbiosGenDxe/cpuid.h -text
 /PostBuild.sh -text
+/PostBuildDuet.sh -text
 U90AcpiTables/U90AcpiTables.c -text
 U90AcpiTables/U90AcpiTables.inf -text
 VBoxAppleSim/Console.c -text
@@ -336,3 +337,4 @@ VgaClassDxe/VgaClassDxe.inf -text
 /build64.sh -text
 /buildDeb.sh -text
 /buildIDE.sh -text
+/tools_def.txt -text
