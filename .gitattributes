@@ -268,6 +268,10 @@ OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 OsxSmbiosGenDxe/cpuid.h -text
 /PostBuild.sh -text
 /PostBuildDuet.sh -text
+SataControllerDxe/ComponentName.c -text
+SataControllerDxe/SataController.c -text
+SataControllerDxe/SataController.h -text
+SataControllerDxe/SataControllerDxe.inf -text
 U90AcpiTables/U90AcpiTables.c -text
 U90AcpiTables/U90AcpiTables.inf -text
 VBoxAppleSim/Console.c -text
@@ -333,7 +337,6 @@ VgaClassDxe/VgaClass.c -text
 VgaClassDxe/VgaClass.h -text
 VgaClassDxe/VgaClassDxe.inf -text
 /build64.sh -text
-/buildDeb.sh -text
 /buildIDE.sh -text
 /buildSATA.sh -text
 /tools_def.txt -text
