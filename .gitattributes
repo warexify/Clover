@@ -332,9 +332,8 @@ VgaClassDxe/ComponentName.c -text
 VgaClassDxe/VgaClass.c -text
 VgaClassDxe/VgaClass.h -text
 VgaClassDxe/VgaClassDxe.inf -text
-/build.sh -text
-/build32.sh -text
 /build64.sh -text
 /buildDeb.sh -text
 /buildIDE.sh -text
+/buildSATA.sh -text
 /tools_def.txt -text
