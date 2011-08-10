@@ -257,6 +257,10 @@ OsxPciBusNoEnumerationDxe/PciPowerManagement.c -text
 OsxPciBusNoEnumerationDxe/PciPowerManagement.h -text
 OsxPciBusNoEnumerationDxe/PciRomTable.c -text
 OsxPciBusNoEnumerationDxe/PciRomTable.h -text
+OsxRuntimeDxe/Crc32.c -text
+OsxRuntimeDxe/Runtime.c -text
+OsxRuntimeDxe/Runtime.h -text
+OsxRuntimeDxe/RuntimeDxe.inf -text
 OsxSmbiosDxe/SmbiosDxe.c -text
 OsxSmbiosDxe/SmbiosDxe.h -text
 OsxSmbiosDxe/SmbiosDxe.inf -text
