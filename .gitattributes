@@ -264,6 +264,8 @@ OsxRuntimeDxe/RuntimeDxe.inf -text
 OsxSmbiosDxe/SmbiosDxe.c -text
 OsxSmbiosDxe/SmbiosDxe.h -text
 OsxSmbiosDxe/SmbiosDxe.inf -text
+OsxSmbiosGenDxe/AsmFuncsIa32.asm -text
+OsxSmbiosGenDxe/AsmFuncsX64.asm -text
 OsxSmbiosGenDxe/SmBios.h -text
 OsxSmbiosGenDxe/SmbiosGen.c -text
 OsxSmbiosGenDxe/SmbiosGen.h -text
@@ -285,6 +287,8 @@ VBoxAppleSim/DataHubRecords.h -text
 VBoxAppleSim/SmBios.h -text
 VBoxAppleSim/VBoxAppleSim.c -text
 VBoxAppleSim/VBoxAppleSim.inf -text
+VBoxAppleSim/llmul.c -text
+VBoxFsDxe/OverrideFunctions-kabyl.edk2.c.include -text
 VBoxFsDxe/VBoxExt2.inf -text
 VBoxFsDxe/VBoxFsDxe.c -text
 VBoxFsDxe/VBoxFsDxe.inf -text
