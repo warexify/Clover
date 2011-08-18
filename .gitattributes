@@ -227,6 +227,12 @@ OsxEfiLdr/Support.h -text
 OsxEfiLdr/TianoDecompress.c -text
 OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
+OsxMmcDxe/ComponentName.c -text
+OsxMmcDxe/Diagnostics.c -text
+OsxMmcDxe/Mmc.c -text
+OsxMmcDxe/Mmc.h -text
+OsxMmcDxe/MmcBlockIo.c -text
+OsxMmcDxe/MmcDxe.inf -text
 OsxPartitionDxe/Apple.c -text
 OsxPartitionDxe/ComponentName.c -text
 OsxPartitionDxe/ElTorito.c -text
@@ -264,8 +270,6 @@ OsxRuntimeDxe/RuntimeDxe.inf -text
 OsxSmbiosDxe/SmbiosDxe.c -text
 OsxSmbiosDxe/SmbiosDxe.h -text
 OsxSmbiosDxe/SmbiosDxe.inf -text
-OsxSmbiosGenDxe/AsmFuncsIa32.asm -text
-OsxSmbiosGenDxe/AsmFuncsX64.asm -text
 OsxSmbiosGenDxe/SmBios.h -text
 OsxSmbiosGenDxe/SmbiosGen.c -text
 OsxSmbiosGenDxe/SmbiosGen.h -text
