@@ -45,7 +45,9 @@ HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/Guids/AcpiDescription.h -text
 Include/Guids/ConsoleOutConfig.h -text
+Include/Guids/DxeCoreFileName.h -text
 Include/Guids/FlashMapHob.h -text
+Include/Guids/LdrMemoryDescriptor.h -text
 Include/Guids/PciExpressBaseAddress.h -text
 Include/Guids/PciOptionRomTable.h -text
 Include/IndustryStandards/PeImage.h -text
