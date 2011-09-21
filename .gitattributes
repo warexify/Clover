@@ -280,6 +280,7 @@ OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 OsxSmbiosGenDxe/cpuid.h -text
 /PostBuild.sh -text
 /PostBuildDuet.sh -text
+/Readme.rtf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
