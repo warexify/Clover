@@ -417,6 +417,12 @@ VBoxPeCoffLib/PeCoffLib.h -text
 VBoxPeCoffLib/PeCoffLoaderEx.c -text
 VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
+VBoxVgaMiniPort/VBoxVgaFont-8x14.h -text
+VBoxVgaMiniPort/VBoxVgaFont-8x16.h -text
+VBoxVgaMiniPort/VBoxVgaFont-8x8.h -text
+VBoxVgaMiniPort/VBoxVgaFonts.h -text
+VBoxVgaMiniPort/VgaMiniPort.c -text
+VBoxVgaMiniPort/VgaMiniPortDxe.inf -text
 VgaClassDxe/ComponentName.c -text
 VgaClassDxe/VgaClass.c -text
 VgaClassDxe/VgaClass.h -text
