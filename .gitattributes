@@ -15,6 +15,7 @@ BootHFS/boot1f32.s -text
 BootHFS/efi32.com2 -text
 BootHFS/efi32.com3 -text
 BootSector/HowToCompileAsm.rtf -text
+BootSector/HowToCompileAsm.txt -text
 BootSector/bin/Gpt.com -text
 BootSector/bin/Mbr.com -text
 BootSector/bin/Readme.txt -text
