@@ -436,6 +436,7 @@ VgaClassDxe/VgaClass.c -text
 VgaClassDxe/VgaClass.h -text
 VgaClassDxe/VgaClassDxe.inf -text
 /build64.sh -text
+/buildClang.sh -text
 /buildIDE.sh -text
 /buildSATA.sh -text
 /tools_def.txt -text
