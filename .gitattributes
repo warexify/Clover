@@ -1,4 +1,14 @@
 * text=auto !eol
+BiosKeyboard/BiosKeyboard.c -text
+BiosKeyboard/BiosKeyboard.h -text
+BiosKeyboard/ComponentName.c -text
+BiosKeyboard/ComponentName.h -text
+BiosKeyboard/KeyboardDxe.inf -text
+BiosKeyboard/LegacyBiosThunk.c -text
+BiosThunk/LegacyBiosThunk.c -text
+BiosThunk/LegacyBiosThunk.dxs -text
+BiosThunk/LegacyBiosThunk.h -text
+BiosThunk/LegacyBiosThunk.inf -text
 BiosVideo/BiosVideo.c -text
 BiosVideo/BiosVideo.h -text
 BiosVideo/BiosVideo.inf -text
