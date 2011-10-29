@@ -61,6 +61,10 @@ CpuDxe/X64/CpuInterrupt.asm -text
 /DuetPkg64.fdf -text
 /DuetPkgIa32.dsc -text
 /DuetPkgX64.dsc -text
+EmuVariableDxe/EmuVariable.c -text
+EmuVariableDxe/EmuVariableRuntimeDxe.inf -text
+EmuVariableDxe/InitVariable.c -text
+EmuVariableDxe/Variable.h -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/Guids/AcpiDescription.h -text
