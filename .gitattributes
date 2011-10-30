@@ -1,4 +1,6 @@
 * text=auto !eol
+AcpiReset/Reset.c -text
+AcpiReset/Reset.inf -text
 BiosKeyboard/BiosKeyboard.c -text
 BiosKeyboard/BiosKeyboard.h -text
 BiosKeyboard/ComponentName.c -text
