@@ -292,10 +292,6 @@ OsxPciBusNoEnumerationDxe/PciPowerManagement.c -text
 OsxPciBusNoEnumerationDxe/PciPowerManagement.h -text
 OsxPciBusNoEnumerationDxe/PciRomTable.c -text
 OsxPciBusNoEnumerationDxe/PciRomTable.h -text
-OsxRuntimeDxe/Crc32.c -text
-OsxRuntimeDxe/Runtime.c -text
-OsxRuntimeDxe/Runtime.h -text
-OsxRuntimeDxe/RuntimeDxe.inf -text
 OsxSmbiosDxe/SmbiosDxe.c -text
 OsxSmbiosDxe/SmbiosDxe.h -text
 OsxSmbiosDxe/SmbiosDxe.inf -text
@@ -450,10 +446,6 @@ VBoxVgaMiniPort/VBoxVgaFont-8x8.h -text
 VBoxVgaMiniPort/VBoxVgaFonts.h -text
 VBoxVgaMiniPort/VgaMiniPort.c -text
 VBoxVgaMiniPort/VgaMiniPortDxe.inf -text
-VgaClassDxe/ComponentName.c -text
-VgaClassDxe/VgaClass.c -text
-VgaClassDxe/VgaClass.h -text
-VgaClassDxe/VgaClassDxe.inf -text
 /build64.sh -text
 /buildClang.sh -text
 /buildIDE.sh -text
