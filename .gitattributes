@@ -1,6 +1,14 @@
 * text=auto !eol
 AcpiReset/Reset.c -text
 AcpiReset/Reset.inf -text
+AtaAtapi/AhciMode.c -text
+AtaAtapi/AhciMode.h -text
+AtaAtapi/AtaAtapiPassThru.c -text
+AtaAtapi/AtaAtapiPassThru.h -text
+AtaAtapi/AtaAtapiPassThru.inf -text
+AtaAtapi/ComponentName.c -text
+AtaAtapi/IdeMode.c -text
+AtaAtapi/IdeMode.h -text
 BiosKeyboard/BiosKeyboard.c -text
 BiosKeyboard/BiosKeyboard.h -text
 BiosKeyboard/ComponentName.c -text
