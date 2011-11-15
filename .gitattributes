@@ -68,6 +68,14 @@ CpuDxe/Ia32/CpuInterrupt.S -text
 CpuDxe/Ia32/CpuInterrupt.asm -text
 CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
+DVDBus/ComponentName.c -text
+DVDBus/ScsiBus.c -text
+DVDBus/ScsiBus.h -text
+DVDBus/ScsiBusDxe.inf -text
+DVDDisk/ComponentName.c -text
+DVDDisk/ScsiDisk.c -text
+DVDDisk/ScsiDisk.h -text
+DVDDisk/ScsiDiskDxe.inf -text
 /DuetPkg.fdf -text
 /DuetPkg64.fdf -text
 /DuetPkgIa32.dsc -text
