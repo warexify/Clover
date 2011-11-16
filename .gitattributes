@@ -132,6 +132,7 @@ LzmaCustomDecompressLib/Sdk/history.txt -text
 LzmaCustomDecompressLib/Sdk/lzma.txt -text
 LzmaCustomDecompressLib/UefiLzma.h -text
 /MdeModulePkg-Modded.dec -text
+/MdeModulePkg.dec -text
 OsxAcpiPlatformDxe/AcpiPlatform.c -text
 OsxAcpiPlatformDxe/AcpiPlatformDxe.inf -text
 OsxAcpiPlatformDxe/AcpiTable.h -text
