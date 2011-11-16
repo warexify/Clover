@@ -9,6 +9,11 @@ AtaAtapi/AtaAtapiPassThru.inf -text
 AtaAtapi/ComponentName.c -text
 AtaAtapi/IdeMode.c -text
 AtaAtapi/IdeMode.h -text
+AtaBus/AtaBus.c -text
+AtaBus/AtaBus.h -text
+AtaBus/AtaBusDxe.inf -text
+AtaBus/AtaPassThruExecute.c -text
+AtaBus/ComponentName.c -text
 BiosKeyboard/BiosKeyboard.c -text
 BiosKeyboard/BiosKeyboard.h -text
 BiosKeyboard/ComponentName.c -text
