@@ -323,6 +323,14 @@ OsxSmbiosGenDxe/SmbiosGen.h -text
 OsxSmbiosGenDxe/SmbiosGen.inf -text
 OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 OsxSmbiosGenDxe/cpuid.h -text
+PartitionDxe/Apple.c -text
+PartitionDxe/ComponentName.c -text
+PartitionDxe/ElTorito.c -text
+PartitionDxe/Gpt.c -text
+PartitionDxe/Mbr.c -text
+PartitionDxe/Partition.c -text
+PartitionDxe/Partition.h -text
+PartitionDxe/PartitionDxe.inf -text
 /PostBuild.sh -text
 /PostBuildDuet.sh -text
 /Readme.rtf -text
