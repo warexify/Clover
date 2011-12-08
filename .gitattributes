@@ -1,6 +1,19 @@
 * text=auto !eol
 AcpiReset/Reset.c -text
 AcpiReset/Reset.inf -text
+Ata2/AtaAtapiPassThru/AhciMode.c -text
+Ata2/AtaAtapiPassThru/AhciMode.h -text
+Ata2/AtaAtapiPassThru/AtaAtapiPassThru.c -text
+Ata2/AtaAtapiPassThru/AtaAtapiPassThru.h -text
+Ata2/AtaAtapiPassThru/AtaAtapiPassThru.inf -text
+Ata2/AtaAtapiPassThru/ComponentName.c -text
+Ata2/AtaAtapiPassThru/IdeMode.c -text
+Ata2/AtaAtapiPassThru/IdeMode.h -text
+Ata2/AtaBusDxe/AtaBus.c -text
+Ata2/AtaBusDxe/AtaBus.h -text
+Ata2/AtaBusDxe/AtaBusDxe.inf -text
+Ata2/AtaBusDxe/AtaPassThruExecute.c -text
+Ata2/AtaBusDxe/ComponentName.c -text
 AtaAtapi/AhciMode.c -text
 AtaAtapi/AhciMode.h -text
 AtaAtapi/AtaAtapiPassThru.c -text
