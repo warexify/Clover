@@ -441,8 +441,6 @@ VBoxPeCoffLib/PeCoffLib.h -text
 VBoxPeCoffLib/PeCoffLoaderEx.c -text
 VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
-/build64.sh -text
+/build.sh -text
 /buildClang.sh -text
-/buildIDE.sh -text
-/buildSATA.sh -text
 /tools_def.txt -text
