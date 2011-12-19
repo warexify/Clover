@@ -56,14 +56,20 @@ BootSector/bin/efi32.com2 -text
 BootSector/bin/efi32.com3 -text
 BootSector/bin/efi32.com4 -text
 BootSector/bin/efi64.com2 -text
+BootSector/bin/start32.com -text svneol=unset#unset
 BootSector/bin/start32H.com2 -text
 BootSector/bin/start32H.com4 -text
 BootSector/efi32.S -text
+BootSector/efi32.com3 -text
 BootSector/fix-embedded-paths -text
 BootSector/gnu-gcc -text
 BootSector/gnu-ld -text
 BootSector/start32.S -text
+BootSector/start32.com -text
 BootSector/start32H.S -text
+BootSector/start32H.com -text
+BootSector/start32H.com2 -text
+BootSector/start32H2.S -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
