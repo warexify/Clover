@@ -48,17 +48,13 @@ BootSector/bin/Readme.txt -text
 BootSector/bin/St32_64.com -text
 BootSector/bin/Start32.com -text
 BootSector/bin/Start64.com -text
-BootSector/bin/StartHFS.com -text
 BootSector/bin/boot0 -text
 BootSector/bin/boot1h -text
 BootSector/bin/bs32.com -text
-BootSector/bin/efi32.com2 -text
 BootSector/bin/efi32.com3 -text
-BootSector/bin/efi32.com4 -text
 BootSector/bin/efi64.com2 -text
 BootSector/bin/start32.com -text svneol=unset#unset
 BootSector/bin/start32H.com2 -text
-BootSector/bin/start32H.com4 -text
 BootSector/efi32.S -text
 BootSector/efi32.com3 -text
 BootSector/fix-embedded-paths -text
