@@ -373,6 +373,7 @@ PciBusDxe/PciRomTable.c -text
 PciBusDxe/PciRomTable.h -text
 /PostBuild.sh -text
 /PostBuildDuet.sh -text
+/PostBuildUnix.sh -text
 /Readme.rtf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
@@ -525,4 +526,5 @@ VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build.sh -text
 /buildClang.sh -text
+/buildUnix.sh -text
 /tools_def.txt -text
