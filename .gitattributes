@@ -527,4 +527,5 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build.sh -text
 /buildClang.sh -text
 /buildUnix.sh -text
+/build_rule.txt -text
 /tools_def.txt -text
