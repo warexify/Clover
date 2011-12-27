@@ -392,6 +392,7 @@ SaveResume/BootScriptExecutorDxe/ScriptExecute.h -text
 SaveResume/BootScriptExecutorDxe/X64/S3Asm.S -text
 SaveResume/BootScriptExecutorDxe/X64/S3Asm.asm -text
 SaveResume/BootScriptExecutorDxe/X64/SetIdtEntry.c -text
+/Thunk16.S -text
 U90AcpiTables/U90AcpiTables.c -text
 U90AcpiTables/U90AcpiTables.inf -text
 UefiCpuPkg/CpuDxe/CpuDxe.c -text
@@ -527,5 +528,6 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build.sh -text
 /buildClang.sh -text
 /buildUnix.sh -text
+/buildUnix64.sh -text
 /build_rule.txt -text
 /tools_def.txt -text
