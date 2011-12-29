@@ -371,6 +371,15 @@ PciBusDxe/PciResourceSupport.c -text
 PciBusDxe/PciResourceSupport.h -text
 PciBusDxe/PciRomTable.c -text
 PciBusDxe/PciRomTable.h -text
+PciRootBridgeDxe/DeviceIo.c -text
+PciRootBridgeDxe/DeviceIo.h -text
+PciRootBridgeDxe/Ia32/PcatIo.c -text
+PciRootBridgeDxe/PcatPciRootBridge.c -text
+PciRootBridgeDxe/PcatPciRootBridge.h -text
+PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
+PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
+PciRootBridgeDxe/PciRootBridge.inf -text
+PciRootBridgeDxe/X64/PcatIo.c -text
 /PostBuild.sh -text
 /PostBuildDuet.sh -text
 /PostBuildUnix.sh -text
