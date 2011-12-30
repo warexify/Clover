@@ -378,6 +378,7 @@ PciRootBridgeDxe/PcatPciRootBridge.c -text
 PciRootBridgeDxe/PcatPciRootBridge.h -text
 PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
+PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
 /PostBuild.sh -text
