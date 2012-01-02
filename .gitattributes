@@ -382,6 +382,7 @@ PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
 /PostBuild.sh -text
+/PostBuildClang.sh -text
 /PostBuildDuet.sh -text
 /PostBuildUnix.sh -text
 /Readme.rtf -text
@@ -402,6 +403,7 @@ SaveResume/BootScriptExecutorDxe/ScriptExecute.h -text
 SaveResume/BootScriptExecutorDxe/X64/S3Asm.S -text
 SaveResume/BootScriptExecutorDxe/X64/S3Asm.asm -text
 SaveResume/BootScriptExecutorDxe/X64/SetIdtEntry.c -text
+/Thunk16-probe.S -text
 /Thunk16.S -text
 U90AcpiTables/U90AcpiTables.c -text
 U90AcpiTables/U90AcpiTables.inf -text
@@ -537,6 +539,7 @@ VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build.sh -text
 /buildClang.sh -text
+/buildClang32.sh -text
 /buildUnix.sh -text
 /buildUnix64.sh -text
 /build_rule.txt -text
