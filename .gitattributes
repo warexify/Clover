@@ -543,5 +543,6 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /buildUnix.sh -text
 /buildUnix64.sh -text
 /build_rule.txt -text
+/cbuild.sh -text
 /mingw-gcc-build.py -text
 /tools_def.txt -text
