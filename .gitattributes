@@ -51,9 +51,11 @@ BootSector/efi32.S -text
 BootSector/fix-embedded-paths -text
 BootSector/gnu-gcc -text
 BootSector/gnu-ld -text
+BootSector/st32_64.S -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
+BootSector/start64H.com2 -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CpuDxe/Cpu.c -text
