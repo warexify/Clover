@@ -44,8 +44,10 @@ BootSector/bin/boot1h -text
 BootSector/bin/bs32.com -text
 BootSector/bin/efi32.com3 -text
 BootSector/bin/efi64.com2 -text
+BootSector/bin/efi64.com3 -text
 BootSector/bin/start32.com -text
 BootSector/bin/start32H.com2 -text
+BootSector/bin/start64H.com -text
 BootSector/bin/start64H.com2 -text
 BootSector/boot1.s -text
 BootSector/efi32.S -text
