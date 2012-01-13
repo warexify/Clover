@@ -39,6 +39,7 @@ BootSector/bin/Readme.txt -text
 BootSector/bin/St16_64.com -text
 BootSector/bin/St32_64.com -text
 BootSector/bin/Start64.com -text
+BootSector/bin/Start64H.com -text svneol=unset#unset
 BootSector/bin/boot0 -text
 BootSector/bin/boot1h -text
 BootSector/bin/bs32.com -text
@@ -556,6 +557,7 @@ rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
 rEFIt_UEFI/Make.common -text
+rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AppleEfi.h -text
 rEFIt_UEFI/Platform/BiosVideo.h -text
 rEFIt_UEFI/Platform/Bmp.h -text
@@ -585,7 +587,6 @@ rEFIt_UEFI/Platform/device_inject.c -text
 rEFIt_UEFI/Platform/device_inject.h -text
 rEFIt_UEFI/Platform/device_tree.c -text
 rEFIt_UEFI/Platform/device_tree.h -text
-rEFIt_UEFI/Platform/dsdt_patcher.c -text
 rEFIt_UEFI/Platform/memvendors.h -text
 rEFIt_UEFI/Platform/mkext.c -text
 rEFIt_UEFI/Platform/mkext.h -text
