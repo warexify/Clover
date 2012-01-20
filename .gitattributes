@@ -567,6 +567,7 @@ rEFIt_UEFI/Platform/DT_Add.h -text
 rEFIt_UEFI/Platform/DT_pseudo-C.h -text
 rEFIt_UEFI/Platform/DataHubCpu.c -text
 rEFIt_UEFI/Platform/DataHubRecords.h -text
+rEFIt_UEFI/Platform/DriverVar.txt -text
 rEFIt_UEFI/Platform/Events.c -text
 rEFIt_UEFI/Platform/Injectors.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.c -text
@@ -581,11 +582,13 @@ rEFIt_UEFI/Platform/UsbMass.h -text
 rEFIt_UEFI/Platform/UsbMassBoot.h -text
 rEFIt_UEFI/Platform/UsbMassImpl.h -text
 rEFIt_UEFI/Platform/VesaBiosExtensions.h -text
+rEFIt_UEFI/Platform/boot.h -text
 rEFIt_UEFI/Platform/cpu.c -text
 rEFIt_UEFI/Platform/device_inject.c -text
 rEFIt_UEFI/Platform/device_inject.h -text
 rEFIt_UEFI/Platform/device_tree.c -text
 rEFIt_UEFI/Platform/device_tree.h -text
+rEFIt_UEFI/Platform/guid.c -text
 rEFIt_UEFI/Platform/memvendors.h -text
 rEFIt_UEFI/Platform/mkext.c -text
 rEFIt_UEFI/Platform/mkext.h -text
@@ -599,6 +602,7 @@ rEFIt_UEFI/Platform/plist.c -text
 rEFIt_UEFI/Platform/smbios.c -text
 rEFIt_UEFI/Platform/spd.c -text
 rEFIt_UEFI/Platform/spd.h -text
+rEFIt_UEFI/Platform/stringTable.c -text
 rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/build.sh -text
 rEFIt_UEFI/include/Handle.h -text
