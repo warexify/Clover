@@ -39,7 +39,6 @@ BootSector/bin/Readme.txt -text
 BootSector/bin/St16_64.com -text
 BootSector/bin/St32_64.com -text
 BootSector/bin/Start64.com -text
-BootSector/bin/Start64H.com -text svneol=unset#unset
 BootSector/bin/boot0 -text
 BootSector/bin/boot1h -text
 BootSector/bin/bs32.com -text
