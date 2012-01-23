@@ -581,12 +581,16 @@ rEFIt_UEFI/Platform/UsbMass.h -text
 rEFIt_UEFI/Platform/UsbMassBoot.h -text
 rEFIt_UEFI/Platform/UsbMassImpl.h -text
 rEFIt_UEFI/Platform/VesaBiosExtensions.h -text
+rEFIt_UEFI/Platform/ati.c -text
+rEFIt_UEFI/Platform/ati_reg.h -text
 rEFIt_UEFI/Platform/boot.h -text
 rEFIt_UEFI/Platform/cpu.c -text
 rEFIt_UEFI/Platform/device_inject.c -text
 rEFIt_UEFI/Platform/device_inject.h -text
 rEFIt_UEFI/Platform/device_tree.c -text
 rEFIt_UEFI/Platform/device_tree.h -text
+rEFIt_UEFI/Platform/gma.c -text
+rEFIt_UEFI/Platform/gma.h -text
 rEFIt_UEFI/Platform/guid.c -text
 rEFIt_UEFI/Platform/memvendors.h -text
 rEFIt_UEFI/Platform/mkext.c -text
