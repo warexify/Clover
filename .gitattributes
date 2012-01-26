@@ -40,6 +40,7 @@ BootSector/bin/St16_64.com -text
 BootSector/bin/St32_64.com -text
 BootSector/bin/Start64.com -text
 BootSector/bin/boot0 -text
+BootSector/bin/boot0md -text
 BootSector/bin/boot1h -text
 BootSector/bin/bs32.com -text
 BootSector/bin/efi32.com3 -text
