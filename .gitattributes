@@ -62,6 +62,8 @@ BootSector/start32H.S -text
 BootSector/start32H2.S -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
+/CloverX64.dsc -text
+/CloverX64.fdf -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
