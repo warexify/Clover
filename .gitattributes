@@ -590,6 +590,7 @@ rEFIt_UEFI/Platform/spd.h -text
 rEFIt_UEFI/Platform/stringTable.c -text
 rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/build.sh -text
+rEFIt_UEFI/build64.sh -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/efiConsoleControl.h -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
@@ -609,6 +610,7 @@ rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/mkegemb.py -text
 rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/rEFIt.dsc -text
+rEFIt_UEFI/rEFIt64.dsc -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/slice.mode1v3 -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/slice.pbxuser -text
@@ -629,4 +631,5 @@ rEFIt_UEFI/refit/refit.mak -text
 rEFIt_UEFI/refit/refit.mkefi -text
 rEFIt_UEFI/refit/screen.c -text
 rEFIt_UEFI/refit/syslinux_mbr.h -text
+rEFIt_UEFI/refit64.inf -text
 /tools_def.txt -text
