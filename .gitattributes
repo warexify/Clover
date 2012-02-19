@@ -563,6 +563,7 @@ rEFIt_UEFI/Platform/UsbMassBoot.h -text
 rEFIt_UEFI/Platform/UsbMassImpl.h -text
 rEFIt_UEFI/Platform/VesaBiosExtensions.h -text
 rEFIt_UEFI/Platform/ati.c -text
+rEFIt_UEFI/Platform/ati.h -text
 rEFIt_UEFI/Platform/ati_old.c -text
 rEFIt_UEFI/Platform/ati_reg.h -text
 rEFIt_UEFI/Platform/boot.h -text
