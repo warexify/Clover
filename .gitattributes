@@ -535,7 +535,6 @@ rEFIt_UEFI/EfiLib/DevicePath.c -text
 rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
-rEFIt_UEFI/Make.common -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AppleEfi.h -text
 rEFIt_UEFI/Platform/BiosVideo.h -text
@@ -596,7 +595,6 @@ rEFIt_UEFI/build64.sh -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/efiConsoleControl.h -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
-rEFIt_UEFI/libeg/Makefile -text
 rEFIt_UEFI/libeg/efiConsoleControl.h -text
 rEFIt_UEFI/libeg/efiGraphicsOutput.h -text
 rEFIt_UEFI/libeg/efiUgaDraw.h -text
@@ -619,7 +617,6 @@ rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/slice.pbxuser -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
-rEFIt_UEFI/refit/Makefile -text
 rEFIt_UEFI/refit/config.c -text
 rEFIt_UEFI/refit/egemb_back_selected_small.h -text
 rEFIt_UEFI/refit/egemb_refit_banner.h -text
