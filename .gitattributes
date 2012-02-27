@@ -72,6 +72,7 @@ CpuDxe/Ia32/CpuInterrupt.S -text
 CpuDxe/Ia32/CpuInterrupt.asm -text
 CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
+/CreatingRevision.txt -text
 DVDBus/ComponentName.c -text
 DVDBus/ScsiBus.c -text
 DVDBus/ScsiBus.h -text
@@ -152,6 +153,7 @@ LegacyBios/X64/InterruptTable.asm -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
+Logo/Logo_CloverEFI.bmp -text
 LzmaCustomDecompressLib/GuidedSectionExtraction.c -text
 LzmaCustomDecompressLib/LZMA-SDK-README.txt -text
 LzmaCustomDecompressLib/LzmaCustomDecompressLib.inf -text
