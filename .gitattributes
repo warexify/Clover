@@ -35,10 +35,12 @@ BootHFS/boot1f32.s -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
+BootSector/b64.sh -text
 BootSector/bin/Gpt.com -text
 BootSector/bin/Mbr.com -text
 BootSector/bin/Readme.txt -text
 BootSector/bin/Start64.com -text
+BootSector/bin/Start64H.com -text
 BootSector/bin/boot0 -text
 BootSector/bin/boot0md -text
 BootSector/bin/boot1f32 -text
