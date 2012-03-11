@@ -397,8 +397,6 @@ SataControllerDxe/SataController.h -text
 SataControllerDxe/SataControllerDxe.inf -text
 /Thunk16-probe.S -text
 /Thunk16.S -text
-U90AcpiTables/U90AcpiTables.c -text
-U90AcpiTables/U90AcpiTables.inf -text
 UefiCpuPkg/CpuDxe/CpuDxe.c -text
 UefiCpuPkg/CpuDxe/CpuDxe.c.orig -text
 UefiCpuPkg/CpuDxe/CpuDxe.h -text
