@@ -83,6 +83,13 @@ DVDDisk/ComponentName.c -text
 DVDDisk/ScsiDisk.c -text
 DVDDisk/ScsiDisk.h -text
 DVDDisk/ScsiDiskDxe.inf -text
+FSInject/FSInject.c -text
+FSInject/FSInject.dec -text
+FSInject/FSInject.h -text
+FSInject/FSInject.inf -text
+FSInject/Include/Protocol/FSInjectProtocol.h -text
+FSInject/Test.c -text
+FSInject/Test.h -text
 GenericBdsLib/BdsBoot.c -text
 GenericBdsLib/BdsConnect.c -text
 GenericBdsLib/BdsConsole.c -text
