@@ -604,7 +604,13 @@ rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/build.sh -text
 rEFIt_UEFI/build64.sh -text
 rEFIt_UEFI/include/Handle.h -text
+rEFIt_UEFI/include/UsbMass.h -text
+rEFIt_UEFI/include/UsbMassBoot.h -text
+rEFIt_UEFI/include/UsbMassImpl.h -text
 rEFIt_UEFI/include/efiConsoleControl.h -text
+rEFIt_UEFI/include/egemb_back_selected_small.h -text
+rEFIt_UEFI/include/egemb_refit_banner.h -text
+rEFIt_UEFI/include/syslinux_mbr.h -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
 rEFIt_UEFI/libeg/efiConsoleControl.h -text
 rEFIt_UEFI/libeg/efiGraphicsOutput.h -text
