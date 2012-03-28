@@ -30,8 +30,13 @@ BiosVideo/VesaBiosExtensions.h -text
 BootHFS/README.txt -text
 BootHFS/boot0.s -text
 BootHFS/boot1.s -text
+BootHFS/boot1altV2 -text
+BootHFS/boot1altV2.s -text
+BootHFS/boot1altV3 -text
+BootHFS/boot1altV3.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
+BootHFS/boot1h2 -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
@@ -52,7 +57,6 @@ BootSector/bin/efi64.com3 -text
 BootSector/bin/start32.com -text
 BootSector/bin/start32H.com2 -text
 BootSector/boot1.s -text
-BootSector/boot1f32.s -text
 BootSector/cbuild.sh -text
 BootSector/efi32.S -text
 BootSector/efi64.S -text
