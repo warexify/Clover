@@ -185,6 +185,9 @@ LzmaCustomDecompressLib/Sdk/lzma.txt -text
 LzmaCustomDecompressLib/UefiLzma.h -text
 /MPService.c -text
 /MdeModulePkg.dec -text
+MsgLog/MsgLog.c -text
+MsgLog/MsgLog.h -text
+MsgLog/MsgLog.inf -text
 OsxAcpiPlatformDxe/AcpiPlatform.c -text
 OsxAcpiPlatformDxe/AcpiPlatformDxe.inf -text
 OsxAcpiPlatformDxe/AcpiTable.h -text
