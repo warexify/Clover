@@ -97,8 +97,6 @@ CloverPackage/CloverV2/EFI/BOOT/font/device.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/print-cyr.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/print.png -text
 CloverPackage/CloverV2/EFI/BOOT/refit.conf -text
-CloverPackage/CloverV2/EFI/BOOT/refit.conf-black_green.conf -text
-CloverPackage/CloverV2/EFI/BOOT/refit.conf-metal.conf -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_64px.bmp -text
 CloverPackage/CloverV2/EFI/BOOT/themes/frame.png -text
