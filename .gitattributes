@@ -736,6 +736,8 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build_rule.txt -text
 /buildgcc.sh -text
 /cbuild.sh -text
+/cbuildClover.sh -text
+/cbuildrEFIt.sh -text
 /mingw-gcc-build.py -text
 rEFIt_UEFI/EfiLib/BdsConnect.c -text
 rEFIt_UEFI/EfiLib/BmLib.c -text
@@ -847,4 +849,6 @@ rEFIt_UEFI/refit/screen.c -text
 rEFIt_UEFI/refit/syslinux_mbr.h -text
 rEFIt_UEFI/refit64.inf -text
 /tools_def.txt -text
+/tools_def46.txt -text
+/tools_def47.txt -text
 /tools_def_2.txt -text
