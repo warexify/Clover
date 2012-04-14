@@ -70,9 +70,11 @@ BootSector/start32H2.S -text
 /Clover.fdf -text
 /CloverIa32.dsc -text
 CloverPackage/CREDITS -text
+CloverPackage/CloverV2/BootSectors/Description.txt -text
 CloverPackage/CloverV2/BootSectors/boot0 -text
 CloverPackage/CloverV2/BootSectors/boot0hfs -text
 CloverPackage/CloverV2/BootSectors/boot0md -text
+CloverPackage/CloverV2/BootSectors/boot1altV2 -text
 CloverPackage/CloverV2/BootSectors/boot1f32 -text
 CloverPackage/CloverV2/BootSectors/boot1f32alt -text
 CloverPackage/CloverV2/BootSectors/boot1h -text
