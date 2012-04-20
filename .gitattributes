@@ -271,10 +271,8 @@ CloverPackage/package/Resources-original/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Scripts/boot0/postinstall -text
 CloverPackage/package/Scripts/boot0hfs/postinstall -text
-CloverPackage/package/Scripts/boot0mdf32/postinstall -text
 CloverPackage/package/Scripts/boot32/postinstall -text
 CloverPackage/package/Scripts/boot64/postinstall -text
-CloverPackage/package/Scripts/noboot1/postinstall -text
 CloverPackage/package/Scripts/post/postinstall -text
 CloverPackage/package/Scripts/preinstall/preinstall -text
 CloverPackage/package/buildpkg.sh -text
