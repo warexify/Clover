@@ -266,8 +266,6 @@ CloverPackage/package/Resources-original/zh_CN.lproj/Description.html -text
 CloverPackage/package/Resources-original/zh_CN.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/zh_CN.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/zh_TW.lproj/Conclusion.rtfd/TXT.rtf -text
-CloverPackage/package/Resources-original/zh_TW.lproj/Description.html -text
-CloverPackage/package/Resources-original/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Scripts/boot0/postinstall -text
 CloverPackage/package/Scripts/boot0hfs/postinstall -text
