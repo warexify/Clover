@@ -560,6 +560,8 @@ OsxEfiLdr/Support.h -text
 OsxEfiLdr/TianoDecompress.c -text
 OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
+OsxFatBinaryDrv/OsxFatBinaryDrv.c -text
+OsxFatBinaryDrv/OsxFatBinaryDrv.inf -text
 OsxMmcDxe/ComponentName.c -text
 OsxMmcDxe/Diagnostics.c -text
 OsxMmcDxe/Mmc.c -text
@@ -588,6 +590,9 @@ OsxPciBusNoEnumerationDxe/PciPowerManagement.c -text
 OsxPciBusNoEnumerationDxe/PciPowerManagement.h -text
 OsxPciBusNoEnumerationDxe/PciRomTable.c -text
 OsxPciBusNoEnumerationDxe/PciRomTable.h -text
+OsxSmbiosDrv/SmbiosDxe.c -text
+OsxSmbiosDrv/SmbiosDxe.h -text
+OsxSmbiosDrv/SmbiosDxe.inf -text
 OsxSmbiosDxe/SmbiosDxe.c -text
 OsxSmbiosDxe/SmbiosDxe.h -text
 OsxSmbiosDxe/SmbiosDxe.inf -text
