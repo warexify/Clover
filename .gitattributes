@@ -918,8 +918,6 @@ rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/rEFIt.dsc -text
 rEFIt_UEFI/rEFIt64.dsc -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
-rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/slice.mode1v3 -text
-rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/slice.pbxuser -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
