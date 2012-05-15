@@ -936,6 +936,7 @@ rEFIt_UEFI/Platform/spd.h -text
 rEFIt_UEFI/Platform/stringTable.c -text
 rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/build.sh -text
+rEFIt_UEFI/build32.sh -text
 rEFIt_UEFI/build64.sh -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/UsbMass.h -text
