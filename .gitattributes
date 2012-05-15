@@ -263,8 +263,8 @@ CloverPackage/CloverV2/themespkg/metal/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_optical.icns -text
-CloverPackage/CloverV2/themespkg/metal/logo-org.png -text
 CloverPackage/CloverV2/themespkg/metal/logo.png -text
+CloverPackage/CloverV2/themespkg/metal/logo_metal4.png -text
 CloverPackage/CloverV2/themespkg/preinstall-black_green -text
 CloverPackage/CloverV2/themespkg/preinstall-buttons -text
 CloverPackage/CloverV2/themespkg/preinstall-hellfire -text
