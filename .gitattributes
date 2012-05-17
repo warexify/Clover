@@ -871,6 +871,7 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /cbuild.sh -text
 /cbuildClover.sh -text
 /cbuildrEFIt.sh -text
+/ebuild.sh -text
 /mingw-gcc-build.py -text
 rEFIt_UEFI/EfiLib/BdsConnect.c -text
 rEFIt_UEFI/EfiLib/BmLib.c -text
