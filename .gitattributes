@@ -68,6 +68,8 @@ BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
 /Clover.fdf -text
+/Clover64MCP.dsc -text
+/Clover64MCP.fdf -text
 /CloverIa32.dsc -text
 CloverPackage/CREDITS -text
 CloverPackage/CloverV2/BootSectors/Description.txt -text
@@ -734,6 +736,7 @@ SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
 SataControllerDxe/SataControllerDxe.inf -text
+/Scsi.patch -text
 /Thunk16.S -text
 UefiCpuPkg/CpuDxe/CpuDxe.c -text
 UefiCpuPkg/CpuDxe/CpuDxe.c.orig -text
