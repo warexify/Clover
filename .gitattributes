@@ -880,6 +880,8 @@ rEFIt_UEFI/EfiLib/DevicePath.c -text
 rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
+rEFIt_UEFI/Platform/915resolution.c -text
+rEFIt_UEFI/Platform/915resolution.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
