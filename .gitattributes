@@ -880,12 +880,11 @@ rEFIt_UEFI/EfiLib/DevicePath.c -text
 rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
-rEFIt_UEFI/Platform/915resolution.c -text
-rEFIt_UEFI/Platform/915resolution.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
 rEFIt_UEFI/Platform/AppleEfi.h -text
+rEFIt_UEFI/Platform/AtomBios.h -text
 rEFIt_UEFI/Platform/BiosVideo.h -text
 rEFIt_UEFI/Platform/Bmp.h -text
 rEFIt_UEFI/Platform/BootLog.c -text
@@ -902,6 +901,8 @@ rEFIt_UEFI/Platform/LegacyBiosThunk.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.h -text
 rEFIt_UEFI/Platform/LegacyBoot.c -text
 rEFIt_UEFI/Platform/Platform.h -text
+rEFIt_UEFI/Platform/Resolutions.c -text
+rEFIt_UEFI/Platform/Resolutions.h -text
 rEFIt_UEFI/Platform/Settings.c -text
 rEFIt_UEFI/Platform/SmBios.h -text
 rEFIt_UEFI/Platform/StateGenerator.c -text
