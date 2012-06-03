@@ -736,7 +736,6 @@ SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
 SataControllerDxe/SataControllerDxe.inf -text
-/Scsi.patch -text
 /Thunk16.S -text
 UefiCpuPkg/CpuDxe/CpuDxe.c -text
 UefiCpuPkg/CpuDxe/CpuDxe.c.orig -text
