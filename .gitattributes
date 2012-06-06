@@ -882,7 +882,6 @@ rEFIt_UEFI/EfiLib/PiBootMode.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
-rEFIt_UEFI/Platform/Apic.c -text
 rEFIt_UEFI/Platform/AppleEfi.h -text
 rEFIt_UEFI/Platform/AtomBios.h -text
 rEFIt_UEFI/Platform/BiosVideo.h -text
