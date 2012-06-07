@@ -118,6 +118,7 @@ CloverPackage/CloverV2/EFI/config-sample.plist -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
 CloverPackage/CloverV2/config.plist-FullSample/config.plist -text
+CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
 CloverPackage/CloverV2/doc/boot1f32-install.sh -text
@@ -880,6 +881,7 @@ rEFIt_UEFI/EfiLib/DevicePath.c -text
 rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
+rEFIt_UEFI/Platform/AcpiAml.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
