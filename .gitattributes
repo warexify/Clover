@@ -119,6 +119,7 @@ CloverPackage/CloverV2/config.plist-FullSample/config.plist -text
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
+CloverPackage/CloverV2/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
 CloverPackage/CloverV2/doc/boot1f32-install.sh -text
 CloverPackage/CloverV2/etc/rc.local -text
 CloverPackage/CloverV2/etc/rc.shutdown.local -text
