@@ -891,6 +891,7 @@ rEFIt_UEFI/Platform/DT_Add.h -text
 rEFIt_UEFI/Platform/DT_pseudo-C.h -text
 rEFIt_UEFI/Platform/DataHubCpu.c -text
 rEFIt_UEFI/Platform/DataHubRecords.h -text
+rEFIt_UEFI/Platform/DbgTime.c -text
 rEFIt_UEFI/Platform/Display.h -text
 rEFIt_UEFI/Platform/DriverVar.txt -text
 rEFIt_UEFI/Platform/Events.c -text
