@@ -120,6 +120,7 @@ CloverPackage/CloverV2/EFI/BOOT/themes/logo_main.png -text
 CloverPackage/CloverV2/EFI/BOOT/themes/logo_metal.png -text
 CloverPackage/CloverV2/EFI/OEM/System[!!-~]Product[!!-~]Name/config.plist -text
 CloverPackage/CloverV2/EFI/config-org.plist -text
+CloverPackage/CloverV2/EFI/drivers64UEFI/OsxFatBinaryDrv-64.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
 CloverPackage/CloverV2/config.plist-FullSample/config.plist -text
