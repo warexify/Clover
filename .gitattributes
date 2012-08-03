@@ -932,6 +932,8 @@ rEFIt_UEFI/Platform/gma.h -text
 rEFIt_UEFI/Platform/guid.c -text
 rEFIt_UEFI/Platform/kernel_patcher.c -text
 rEFIt_UEFI/Platform/kernel_patcher.h -text
+rEFIt_UEFI/Platform/kext_inject.c -text
+rEFIt_UEFI/Platform/kext_inject.h -text
 rEFIt_UEFI/Platform/kext_patcher.c -text
 rEFIt_UEFI/Platform/loader.h -text
 rEFIt_UEFI/Platform/memvendors.h -text
