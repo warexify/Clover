@@ -407,6 +407,11 @@ CloverPackage/package/buildpkg.sh -text
 /CloverPkg.dec -text
 /CloverX64.dsc -text
 /CloverX64.fdf -text
+ConSplitterDxe/ComponentName.c -text
+ConSplitterDxe/ConSplitter.c -text
+ConSplitterDxe/ConSplitter.h -text
+ConSplitterDxe/ConSplitterDxe.inf -text
+ConSplitterDxe/ConSplitterGraphics.c -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
