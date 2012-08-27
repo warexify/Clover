@@ -562,6 +562,12 @@ OsxAptioFixDrv/FlatDevTree/device_tree.c -text
 OsxAptioFixDrv/FlatDevTree/device_tree.h -text
 OsxAptioFixDrv/Lib.c -text
 OsxAptioFixDrv/Lib.h -text
+OsxAptioFixDrv/Mach-O/Mach-O.c -text
+OsxAptioFixDrv/Mach-O/Mach-O.h -text
+OsxAptioFixDrv/Mach-O/UefiLoader.h -text
+OsxAptioFixDrv/Mach-O/loader.h -text
+OsxAptioFixDrv/NVRAMDebug.c -text
+OsxAptioFixDrv/NVRAMDebug.h -text
 OsxAptioFixDrv/OsxAptioFixDrv.c -text
 OsxAptioFixDrv/OsxAptioFixDrv.inf -text
 OsxAptioFixDrv/VMem.c -text
