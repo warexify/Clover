@@ -702,6 +702,12 @@ OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
 OsxFatBinaryDrv/OsxFatBinaryDrv.c -text
 OsxFatBinaryDrv/OsxFatBinaryDrv.inf -text
+OsxLowMemFixDrv/Lib.c -text
+OsxLowMemFixDrv/Lib.h -text
+OsxLowMemFixDrv/NVRAMDebug.c -text
+OsxLowMemFixDrv/NVRAMDebug.h -text
+OsxLowMemFixDrv/OsxLowMemFixDrv.c -text
+OsxLowMemFixDrv/OsxLowMemFixDrv.inf -text
 OsxMmcDxe/ComponentName.c -text
 OsxMmcDxe/Diagnostics.c -text
 OsxMmcDxe/Mmc.c -text
