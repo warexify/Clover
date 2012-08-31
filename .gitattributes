@@ -156,7 +156,13 @@ CloverPackage/CloverV2/EFI/OEM/System[!!-~]Product[!!-~]Name/config.plist -text
 CloverPackage/CloverV2/EFI/config-org.plist -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
-CloverPackage/CloverV2/config.plist-FullSample/config.plist -text
+CloverPackage/CloverV2/config.plist-FullSample/ACPI.png -text
+CloverPackage/CloverV2/config.plist-FullSample/CPU.png -text
+CloverPackage/CloverV2/config.plist-FullSample/Graphics.png -text
+CloverPackage/CloverV2/config.plist-FullSample/KernelAndKextPatches.png -text
+CloverPackage/CloverV2/config.plist-FullSample/PCI.png -text
+CloverPackage/CloverV2/config.plist-FullSample/SMBIOS.png -text
+CloverPackage/CloverV2/config.plist-FullSample/SystemParameters.png -text
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
@@ -373,6 +379,7 @@ CloverPackage/CloverV2/themespkg/wooden/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/vol_optical.icns -text
+CloverPackage/CloverV2/themespkg/wooden/logo_matreshka.png -text
 CloverPackage/CloverV2/themespkg/wooden/logo_wooden.png -text
 CloverPackage/Makefile -text
 CloverPackage/makepkg -text
