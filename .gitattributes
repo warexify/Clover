@@ -187,6 +187,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_external.icns -text
@@ -925,6 +926,7 @@ VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build_rule.txt -text
 /buildgcc.sh -text
 /cbuild.sh -text
+/config-sample.plist -text
 /ebuild.sh -text
 rEFIt_UEFI/EfiLib/BdsConnect.c -text
 rEFIt_UEFI/EfiLib/BmLib.c -text
