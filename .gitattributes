@@ -403,8 +403,8 @@ CloverPackage/package/Resources-original/zh_TW.lproj/Description.html -text
 CloverPackage/package/Resources-original/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Scripts/boot0/postinstall -text
+CloverPackage/package/Scripts/boot0EFI/postinstall -text
 CloverPackage/package/Scripts/boot0hfs/postinstall -text
-CloverPackage/package/Scripts/boot0hfsEFI/postinstall -text
 CloverPackage/package/Scripts/boot1UEFI/postinstall -text
 CloverPackage/package/Scripts/boot1no/postinstall -text
 CloverPackage/package/Scripts/boot32/postinstall -text
