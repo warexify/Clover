@@ -161,6 +161,13 @@ CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
 CloverPackage/CloverV2/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
 CloverPackage/CloverV2/doc/boot1f32-install.sh -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/ACPI.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/CPU.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/Graphics.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/KernelAndKextPatches.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/PCI.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/SMBIOS.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/SystemParameters.png -text
 CloverPackage/CloverV2/etc/rc.local -text
 CloverPackage/CloverV2/etc/rc.shutdown.local -text
 CloverPackage/CloverV2/themespkg/black_green/Selection_big.png -text
