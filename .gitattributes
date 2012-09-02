@@ -156,13 +156,6 @@ CloverPackage/CloverV2/EFI/OEM/System[!!-~]Product[!!-~]Name/config.plist -text
 CloverPackage/CloverV2/EFI/config-org.plist -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
-CloverPackage/CloverV2/config.plist-FullSample/ACPI.png -text
-CloverPackage/CloverV2/config.plist-FullSample/CPU.png -text
-CloverPackage/CloverV2/config.plist-FullSample/Graphics.png -text
-CloverPackage/CloverV2/config.plist-FullSample/KernelAndKextPatches.png -text
-CloverPackage/CloverV2/config.plist-FullSample/PCI.png -text
-CloverPackage/CloverV2/config.plist-FullSample/SMBIOS.png -text
-CloverPackage/CloverV2/config.plist-FullSample/SystemParameters.png -text
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
@@ -395,6 +388,10 @@ CloverPackage/package/Resources-original/es.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/es.lproj/Description.html -text
 CloverPackage/package/Resources-original/es.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/es.lproj/Welcome.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/ge.lproj/Conclusion.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/ge.lproj/Description.html -text
+CloverPackage/package/Resources-original/ge.lproj/Localizable.strings -text
+CloverPackage/package/Resources-original/ge.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/pt.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/pt.lproj/Description.html -text
 CloverPackage/package/Resources-original/pt.lproj/Localizable.strings -text
