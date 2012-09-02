@@ -182,6 +182,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_leo.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns -text
@@ -394,6 +395,10 @@ CloverPackage/package/Resources-original/es.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/es.lproj/Description.html -text
 CloverPackage/package/Resources-original/es.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/es.lproj/Welcome.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/pt.lproj/Conclusion.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/pt.lproj/Description.html -text
+CloverPackage/package/Resources-original/pt.lproj/Localizable.strings -text
+CloverPackage/package/Resources-original/pt.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/ru.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/ru.lproj/Description.html -text
 CloverPackage/package/Resources-original/ru.lproj/Localizable.strings -text
