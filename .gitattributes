@@ -395,6 +395,11 @@ CloverPackage/package/Resources-original/es.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/es.lproj/Description.html -text
 CloverPackage/package/Resources-original/es.lproj/Localizable.strings -text
 CloverPackage/package/Resources-original/es.lproj/Welcome.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/fr.lproj/Description.html -text
+CloverPackage/package/Resources-original/fr.lproj/Localizable.strings -text svneol=unset#unset
+CloverPackage/package/Resources-original/fr.lproj/Welcome.rtfd/Conclusion.rtfd/TXT.rtf -text
+CloverPackage/package/Resources-original/fr.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/ge.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/ge.lproj/Description.html -text
 CloverPackage/package/Resources-original/ge.lproj/Localizable.strings -text
