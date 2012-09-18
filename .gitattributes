@@ -480,6 +480,7 @@ GenericBdsLib/InternalBdsLib.h -text
 GenericBdsLib/Performance.c -text
 GenericBdsLib/String.c -text
 GenericBdsLib/String.h -text
+/GetVariables.bat -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/EfiFlashMap.h -text
@@ -812,6 +813,7 @@ PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
+/PostBuild.bat -text
 /Readme.rtf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
