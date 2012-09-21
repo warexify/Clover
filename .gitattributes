@@ -303,8 +303,9 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_openbsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_unknown.icns -text
+CloverPackage/CloverV2/themespkg/metal/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_win.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/osx.icns -text
+CloverPackage/CloverV2/themespkg/metal/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/tool_part.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/tool_rescue.icns -text
@@ -322,6 +323,7 @@ CloverPackage/CloverV2/themespkg/preinstall-hellfire -text
 CloverPackage/CloverV2/themespkg/preinstall-metal -text
 CloverPackage/CloverV2/themespkg/preinstall-simple_gray -text
 CloverPackage/CloverV2/themespkg/preinstall-wooden -text
+CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/CloverV2/themespkg/refit.conf-black_green -text
 CloverPackage/CloverV2/themespkg/refit.conf-buttons -text
 CloverPackage/CloverV2/themespkg/refit.conf-hellfire -text
