@@ -482,7 +482,6 @@ GenericBdsLib/InternalBdsLib.h -text
 GenericBdsLib/Performance.c -text
 GenericBdsLib/String.c -text
 GenericBdsLib/String.h -text
-/GetVariables.bat -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/EfiFlashMap.h -text
@@ -815,7 +814,6 @@ PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
-/PostBuild.bat -text
 /Readme.rtf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
@@ -954,6 +952,7 @@ VBoxPeCoffLib/PeImage.h -text
 VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 /build_rule.txt -text
 /buildgcc.sh -text
+/cbuild.bat -text
 /cbuild.sh -text
 /config-sample.plist -text
 /ebuild.sh -text
@@ -1091,4 +1090,3 @@ rEFIt_UEFI/refit/screen.c -text
 rEFIt_UEFI/refit/syslinux_mbr.h -text
 rEFIt_UEFI/refit64.inf -text
 /tools_def.txt -text
-/wbuild.bat -text
