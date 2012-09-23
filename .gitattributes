@@ -156,6 +156,7 @@ CloverPackage/CloverV2/EFI/OEM/System[!!-~]Product[!!-~]Name/config.plist -text
 CloverPackage/CloverV2/EFI/config-org.plist -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
+CloverPackage/CloverV2/EFI/tools/Shell64U.efi -text
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/doc/Installation.txt -text
