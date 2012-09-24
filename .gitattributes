@@ -190,6 +190,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_external.icns -text
@@ -225,6 +226,7 @@ CloverPackage/CloverV2/themespkg/buttons/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/osx.icns -text
+CloverPackage/CloverV2/themespkg/buttons/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/tool_part.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/tool_rescue.png -text
@@ -264,6 +266,7 @@ CloverPackage/CloverV2/themespkg/hellfire/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/os_tiger1.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/hellfire/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/tool_shell.png -text
@@ -349,6 +352,7 @@ CloverPackage/CloverV2/themespkg/simple_gray/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/simple_gray/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/tool_part.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/tool_rescue.icns -text
@@ -377,6 +381,7 @@ CloverPackage/CloverV2/themespkg/wooden/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/wooden/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/wooden/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/wooden/icons/vol_clover.icns -text
