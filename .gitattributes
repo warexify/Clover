@@ -988,6 +988,7 @@ rEFIt_UEFI/Platform/LegacyBiosThunk.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.h -text
 rEFIt_UEFI/Platform/LegacyBoot.c -text
 rEFIt_UEFI/Platform/Platform.h -text
+rEFIt_UEFI/Platform/Pointer.c -text
 rEFIt_UEFI/Platform/Resolutions.c -text
 rEFIt_UEFI/Platform/Resolutions.h -text
 rEFIt_UEFI/Platform/Settings.c -text
