@@ -139,6 +139,7 @@ CloverPackage/CloverV2/EFI/BOOT/font/WoB_LucidaConsole_10W.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/WoB_Monaco_10W.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/WoB_PTMono_10W.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/WoB_PTMono_10W_NA.png -text
+CloverPackage/CloverV2/EFI/BOOT/font/WoB_PTMono_10W_PL.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/WoB_UbuntuMonoBold_8W.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/WoB_mplus2mMedium_9W.png -text
 CloverPackage/CloverV2/EFI/BOOT/font/dark-wide.png -text
