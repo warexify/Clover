@@ -395,6 +395,7 @@ CloverPackage/CloverV2/themespkg/wooden/logo_wooden.png -text
 CloverPackage/Makefile -text
 CloverPackage/makepkg -text
 CloverPackage/package/Distribution-original -text
+CloverPackage/package/Icon.zip -text
 CloverPackage/package/Resources-original/background.tiff -text
 CloverPackage/package/Resources-original/en.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources-original/en.lproj/Description.html -text
