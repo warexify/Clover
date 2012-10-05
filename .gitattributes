@@ -810,6 +810,10 @@ PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
+PcatRealTimeClockRuntimeDxe/PcRtc.c -text
+PcatRealTimeClockRuntimeDxe/PcRtc.h -text
+PcatRealTimeClockRuntimeDxe/PcRtcEntry.c -text
+PcatRealTimeClockRuntimeDxe/PcatRealTimeClockRuntimeDxe.inf -text
 PciBusDxe/ComponentName.c -text
 PciBusDxe/ComponentName.h -text
 PciBusDxe/PciBus.c -text
@@ -842,6 +846,7 @@ PciBusDxe/PciRomTable.h -text
 PciRootBridgeDxe/DeviceIo.c -text
 PciRootBridgeDxe/DeviceIo.h -text
 PciRootBridgeDxe/Ia32/PcatIo.c -text
+PciRootBridgeDxe/PcatIo.c -text
 PciRootBridgeDxe/PcatPciRootBridge.c -text
 PciRootBridgeDxe/PcatPciRootBridge.h -text
 PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
@@ -861,6 +866,16 @@ SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
 SataControllerDxe/SataControllerDxe.inf -text
 /Thunk16.S -text
+UefiCpuPkg/CpuDxe/CpuDxe.c -text
+UefiCpuPkg/CpuDxe/CpuDxe.h -text
+UefiCpuPkg/CpuDxe/CpuDxe.inf -text
+UefiCpuPkg/CpuDxe/CpuGdt.c -text
+UefiCpuPkg/CpuDxe/Ia32/CpuAsm.S -text
+UefiCpuPkg/CpuDxe/Ia32/CpuAsm.asm -text
+UefiCpuPkg/CpuDxe/Ia32/IvtAsm.S -text
+UefiCpuPkg/CpuDxe/Ia32/IvtAsm.asm -text
+UefiCpuPkg/CpuDxe/X64/CpuAsm.S -text
+UefiCpuPkg/CpuDxe/X64/CpuAsm.asm -text
 UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.c -text
 UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.h -text
 UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.inf -text
