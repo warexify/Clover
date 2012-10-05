@@ -849,6 +849,12 @@ PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
+Ps2MouseDxe/CommPs2.c -text
+Ps2MouseDxe/CommPs2.h -text
+Ps2MouseDxe/ComponentName.c -text
+Ps2MouseDxe/Ps2Mouse.c -text
+Ps2MouseDxe/Ps2Mouse.h -text
+Ps2MouseDxe/Ps2MouseDxe.inf -text
 /Readme.rtf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
