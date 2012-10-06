@@ -806,6 +806,9 @@ PartitionDxe/Apple.c -text
 PartitionDxe/ComponentName.c -text
 PartitionDxe/ElTorito.c -text
 PartitionDxe/Gpt.c -text
+PartitionDxe/IA32/llshl.asm -text
+PartitionDxe/IA32/ulldiv.asm -text
+PartitionDxe/IA32/ullshr.asm -text
 PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
@@ -940,6 +943,9 @@ VBoxAppleSim/SmBios.h -text
 VBoxAppleSim/VBoxAppleSim.c -text
 VBoxAppleSim/VBoxAppleSim.inf -text
 VBoxAppleSim/llmul.c -text
+VBoxFsDxe/IA32/llshl.asm -text
+VBoxFsDxe/IA32/ulldiv.asm -text
+VBoxFsDxe/IA32/ullshr.asm -text
 VBoxFsDxe/OverrideFunctions-kabyl.edk2.c.include -text
 VBoxFsDxe/VBoxExt2.inf -text
 VBoxFsDxe/VBoxFsDxe.c -text
