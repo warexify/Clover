@@ -813,6 +813,9 @@ PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
+Patches_for_EDK2/UefiBaseType.h -text
+Patches_for_EDK2/X86FxSave.c -text
+Patches_for_EDK2/clover.log -text
 PcatRealTimeClockRuntimeDxe/PcRtc.c -text
 PcatRealTimeClockRuntimeDxe/PcRtc.h -text
 PcatRealTimeClockRuntimeDxe/PcRtcEntry.c -text
