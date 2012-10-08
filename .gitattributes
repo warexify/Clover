@@ -1016,6 +1016,11 @@ rEFIt_UEFI/EfiLib/DevicePath.c -text
 rEFIt_UEFI/EfiLib/GenericBdsLib.h -text
 rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/EfiLib/PiBootMode.h -text
+rEFIt_UEFI/IA32/llmul.asm -text
+rEFIt_UEFI/IA32/llshl.asm -text
+rEFIt_UEFI/IA32/ulldiv.asm -text
+rEFIt_UEFI/IA32/ullrem.asm -text
+rEFIt_UEFI/IA32/ullshr.asm -text
 rEFIt_UEFI/Platform/AcpiAml.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
