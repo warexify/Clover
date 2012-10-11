@@ -94,6 +94,7 @@ BootSector/bin/start32.com -text
 BootSector/bin/start32H.com2 -text
 BootSector/boot1.s -text
 BootSector/cbuild.sh -text
+BootSector/cdboot.s -text
 BootSector/efi32.S -text
 BootSector/efi64.S -text
 BootSector/fix-embedded-paths -text
@@ -119,6 +120,7 @@ CloverPackage/CloverV2/BootSectors/boot1f32.bin -text
 CloverPackage/CloverV2/BootSectors/boot1f32alt -text
 CloverPackage/CloverV2/BootSectors/boot1h -text
 CloverPackage/CloverV2/BootSectors/boot1h2 -text
+CloverPackage/CloverV2/BootSectors/cdboot -text
 CloverPackage/CloverV2/BootSectors/fdisk440 -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
