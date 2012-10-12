@@ -1032,6 +1032,7 @@ rEFIt_UEFI/Platform/AtomBios.h -text
 rEFIt_UEFI/Platform/BiosVideo.h -text
 rEFIt_UEFI/Platform/Bmp.h -text
 rEFIt_UEFI/Platform/BootLog.c -text
+rEFIt_UEFI/Platform/BootOptions.c -text
 rEFIt_UEFI/Platform/Console.c -text
 rEFIt_UEFI/Platform/DT_Add.c -text
 rEFIt_UEFI/Platform/DT_Add.h -text
