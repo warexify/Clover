@@ -308,6 +308,7 @@ CloverPackage/CloverV2/themespkg/black_green/Selection_big.png -text
 CloverPackage/CloverV2/themespkg/black_green/Selection_small.png -text
 CloverPackage/CloverV2/themespkg/black_green/bg_block_192px.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/black_green/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_reset.png -text
@@ -343,6 +344,7 @@ CloverPackage/CloverV2/themespkg/buttons/icons/cd_lin.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/cd_mac.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/cd_win.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/buttons/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_reset.png -text
@@ -384,6 +386,7 @@ CloverPackage/CloverV2/themespkg/hellfire/frame-144x144.png -text
 CloverPackage/CloverV2/themespkg/hellfire/frame-64x64.png -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/cd.icns -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/hellfire/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/hellfire/icons/func_reset.png -text
@@ -427,6 +430,7 @@ CloverPackage/CloverV2/themespkg/metal/icons/cd_mac.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/cd_win.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/frame.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_reset.png -text
@@ -496,6 +500,7 @@ CloverPackage/CloverV2/themespkg/simple_gray/icons/apple.png -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/boot_win.icns -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/simple_gray/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/simple_gray/icons/func_reset.png -text
@@ -526,6 +531,7 @@ CloverPackage/CloverV2/themespkg/simple_gray/selection_small.png -text
 CloverPackage/CloverV2/themespkg/wooden/frame-144x144.png -text
 CloverPackage/CloverV2/themespkg/wooden/frame-64x64.png -text
 CloverPackage/CloverV2/themespkg/wooden/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/wooden/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/wooden/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/wooden/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/wooden/icons/func_reset.png -text
@@ -1282,9 +1288,6 @@ rEFIt_UEFI/refit/lib.c -text
 rEFIt_UEFI/refit/lib.h -text
 rEFIt_UEFI/refit/main.c -text
 rEFIt_UEFI/refit/menu.c -text
-rEFIt_UEFI/refit/refit.mak -text
-rEFIt_UEFI/refit/refit.mkefi -text
 rEFIt_UEFI/refit/screen.c -text
-rEFIt_UEFI/refit/syslinux_mbr.h -text
 rEFIt_UEFI/refit64.inf -text
 /tools_def.txt -text
