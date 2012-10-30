@@ -339,10 +339,6 @@ CloverPackage/CloverV2/themespkg/black_green/logo_trans.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/apple.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/boot_win.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/cd.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/cd_lin.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/cd_mac.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/cd_win.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_about.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/func_help.png -text
@@ -353,7 +349,6 @@ CloverPackage/CloverV2/themespkg/buttons/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_ecomstation.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_freebsd.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_freedos.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/os_hwtest.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/os_linux.icns -text
@@ -368,9 +363,6 @@ CloverPackage/CloverV2/themespkg/buttons/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/osx.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/buttons/icons/tool_part.icns -text
-CloverPackage/CloverV2/themespkg/buttons/icons/tool_rescue.png -text
-CloverPackage/CloverV2/themespkg/buttons/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/buttons/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/buttons/icons/vol_firewire.icns -text
@@ -424,10 +416,6 @@ CloverPackage/CloverV2/themespkg/metal/icons/apple.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/arrow.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/boot_win.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/cd.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/cd_lin.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/cd_mac.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/cd_win.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/frame.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_about.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text
@@ -440,11 +428,9 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_ecomstation.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_freebsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_freedos.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_hwtest.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_linux.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_linux.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_netbsd.icns -text
@@ -455,11 +441,7 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/pointer-black.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/tool_part.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/tool_rescue.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_external.icns -text
