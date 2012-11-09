@@ -1185,6 +1185,7 @@ rEFIt_UEFI/Platform/LegacyBoot.c -text
 rEFIt_UEFI/Platform/LoaderUefi.h -text
 rEFIt_UEFI/Platform/Nvram.c -text
 rEFIt_UEFI/Platform/Platform.h -text
+rEFIt_UEFI/Platform/PlatformDriverOverride.c -text
 rEFIt_UEFI/Platform/Pointer.c -text
 rEFIt_UEFI/Platform/Resolutions.c -text
 rEFIt_UEFI/Platform/Resolutions.h -text
