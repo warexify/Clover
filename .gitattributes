@@ -672,6 +672,7 @@ Include/Guid/PciExpressBaseAddress.h -text
 Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandards/PeImage.h -text
 Include/IndustryStandards/Smbios.h -text
+Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/MsgLog.h -text
@@ -721,6 +722,8 @@ LegacyBios/VideoDxe/VesaBiosExtensions.h -text
 LegacyBios/VideoDxe/VideoDxe.inf -text
 LegacyBios/X64/InterruptTable.S -text
 LegacyBios/X64/InterruptTable.asm -text
+Library/MemLogLibDefault/MemLogLib.c -text
+Library/MemLogLibDefault/MemLogLibDefault.inf -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
