@@ -658,6 +658,11 @@ GenericBdsLib/InternalBdsLib.h -text
 GenericBdsLib/Performance.c -text
 GenericBdsLib/String.c -text
 GenericBdsLib/String.h -text
+GraphicsConsoleDxe/ComponentName.c -text
+GraphicsConsoleDxe/GraphicsConsole.c -text
+GraphicsConsoleDxe/GraphicsConsole.h -text
+GraphicsConsoleDxe/GraphicsConsoleDxe.inf -text
+GraphicsConsoleDxe/LaffStd.c -text
 HFSPlus/HFSPlus.inf -text
 HFSPlus/ReadMe.rtf -text
 Include/EfiFlashMap.h -text
