@@ -600,7 +600,6 @@ CloverPackage/package/Scripts/preinstall/preinstall -text
 CloverPackage/package/buildpkg.sh -text
 /CloverPkg.dec -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
-CloverX/CloverX/CloverX.1 -text
 /CloverX64.dsc -text
 /CloverX64.fdf -text
 ConSplitterDxe/ComponentName.c -text
