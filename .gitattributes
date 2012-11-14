@@ -740,6 +740,7 @@ Include/Guid/PciExpressBaseAddress.h -text
 Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/Smbios.h -text
+Include/IndustryStandard/VesaBiosExtensions.h -text
 Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
 Include/Protocol/FSInjectProtocol.h -text
