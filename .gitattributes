@@ -1233,8 +1233,6 @@ VBoxFsDxe/test/lsroot.c -text
 /cbuild.sh -text
 /config-sample.plist -text
 /ebuild.sh -text
-rEFIt_UEFI/EfiLib/BmLib.c -text
-rEFIt_UEFI/EfiLib/InternalBdsLib.h -text
 rEFIt_UEFI/IA32/llmul.asm -text
 rEFIt_UEFI/IA32/llshl.asm -text
 rEFIt_UEFI/IA32/ulldiv.asm -text
@@ -1308,6 +1306,7 @@ rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/egemb_back_selected_small.h -text
 rEFIt_UEFI/include/egemb_refit_banner.h -text
 rEFIt_UEFI/include/syslinux_mbr.h -text
+rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
 rEFIt_UEFI/libeg/egemb_font.h -text
 rEFIt_UEFI/libeg/image.c -text
