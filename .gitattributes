@@ -1233,12 +1233,10 @@ rEFIt_UEFI/IA32/llshl.asm -text
 rEFIt_UEFI/IA32/ulldiv.asm -text
 rEFIt_UEFI/IA32/ullrem.asm -text
 rEFIt_UEFI/IA32/ullshr.asm -text
-rEFIt_UEFI/Platform/AcpiAml.h -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
 rEFIt_UEFI/Platform/AtomBios.h -text
-rEFIt_UEFI/Platform/Bmp.h -text
 rEFIt_UEFI/Platform/BootLog.c -text
 rEFIt_UEFI/Platform/BootOptions.c -text
 rEFIt_UEFI/Platform/Console.c -text
@@ -1260,7 +1258,6 @@ rEFIt_UEFI/Platform/Pointer.c -text
 rEFIt_UEFI/Platform/Resolutions.c -text
 rEFIt_UEFI/Platform/Resolutions.h -text
 rEFIt_UEFI/Platform/Settings.c -text
-rEFIt_UEFI/Platform/SmBios.h -text
 rEFIt_UEFI/Platform/StateGenerator.c -text
 rEFIt_UEFI/Platform/StateGenerator.h -text
 rEFIt_UEFI/Platform/UsbMass.h -text
@@ -1268,7 +1265,6 @@ rEFIt_UEFI/Platform/UsbMassBoot.h -text
 rEFIt_UEFI/Platform/UsbMassImpl.h -text
 rEFIt_UEFI/Platform/ati.c -text
 rEFIt_UEFI/Platform/ati.h -text
-rEFIt_UEFI/Platform/ati_old.c -text
 rEFIt_UEFI/Platform/ati_reg.h -text
 rEFIt_UEFI/Platform/b64cdecode.c -text
 rEFIt_UEFI/Platform/b64cdecode.h -text
