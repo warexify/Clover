@@ -702,6 +702,7 @@ Include/IndustryStandard/VesaBiosExtensions.h -text
 Include/Library/GenericBdsLib.h -text
 Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
+Include/Library/UefiHiiServicesLib.h -text
 Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Protocol/FSInjectProtocol.h -text
@@ -995,6 +996,7 @@ Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
 Patches_for_EDK2/Thunk16.S -text
 Patches_for_EDK2/UefiBaseType.h -text
+Patches_for_EDK2/UefiHiiServicesLib.c -text
 Patches_for_EDK2/UsbHcMem.c -text
 Patches_for_EDK2/X86FxSave.c -text
 Patches_for_EDK2/build_rule.txt -text
