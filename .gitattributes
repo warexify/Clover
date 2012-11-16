@@ -780,6 +780,8 @@ Library/OsxBdsPlatformLib/BdsPlatform.c -text
 Library/OsxBdsPlatformLib/BdsPlatform.h -text
 Library/OsxBdsPlatformLib/PlatformBds.inf -text
 Library/OsxBdsPlatformLib/PlatformData.c -text
+Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
+Library/UefiHiiServicesLib/UefiHiiServicesLib.inf -text
 Library/VBoxPeCoffLib/BasePeCoff.c -text
 Library/VBoxPeCoffLib/BasePeCoffLibInternals.h -text
 Library/VBoxPeCoffLib/PeCoffLib.h -text
