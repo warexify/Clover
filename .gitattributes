@@ -696,12 +696,12 @@ Include/Guid/LdrMemoryDescriptor.h -text
 Include/Guid/PciExpressBaseAddress.h -text
 Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandard/PeImage.h -text
+Include/IndustryStandard/PiBootMode.h -text
 Include/IndustryStandard/Smbios.h -text
 Include/IndustryStandard/VesaBiosExtensions.h -text
 Include/Library/GenericBdsLib.h -text
 Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
-Include/Library/PiBootMode.h -text
 Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Protocol/FSInjectProtocol.h -text
