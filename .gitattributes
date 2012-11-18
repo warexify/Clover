@@ -738,9 +738,6 @@ LegacyBios/Platform/LegacyRegion.h -text
 LegacyBios/Region2Dxe/LegacyRegion2.c -text
 LegacyBios/Region2Dxe/LegacyRegion2.h -text
 LegacyBios/Region2Dxe/LegacyRegion2Dxe.inf -text
-LegacyBios/RegionDxe/LegacyRegion2.c -text
-LegacyBios/RegionDxe/LegacyRegion2.h -text
-LegacyBios/RegionDxe/LegacyRegion2Dxe.inf -text
 LegacyBios/Thunk/Thunk.c -text
 LegacyBios/VideoDxe/BiosVideo.c -text
 LegacyBios/VideoDxe/BiosVideo.h -text
