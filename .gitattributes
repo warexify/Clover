@@ -777,8 +777,14 @@ Library/VBoxPeCoffLib/PeCoffLib.h -text
 Library/VBoxPeCoffLib/PeCoffLoaderEx.c -text
 Library/VBoxPeCoffLib/PeImage.h -text
 Library/VBoxPeCoffLib/VBoxPeCoffLib.inf -text
+Library/VideoBiosPatchLib/915resolution.c -text
+Library/VideoBiosPatchLib/915resolution.h -text
+Library/VideoBiosPatchLib/Resolution.c -text
 Library/VideoBiosPatchLib/VideoBiosPatchLib.c -text
 Library/VideoBiosPatchLib/VideoBiosPatchLib.inf -text
+Library/VideoBiosPatchLib/edid.c -text
+Library/VideoBiosPatchLib/edid.h -text
+Library/VideoBiosPatchLib/shortatombios.h -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
