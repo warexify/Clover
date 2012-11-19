@@ -683,6 +683,7 @@ Include/Guid/FlashMapHob.h -text
 Include/Guid/LdrMemoryDescriptor.h -text
 Include/Guid/PciExpressBaseAddress.h -text
 Include/Guid/PciOptionRomTable.h -text
+Include/IndustryStandard/AtomBios.h -text
 Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/PiBootMode.h -text
 Include/IndustryStandard/Smbios.h -text
@@ -784,7 +785,6 @@ Library/VideoBiosPatchLib/VideoBiosPatchLib.inf -text
 Library/VideoBiosPatchLib/VideoBiosPatchLibInternal.h -text
 Library/VideoBiosPatchLib/edid.c -text
 Library/VideoBiosPatchLib/edid.h -text
-Library/VideoBiosPatchLib/shortatombios.h -text
 Logo/Logo.bmp -text
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text
@@ -1265,7 +1265,6 @@ rEFIt_UEFI/IA32/ullshr.asm -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
-rEFIt_UEFI/Platform/AtomBios.h -text
 rEFIt_UEFI/Platform/BdsConnect.c -text
 rEFIt_UEFI/Platform/BootLog.c -text
 rEFIt_UEFI/Platform/BootOptions.c -text
