@@ -136,6 +136,7 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_reset.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_leo.icns -text
@@ -145,6 +146,10 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win7.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win8.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_winvista.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_winxp.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/osx.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/tool_part.png -text
@@ -154,8 +159,11 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ext3.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ext3_disable.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_hfs.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_hfs_disable.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs_disable.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_recovery.icns -text
