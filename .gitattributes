@@ -1441,6 +1441,9 @@ VBoxFsDxe/fsw_hfs.h -text
 VBoxFsDxe/fsw_iso9660.c -text
 VBoxFsDxe/fsw_iso9660.h -text
 VBoxFsDxe/fsw_lib.c -text
+VBoxFsDxe/fsw_reiserfs.c -text
+VBoxFsDxe/fsw_reiserfs.h -text
+VBoxFsDxe/fsw_reiserfs_disk.h -text
 VBoxFsDxe/fsw_strfunc.h -text
 VBoxFsDxe/hfs_format.h -text
 VBoxFsDxe/test/README -text
