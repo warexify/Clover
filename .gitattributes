@@ -1186,7 +1186,6 @@ rEFIt_UEFI/Platform/BootLog.c -text
 rEFIt_UEFI/Platform/BootOptions.c -text
 rEFIt_UEFI/Platform/Console.c -text
 rEFIt_UEFI/Platform/DataHubCpu.c -text
-rEFIt_UEFI/Platform/DbgTime.c -text
 rEFIt_UEFI/Platform/DevicePath.c -text
 rEFIt_UEFI/Platform/Display.h -text
 rEFIt_UEFI/Platform/Events.c -text
