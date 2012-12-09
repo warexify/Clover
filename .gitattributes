@@ -30,6 +30,8 @@ BootHFS/Installation.txt -text
 BootHFS/boot0.s -text
 BootHFS/boot0ab -text
 BootHFS/boot0ab.s -text
+BootHFS/boot0hfs -text
+BootHFS/boot0hfs.s -text
 BootHFS/boot1.s -text
 BootHFS/boot1altV3 -text
 BootHFS/boot1altV3.s -text
