@@ -578,6 +578,10 @@ DumpUefiCalls/MemLog.c -text
 DumpUefiCalls/MemLog.h -text
 DumpUefiCalls/RuntimeServices.c -text
 DumpUefiCalls/RuntimeServices.h -text
+EmuVariableUefi/EmuVariable.c -text
+EmuVariableUefi/EmuVariableRuntimeDxe.inf -text
+EmuVariableUefi/InitVariable.c -text
+EmuVariableUefi/Variable.h -text
 FSInject/FSInject.c -text
 FSInject/FSInject.dec -text
 FSInject/FSInject.h -text
@@ -614,6 +618,7 @@ Include/Library/UefiHiiServicesLib.h -text
 Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
+Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/MsgLog.h -text
 Include/Protocol/UsbMassImpl.h -text
