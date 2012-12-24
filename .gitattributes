@@ -1158,7 +1158,6 @@ VBoxFsDxe/test/lslr.c -text
 VBoxFsDxe/test/lsroot.c -text
 /buildgcc.sh -text
 /cbuild.bat -text
-/cbuild.sh -text
 /config-sample.plist -text
 /ebuild.sh -text
 font/BoG_DejaVuSans_9W.png -text
