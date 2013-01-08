@@ -609,7 +609,7 @@ Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandard/AtomBios.h -text
 Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/PiBootMode.h -text
-Include/IndustryStandard/Smbios.h -text
+Include/IndustryStandard/SmbiosA.h -text
 Include/IndustryStandard/VesaBiosExtensions.h -text
 Include/Library/GenericBdsLib.h -text
 Include/Library/MemLogLib.h -text
