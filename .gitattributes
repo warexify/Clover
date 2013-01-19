@@ -911,6 +911,10 @@ PartitionDxe/PartitionDxe.inf -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
+Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
+Patches_for_EDK2/OvmfPkg/OvmfCloverX64.dsc -text
+Patches_for_EDK2/OvmfPkg/OvmfCloverX64.fdf -text
+Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/Thunk16.S -text
 Patches_for_EDK2/UefiBaseType.h -text
 Patches_for_EDK2/UefiHiiServicesLib.c -text
