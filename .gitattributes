@@ -629,6 +629,8 @@ LegacyBios/BlockIoDxe/BiosInt13.c -text
 LegacyBios/BlockIoDxe/BlockIoDxe.inf -text
 LegacyBios/BlockIoDxe/ComponentName.c -text
 LegacyBios/BlockIoDxe/Edd.h -text
+LegacyBios/BlockIoDxe/IA32/llshl.asm -text
+LegacyBios/BlockIoDxe/IA32/ullshr.asm -text
 LegacyBios/BlockIoDxe/LegacyBiosThunk.c -text
 LegacyBios/IA32/InterruptTable.S -text
 LegacyBios/IA32/InterruptTable.asm -text
