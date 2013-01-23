@@ -910,6 +910,10 @@ PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
+Patches_for_EDK2/BaseLib/IA32/Thunk16-best.S -text
+Patches_for_EDK2/BaseLib/IA32/Thunk16-orig.S -text
+Patches_for_EDK2/BaseLib/X64/Thunk16-best.S -text
+Patches_for_EDK2/BaseLib/X64/Thunk16-orig.S -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
