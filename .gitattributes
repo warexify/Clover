@@ -912,8 +912,10 @@ PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
 Patches_for_EDK2/BaseLib/IA32/Thunk16-best.S -text
 Patches_for_EDK2/BaseLib/IA32/Thunk16-orig.S -text
+Patches_for_EDK2/BaseLib/Readme.txt -text
 Patches_for_EDK2/BaseLib/X64/Thunk16-best.S -text
 Patches_for_EDK2/BaseLib/X64/Thunk16-orig.S -text
+Patches_for_EDK2/BaseLib/X86FxSave.c -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
@@ -942,7 +944,6 @@ Patches_for_EDK2/UsbMouseDxe/MouseHid.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.h -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.inf -text
-Patches_for_EDK2/X86FxSave.c -text
 Patches_for_EDK2/build_rule.txt -text
 Patches_for_EDK2/clover.log -text
 Patches_for_EDK2/tools_def.txt -text
