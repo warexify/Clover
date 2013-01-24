@@ -629,8 +629,6 @@ LegacyBios/BlockIoDxe/BiosInt13.c -text
 LegacyBios/BlockIoDxe/BlockIoDxe.inf -text
 LegacyBios/BlockIoDxe/ComponentName.c -text
 LegacyBios/BlockIoDxe/Edd.h -text
-LegacyBios/BlockIoDxe/IA32/llshl.asm -text
-LegacyBios/BlockIoDxe/IA32/ullshr.asm -text
 LegacyBios/BlockIoDxe/LegacyBiosThunk.c -text
 LegacyBios/IA32/InterruptTable.S -text
 LegacyBios/IA32/InterruptTable.asm -text
@@ -903,9 +901,6 @@ PartitionDxe/Apple.c -text
 PartitionDxe/ComponentName.c -text
 PartitionDxe/ElTorito.c -text
 PartitionDxe/Gpt.c -text
-PartitionDxe/IA32/llshl.asm -text
-PartitionDxe/IA32/ulldiv.asm -text
-PartitionDxe/IA32/ullshr.asm -text
 PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
@@ -1149,9 +1144,6 @@ UefiCpuPkg/Universal/Acpi/S3Resume2Pei/S3Resume.c -text
 UefiCpuPkg/Universal/Acpi/S3Resume2Pei/S3Resume2Pei.inf -text
 UefiCpuPkg/build.sh -text
 UefiCpuPkg/edk2.patch-idtgdt -text
-VBoxFsDxe/IA32/llshl.asm -text
-VBoxFsDxe/IA32/ulldiv.asm -text
-VBoxFsDxe/IA32/ullshr.asm -text
 VBoxFsDxe/OverrideFunctions-kabyl.edk2.c.include -text
 VBoxFsDxe/VBoxExt2.inf -text
 VBoxFsDxe/VBoxFsDxe.c -text
@@ -1212,11 +1204,6 @@ font/device.png -text
 font/mrenglesTheme.png -text
 font/print-cyr.png -text
 font/print.png -text
-rEFIt_UEFI/IA32/llmul.asm -text
-rEFIt_UEFI/IA32/llshl.asm -text
-rEFIt_UEFI/IA32/ulldiv.asm -text
-rEFIt_UEFI/IA32/ullrem.asm -text
-rEFIt_UEFI/IA32/ullshr.asm -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
