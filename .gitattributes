@@ -1204,6 +1204,11 @@ font/device.png -text
 font/mrenglesTheme.png -text
 font/print-cyr.png -text
 font/print.png -text
+rEFIt_UEFI/IA32/llmul.asm -text
+rEFIt_UEFI/IA32/llshl.asm -text
+rEFIt_UEFI/IA32/ulldiv.asm -text
+rEFIt_UEFI/IA32/ullrem.asm -text
+rEFIt_UEFI/IA32/ullshr.asm -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
