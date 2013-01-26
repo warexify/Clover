@@ -39,6 +39,7 @@ BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/boot1f32alt -text
 BootHFS/boot1f32alt.s -text
+BootHFS/boot1h -text
 BootHFS/boot1h2 -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
