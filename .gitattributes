@@ -1147,6 +1147,7 @@ UefiCpuPkg/build.sh -text
 UefiCpuPkg/edk2.patch-idtgdt -text
 VBoxFsDxe/OverrideFunctions-kabyl.edk2.c.include -text
 VBoxFsDxe/VBoxExt2.inf -text
+VBoxFsDxe/VBoxExt4.inf -text
 VBoxFsDxe/VBoxFsDxe.c -text
 VBoxFsDxe/VBoxFsDxe.inf -text
 VBoxFsDxe/VBoxFswParam.h -text
@@ -1162,6 +1163,9 @@ VBoxFsDxe/fsw_efi_lib.c -text
 VBoxFsDxe/fsw_ext2.c -text
 VBoxFsDxe/fsw_ext2.h -text
 VBoxFsDxe/fsw_ext2_disk.h -text
+VBoxFsDxe/fsw_ext4.c -text
+VBoxFsDxe/fsw_ext4.h -text
+VBoxFsDxe/fsw_ext4_disk.h -text
 VBoxFsDxe/fsw_hfs.c -text
 VBoxFsDxe/fsw_hfs.h -text
 VBoxFsDxe/fsw_iso9660.c -text
