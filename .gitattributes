@@ -89,6 +89,7 @@ CloverPackage/CloverV2/BootSectors/fdisk440 -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
 CloverPackage/CloverV2/EFI/ACPI/mini/DSDT.aml -text
+CloverPackage/CloverV2/EFI/BOOT/refit-old.conf -text
 CloverPackage/CloverV2/EFI/BOOT/refit.conf -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_64px.bmp -text
@@ -578,11 +579,6 @@ CloverPackage/package/buildpkg.sh -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
 /CloverX64.dsc -text
 /CloverX64.fdf -text
-ConSplitterDxe/ComponentName.c -text
-ConSplitterDxe/ConSplitter.c -text
-ConSplitterDxe/ConSplitter.h -text
-ConSplitterDxe/ConSplitterDxe.inf -text
-ConSplitterDxe/ConSplitterGraphics.c -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
@@ -1217,6 +1213,7 @@ VBoxFsDxe/test/lslr.c -text
 VBoxFsDxe/test/lsroot.c -text
 /buildgcc.sh -text
 /cbuild.bat -text
+/config-sample-old.plist -text
 /config-sample.plist -text
 /ebuild.sh -text
 font/BoG_DejaVuSans_9W.png -text
