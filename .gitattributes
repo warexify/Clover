@@ -32,12 +32,11 @@ BootHFS/Makefile -text
 BootHFS/boot0.s -text
 BootHFS/boot0ab.s -text
 BootHFS/boot0hfs.s -text
-BootHFS/boot1altV3.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/boot1f32alt.s -text
 BootHFS/boot1h.s -text
-BootHFS/boot1h2 -text
+BootHFS/boot1h2.s -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
