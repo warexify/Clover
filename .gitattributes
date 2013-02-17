@@ -89,7 +89,6 @@ CloverPackage/CloverV2/BootSectors/fdisk440 -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
 CloverPackage/CloverV2/EFI/ACPI/mini/DSDT.aml -text
-CloverPackage/CloverV2/EFI/BOOT/refit-old.conf -text
 CloverPackage/CloverV2/EFI/BOOT/refit.conf -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_64px.bmp -text
@@ -99,7 +98,7 @@ CloverPackage/CloverV2/EFI/BOOT/themes/logo_metal.png -text
 CloverPackage/CloverV2/EFI/BOOT/themes/pointer-green.png -text
 CloverPackage/CloverV2/EFI/BOOT/themes/pointer-metal.png -text
 CloverPackage/CloverV2/EFI/OEM/SystemProductName/config.plist -text
-CloverPackage/CloverV2/EFI/config-org.plist -text
+CloverPackage/CloverV2/EFI/config-sample.plist -text
 CloverPackage/CloverV2/EFI/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/tools/Shell64.efi -text
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt -text
@@ -560,9 +559,10 @@ CloverPackage/package/Resources/zh_TW.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources/zh_TW.lproj/Description.html -text
 CloverPackage/package/Resources/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+CloverPackage/package/Scripts.templates/EFIFolder/postinstall -text
+CloverPackage/package/Scripts.templates/EFIFolder/preinstall -text
 CloverPackage/package/Scripts.templates/InstallTheme/preinstall -text
 CloverPackage/package/Scripts.templates/Post/postinstall -text
-CloverPackage/package/Scripts.templates/PreInstall/preinstall -text
 CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/boot0/postinstall -text
 CloverPackage/package/Scripts.templates/boot0EFI/postinstall -text
