@@ -1274,6 +1274,7 @@ rEFIt_UEFI/Platform/ati_reg.h -text
 rEFIt_UEFI/Platform/b64cdecode.c -text
 rEFIt_UEFI/Platform/b64cdecode.h -text
 rEFIt_UEFI/Platform/boot.h -text
+rEFIt_UEFI/Platform/card_vlist.c -text
 rEFIt_UEFI/Platform/cpu.c -text
 rEFIt_UEFI/Platform/device_inject.c -text
 rEFIt_UEFI/Platform/device_inject.h -text
