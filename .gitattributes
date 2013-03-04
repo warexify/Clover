@@ -88,7 +88,6 @@ CloverPackage/CloverV2/BootSectors/cdboot -text
 CloverPackage/CloverV2/BootSectors/fdisk440 -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
-CloverPackage/CloverV2/EFI/ACPI/mini/DSDT.aml -text
 CloverPackage/CloverV2/EFI/BOOT/refit.conf -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/BOOT/themes/Selection_64px.bmp -text
