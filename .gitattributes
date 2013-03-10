@@ -68,10 +68,8 @@ BootSector/st32_64.S -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
-/Clover32.dsc -text
-/Clover32.fdf -text
-/Clover64.dsc -text
-/Clover64.fdf -text
+/Clover.dsc -text
+/Clover.fdf -text
 CloverPackage/CREDITS -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
 CloverPackage/CloverV2/BootSectors/Description.txt -text
@@ -1254,11 +1252,6 @@ font/device.png -text
 font/mrenglesTheme.png -text
 font/print-cyr.png -text
 font/print.png -text
-rEFIt_UEFI/IA32/llmul.asm -text
-rEFIt_UEFI/IA32/llshl.asm -text
-rEFIt_UEFI/IA32/ulldiv.asm -text
-rEFIt_UEFI/IA32/ullrem.asm -text
-rEFIt_UEFI/IA32/ullshr.asm -text
 rEFIt_UEFI/Platform/AcpiPatcher.c -text
 rEFIt_UEFI/Platform/AmlGenerator.c -text
 rEFIt_UEFI/Platform/AmlGenerator.h -text
@@ -1338,9 +1331,8 @@ rEFIt_UEFI/libeg/libscreen.c -text
 rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/text.c -text
-rEFIt_UEFI/rEFIt.dsc -text
-rEFIt_UEFI/rEFIt64.dsc -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
+rEFIt_UEFI/refit.dsc -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
@@ -1353,4 +1345,3 @@ rEFIt_UEFI/refit/lib.h -text
 rEFIt_UEFI/refit/main.c -text
 rEFIt_UEFI/refit/menu.c -text
 rEFIt_UEFI/refit/screen.c -text
-rEFIt_UEFI/refit64.inf -text
