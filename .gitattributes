@@ -68,11 +68,10 @@ BootSector/st32_64.S -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
+/Clover32.dsc -text
 /Clover32.fdf -text
+/Clover64.dsc -text
 /Clover64.fdf -text
-/Clover64Common.dsc -text
-/Clover64MCP.dsc -text
-/CloverIa32.dsc -text
 CloverPackage/CREDITS -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
 CloverPackage/CloverV2/BootSectors/Description.txt -text
@@ -592,7 +591,6 @@ CloverPackage/package/Scripts.templates/boot64/postinstall -text
 CloverPackage/package/buildpkg.sh -text
 /CloverPkg.dec -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
-/CloverX64.dsc -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
