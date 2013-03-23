@@ -110,7 +110,11 @@ CloverPackage/CloverV2/doc/config.plist-FullSample/KernelAndKextPatches.png -tex
 CloverPackage/CloverV2/doc/config.plist-FullSample/PCI.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/SMBIOS.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/SystemParameters.png -text
+CloverPackage/CloverV2/etc/rc.boot.d/10.save_and_rotate_boot_log.local -text
+CloverPackage/CloverV2/etc/rc.boot.d/20.mount_ESP.local -text
+CloverPackage/CloverV2/etc/rc.clover.lib -text
 CloverPackage/CloverV2/etc/rc.local -text
+CloverPackage/CloverV2/etc/rc.shutdown.d/80.save_nvram_plist.local -text
 CloverPackage/CloverV2/etc/rc.shutdown.local -text
 CloverPackage/CloverV2/themespkg/AppleStyle/B_PTMono_10W.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/Background.png -text
