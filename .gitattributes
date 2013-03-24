@@ -588,10 +588,10 @@ CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/boot0/postinstall -text
 CloverPackage/package/Scripts.templates/boot0EFI/postinstall -text
 CloverPackage/package/Scripts.templates/boot0hfs/postinstall -text
-CloverPackage/package/Scripts.templates/boot1UEFI/postinstall -text
-CloverPackage/package/Scripts.templates/boot1no/postinstall -text
 CloverPackage/package/Scripts.templates/boot32/postinstall -text
 CloverPackage/package/Scripts.templates/boot64/postinstall -text
+CloverPackage/package/Scripts.templates/bootNo/postinstall -text
+CloverPackage/package/Scripts.templates/bootUEFI/postinstall -text
 CloverPackage/package/buildpkg.sh -text
 /CloverPkg.dec -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
