@@ -579,6 +579,7 @@ CloverPackage/package/Resources/zh_TW.lproj/Description.html -text
 CloverPackage/package/Resources/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 CloverPackage/package/Scripts.templates/BiosBoot/postinstall -text
+CloverPackage/package/Scripts.templates/CloverEFI/postinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/postinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/preinstall -text
 CloverPackage/package/Scripts.templates/InstallTheme/preinstall -text
@@ -588,8 +589,6 @@ CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/boot0/postinstall -text
 CloverPackage/package/Scripts.templates/boot0EFI/postinstall -text
 CloverPackage/package/Scripts.templates/boot0hfs/postinstall -text
-CloverPackage/package/Scripts.templates/boot32/postinstall -text
-CloverPackage/package/Scripts.templates/boot64/postinstall -text
 CloverPackage/package/Scripts.templates/bootNo/postinstall -text
 CloverPackage/package/Scripts.templates/bootUEFI/postinstall -text
 CloverPackage/package/buildpkg.sh -text
