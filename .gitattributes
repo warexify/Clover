@@ -578,11 +578,13 @@ CloverPackage/package/Resources/zh_TW.lproj/Conclusion.rtfd/TXT.rtf -text
 CloverPackage/package/Resources/zh_TW.lproj/Description.html -text
 CloverPackage/package/Resources/zh_TW.lproj/Localizable.strings -text
 CloverPackage/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+CloverPackage/package/Scripts.libraries/rc_scripts.lib -text
 CloverPackage/package/Scripts.templates/BiosBoot/postinstall -text
 CloverPackage/package/Scripts.templates/CloverEFI/postinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/postinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/preinstall -text
 CloverPackage/package/Scripts.templates/InstallTheme/preinstall -text
+CloverPackage/package/Scripts.templates/MarkChoice/postinstall -text
 CloverPackage/package/Scripts.templates/OptRcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/Post/postinstall -text
 CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
