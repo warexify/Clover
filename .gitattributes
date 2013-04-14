@@ -109,6 +109,7 @@ CloverPackage/CloverV2/doc/config.plist-FullSample/CPU.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/Graphics.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/KernelAndKextPatches.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/PCI.png -text
+CloverPackage/CloverV2/doc/config.plist-FullSample/RtVariables.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/SMBIOS.png -text
 CloverPackage/CloverV2/doc/config.plist-FullSample/SystemParameters.png -text
 CloverPackage/CloverV2/etc/rc.boot.d/10.save_and_rotate_boot_log.local -text
