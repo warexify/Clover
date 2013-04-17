@@ -596,6 +596,7 @@ CloverPackage/package/Scripts.templates/OptRcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/Post/postinstall -text
 CloverPackage/package/Scripts.templates/Pre/preinstall -text
 CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
+CloverPackage/package/Scripts.templates/VboxHfs/postinstall -text
 CloverPackage/package/Scripts.templates/boot0/postinstall -text
 CloverPackage/package/Scripts.templates/boot0hfs/postinstall -text
 CloverPackage/package/Scripts.templates/bootNo/postinstall -text
