@@ -1327,9 +1327,6 @@ rEFIt_UEFI/Platform/sse3_5_patcher.h -text
 rEFIt_UEFI/Platform/sse3_patcher.h -text
 rEFIt_UEFI/Platform/stringTable.c -text
 rEFIt_UEFI/Platform/usbfix.c -text
-rEFIt_UEFI/build.sh -text
-rEFIt_UEFI/build32.sh -text
-rEFIt_UEFI/build64.sh -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/egemb_back_selected_small.h -text
 rEFIt_UEFI/include/egemb_refit_banner.h -text
@@ -1345,7 +1342,6 @@ rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
-rEFIt_UEFI/refit.dsc -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
