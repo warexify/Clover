@@ -101,6 +101,10 @@ CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/PCI.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/RtVariables.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/SMBIOS.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/SystemParameters.png -text
+CloverPackage/CloverV2/EFI/CLOVER/kexts/Other/FakeSMC.kext/Contents/Info.plist -text
+CloverPackage/CloverV2/EFI/CLOVER/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC -text
+CloverPackage/CloverV2/EFI/CLOVER/kexts/Other/HWInfo.kext/Contents/Info.plist -text
+CloverPackage/CloverV2/EFI/CLOVER/kexts/Other/HWInfo.kext/Contents/MacOS/HWInfo -text
 CloverPackage/CloverV2/EFI/CLOVER/refit.conf -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp -text
