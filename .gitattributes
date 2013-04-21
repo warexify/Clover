@@ -528,6 +528,7 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/mrengles/settings.conf -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/Makefile -text
+CloverPackage/makeiso -text
 CloverPackage/makepkg -text
 CloverPackage/package/Distribution -text
 CloverPackage/package/Icon.zip -text
