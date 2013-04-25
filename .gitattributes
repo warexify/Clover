@@ -613,6 +613,7 @@ CloverPackage/package/po/ua.po -text
 CloverPackage/package/po/zh_CN.po -text
 CloverPackage/package/po/zh_TW.po -text
 CloverPackage/package/po4a-clover.cfg -text
+CloverPackage/package/translate.sh -text
 /CloverPkg.dec -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
 CpuDxe/Cpu.c -text
