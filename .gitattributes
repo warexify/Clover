@@ -595,6 +595,7 @@ CloverPackage/package/bin/po4a/po4a-translate -text
 CloverPackage/package/bin/po4a/po4a-updatepo -text
 CloverPackage/package/buildpkg.sh -text
 CloverPackage/package/po/clover.pot -text
+CloverPackage/package/po/cs.po -text
 CloverPackage/package/po/de.po -text
 CloverPackage/package/po/en.po -text
 CloverPackage/package/po/es.po -text
