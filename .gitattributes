@@ -569,17 +569,14 @@ CloverPackage/package/bin/po4a/README.translators -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/BibTeX.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Chooser.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Common.pm -text
-CloverPackage/package/bin/po4a/lib/Locale/Po4a/Debconf.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Dia.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Docbook.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Guide.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Halibut.pm -text
-CloverPackage/package/bin/po4a/lib/Locale/Po4a/Html.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Ini.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/KernelHelp.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/LaTeX.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Man.pm -text
-CloverPackage/package/bin/po4a/lib/Locale/Po4a/NewsDebian.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Po.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Pod.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Prop.pm -text
