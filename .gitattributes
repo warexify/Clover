@@ -1251,6 +1251,7 @@ VBoxFsDxe/test/fsw_posix_base.h -text
 VBoxFsDxe/test/lslr.c -text
 VBoxFsDxe/test/lsroot.c -text
 /buildgcc.sh -text
+/buildgettext.sh -text
 /cbuild.bat -text
 /config-sample-old.plist -text
 /config-sample.plist -text
