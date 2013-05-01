@@ -13,7 +13,6 @@ CloverPackage/CloverV2/BootSectors/boot1altV3
 CloverPackage/CloverV2/BootSectors/boot1f32
 CloverPackage/CloverV2/BootSectors/boot1f32alt
 CloverPackage/CloverV2/BootSectors/boot1h
-CloverUpdater/CloverUpdater.xcode/build
 CloverUpdater/build
 HFSPlus/Ia32/HFSPlus.efi
 HFSPlus/X64/HFSPlus.efi
