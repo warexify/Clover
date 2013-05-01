@@ -603,6 +603,7 @@ CloverPackage/package/bin/po4a/po4a-normalize -text
 CloverPackage/package/bin/po4a/po4a-translate -text
 CloverPackage/package/bin/po4a/po4a-updatepo -text
 CloverPackage/package/buildpkg.sh -text
+CloverPackage/package/po/br.po -text
 CloverPackage/package/po/clover.pot -text
 CloverPackage/package/po/cz.po -text
 CloverPackage/package/po/de.po -text
@@ -615,8 +616,7 @@ CloverPackage/package/po/it.po -text
 CloverPackage/package/po/ko.po -text
 CloverPackage/package/po/nl.po -text
 CloverPackage/package/po/pl.po -text
-CloverPackage/package/po/pt-BR.po -text
-CloverPackage/package/po/pt-PT.po -text
+CloverPackage/package/po/pt.po -text
 CloverPackage/package/po/ru.po -text
 CloverPackage/package/po/ua.po -text
 CloverPackage/package/po/zh_CN.po -text
