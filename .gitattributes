@@ -645,6 +645,9 @@ CloverUpdater/CloverUpdater.code/clover.iconset/icon_32x32@2x.png -text svneol=u
 CloverUpdater/CloverUpdater.code/clover.iconset/icon_512x512.png -text svneol=unset#unset
 CloverUpdater/CloverUpdater.code/main.m -text
 CloverUpdater/CloverUpdater.code/project.xcworkspace/contents.xcworkspacedata -text
+CloverUpdater/CloverUpdater.code/ru.lproj/InfoPlist.strings -text
+CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.nib -text
+CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.xib -text
 CloverUpdater/CloverUpdaterUtility -text
 CloverUpdater/CloverUpdaterUtility.plist -text
 CloverUpdater/install-updater.sh -text
