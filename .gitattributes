@@ -71,6 +71,7 @@ BootSector/start32H2.S -text
 /Clover.dsc -text
 /Clover.fdf -text
 CloverPackage/CREDITS -text
+CloverPackage/CloverPrefpane/CloverPrefpane.strings -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/CloverPrefpane/install.sh -text
@@ -83,6 +84,7 @@ CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
 CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverPrefpane/translate_xib.sh -text
+CloverPackage/CloverUpdater/CloverUpdater.strings -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
