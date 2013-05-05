@@ -71,33 +71,43 @@ BootSector/start32H2.S -text
 /Clover.dsc -text
 /Clover.fdf -text
 CloverPackage/CREDITS -text
-CloverPackage/CloverUpdater/CloverUpdater.code/Arguments.h -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdater-Info.plist -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdater.xcodeproj/project.pbxproj -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdater.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdaterAppDelegate.h -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdaterAppDelegate.m -text
-CloverPackage/CloverUpdater/CloverUpdater.code/CloverUpdater_Prefix.pch -text
-CloverPackage/CloverUpdater/CloverUpdater.code/English.lproj/InfoPlist.strings -text
-CloverPackage/CloverUpdater/CloverUpdater.code/English.lproj/MainMenu.xib -text
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_128x128.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_128x128@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_16x16.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_16x16@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_256x256.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_256x256@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_32x32.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_32x32@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/clover.iconset/icon_512x512.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/CloverUpdater.code/main.m -text
-CloverPackage/CloverUpdater/CloverUpdater.code/project.xcworkspace/contents.xcworkspacedata -text
-CloverPackage/CloverUpdater/CloverUpdater.code/ru.lproj/InfoPlist.strings -text
-CloverPackage/CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.nib -text
-CloverPackage/CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.xib -text
+CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
+CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/CloverPrefpane/install.sh -text
+CloverPackage/CloverPrefpane/makefile -text
+CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
+CloverPackage/CloverPrefpane/src/CloverPrefpane-Prefix.pch -text
+CloverPackage/CloverPrefpane/src/CloverPrefpane.h -text
+CloverPackage/CloverPrefpane/src/CloverPrefpane.m -text
+CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
+CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
+CloverPackage/CloverPrefpane/translate_xib.sh -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
 CloverPackage/CloverUpdater/makefile -text
+CloverPackage/CloverUpdater/src/Arguments.h -text
+CloverPackage/CloverUpdater/src/CloverUpdater-Info.plist -text
+CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.pbxproj -text
+CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.h -text
+CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.m -text
+CloverPackage/CloverUpdater/src/CloverUpdater_Prefix.pch -text
+CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128@2x.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16@2x.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256@2x.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32@2x.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/en.lproj/InfoPlist.strings -text
+CloverPackage/CloverUpdater/src/en.lproj/MainMenu.xib -text
+CloverPackage/CloverUpdater/src/main.m -text
+CloverPackage/CloverUpdater/src/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/CloverUpdater/translate_xib.sh -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
 CloverPackage/CloverV2/BootSectors/Description.txt -text
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe -text
