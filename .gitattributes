@@ -105,6 +105,7 @@ CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256@2x.png -text svneol=
 CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32.png -text svneol=unset#unset
 CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32@2x.png -text svneol=unset#unset
 CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512@2x.png -text svneol=unset#unset
 CloverPackage/CloverUpdater/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverUpdater/src/en.lproj/MainMenu.xib -text
 CloverPackage/CloverUpdater/src/main.m -text
