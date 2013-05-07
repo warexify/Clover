@@ -114,9 +114,7 @@ CloverPackage/CloverUpdater/translate_xib.sh -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
 CloverPackage/CloverV2/BootSectors/Description.txt -text
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe -text
-CloverPackage/CloverV2/BootSectors/boot0 -text
 CloverPackage/CloverV2/BootSectors/boot0.bin -text
-CloverPackage/CloverV2/BootSectors/boot0hfs -text
 CloverPackage/CloverV2/BootSectors/boot0md -text
 CloverPackage/CloverV2/BootSectors/boot1f32 -text
 CloverPackage/CloverV2/BootSectors/boot1f32.bin -text
