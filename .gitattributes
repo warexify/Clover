@@ -578,6 +578,7 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/mrengles/settings.conf -text
+CloverPackage/CloverV2/themespkg/os_clover.psd -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/Makefile -text
 CloverPackage/makeiso -text
@@ -1321,6 +1322,7 @@ font/WoB_UbuntuMonoBold_8W_NA.png -text
 font/WoG_Monaco_10W.png -text
 font/WoG_Monaco_ExtraSmooth_10W.png -text
 font/WoG_Monaco_Smooth_10W.png -text
+font/YoB_Liberation_11W_NA.png -text
 font/dark-wide.png -text
 font/device-cyr.png -text
 font/device.png -text
