@@ -29,9 +29,9 @@ BiosVideo/LegacyBiosThunk.c -text
 BootHFS/Description.txt -text
 BootHFS/Installation.txt -text
 BootHFS/Makefile -text
-BootHFS/boot0.s -text
 BootHFS/boot0ab.s -text
-BootHFS/boot0hfs.s -text
+BootHFS/boot0af.s -text
+BootHFS/boot0ss.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/boot1f32alt.s -text
@@ -112,7 +112,6 @@ CloverPackage/CloverUpdater/src/main.m -text
 CloverPackage/CloverUpdater/src/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/CloverUpdater/translate_xib.sh -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
-CloverPackage/CloverV2/BootSectors/Description.txt -text
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe -text
 CloverPackage/CloverV2/BootSectors/boot0.bin -text
 CloverPackage/CloverV2/BootSectors/boot0md -text
@@ -128,7 +127,6 @@ CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/config.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToInstallOSX.txt -text
-CloverPackage/CloverV2/EFI/CLOVER/doc/Installation.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/boot1f32-install.sh -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/ACPI.png -text
