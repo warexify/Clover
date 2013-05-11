@@ -74,6 +74,7 @@ CloverPackage/CREDITS -text
 CloverPackage/CloverPrefpane/CloverPrefpane.strings -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/xcshareddata/xcschemes/Clover.xcscheme -text
 CloverPackage/CloverPrefpane/install.sh -text
 CloverPackage/CloverPrefpane/makefile -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
