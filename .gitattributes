@@ -225,7 +225,7 @@ CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/AppleStyle/settings.conf -text
+CloverPackage/CloverV2/themespkg/AppleStyle/theme.plist -text
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_000.png -text
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_001.png -text
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_002.png -text
@@ -376,7 +376,7 @@ CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/black_green/settings.conf -text
+CloverPackage/CloverV2/themespkg/black_green/theme.plist -text
 CloverPackage/CloverV2/themespkg/iClover/WoB_Hellfire_Bold_9W.png -text
 CloverPackage/CloverV2/themespkg/iClover/background.png -text
 CloverPackage/CloverV2/themespkg/iClover/iClover_logo/iClover_logo_000.png -text
@@ -428,7 +428,7 @@ CloverPackage/CloverV2/themespkg/iClover/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/iClover/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/iClover/selection_big.png -text
 CloverPackage/CloverV2/themespkg/iClover/selection_small.png -text
-CloverPackage/CloverV2/themespkg/iClover/settings.conf -text
+CloverPackage/CloverV2/themespkg/iClover/theme.plist -text
 CloverPackage/CloverV2/themespkg/metal/BoG_DejaVuSans_9W.png -text
 CloverPackage/CloverV2/themespkg/metal/BoG_LucidaConsole_10W_NA.png -text
 CloverPackage/CloverV2/themespkg/metal/MetalBack.png -text
@@ -501,7 +501,7 @@ CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/metal/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/metal/settings.conf -text
+CloverPackage/CloverV2/themespkg/metal/theme.plist -text
 CloverPackage/CloverV2/themespkg/mrengles/Apple_Logo.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/mrengles/Background.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Background_Gradient.png -text svneol=unset#unset
@@ -576,7 +576,7 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/mrengles/settings.conf -text
+CloverPackage/CloverV2/themespkg/mrengles/theme.plist -text
 CloverPackage/CloverV2/themespkg/os_clover.psd -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/Makefile -text
