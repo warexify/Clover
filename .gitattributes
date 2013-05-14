@@ -150,6 +150,7 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi -text
+CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64new.efi -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/Info.plist -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/Info.plist -text
