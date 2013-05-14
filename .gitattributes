@@ -1172,6 +1172,8 @@ Trash/PciBusDxe/PciResourceSupport.c -text
 Trash/PciBusDxe/PciResourceSupport.h -text
 Trash/PciBusDxe/PciRomTable.c -text
 Trash/PciBusDxe/PciRomTable.h -text
+Trash/Resolutions.c -text
+Trash/Resolutions.h -text
 Trash/VBoxAppleSim/Console.c -text
 Trash/VBoxAppleSim/ConsoleControl.h -text
 Trash/VBoxAppleSim/Cpu.c -text
@@ -1196,6 +1198,8 @@ Trash/VBoxIdeControllerDxe/ComponentName.c -text
 Trash/VBoxIdeControllerDxe/IdeController.c -text
 Trash/VBoxIdeControllerDxe/IdeController.h -text
 Trash/VBoxIdeControllerDxe/VBoxIdeControllerDxe.inf -text
+Trash/pci.c -text
+Trash/stringTable.c -text
 UefiCpuPkg/CpuDxe/CpuDxe.c -text
 UefiCpuPkg/CpuDxe/CpuDxe.h -text
 UefiCpuPkg/CpuDxe/CpuDxe.inf -text
@@ -1350,8 +1354,6 @@ rEFIt_UEFI/Platform/Nvram.c -text
 rEFIt_UEFI/Platform/Platform.h -text
 rEFIt_UEFI/Platform/PlatformDriverOverride.c -text
 rEFIt_UEFI/Platform/Pointer.c -text
-rEFIt_UEFI/Platform/Resolutions.c -text
-rEFIt_UEFI/Platform/Resolutions.h -text
 rEFIt_UEFI/Platform/Settings.c -text
 rEFIt_UEFI/Platform/StateGenerator.c -text
 rEFIt_UEFI/Platform/StateGenerator.h -text
@@ -1379,7 +1381,6 @@ rEFIt_UEFI/Platform/loader.h -text
 rEFIt_UEFI/Platform/memvendors.h -text
 rEFIt_UEFI/Platform/nvidia.c -text
 rEFIt_UEFI/Platform/nvidia.h -text
-rEFIt_UEFI/Platform/pci.c -text
 rEFIt_UEFI/Platform/picopng.c -text
 rEFIt_UEFI/Platform/picopng.h -text
 rEFIt_UEFI/Platform/platformdata.c -text
@@ -1389,7 +1390,6 @@ rEFIt_UEFI/Platform/spd.c -text
 rEFIt_UEFI/Platform/spd.h -text
 rEFIt_UEFI/Platform/sse3_5_patcher.h -text
 rEFIt_UEFI/Platform/sse3_patcher.h -text
-rEFIt_UEFI/Platform/stringTable.c -text
 rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/egemb_back_selected_small.h -text
