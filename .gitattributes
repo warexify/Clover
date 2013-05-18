@@ -82,6 +82,8 @@ CloverPackage/CloverPrefpane/src/CloverPrefpane-Prefix.pch -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.h -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.m -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/DefaultThemes.plist -text
+CloverPackage/CloverPrefpane/src/NoPreview.png -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
 CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverPrefpane/translate_xib.sh -text
