@@ -220,6 +220,7 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs_disable.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_recovery.icns -text
+CloverPackage/CloverV2/themespkg/AppleStyle/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/AppleStyle/scrollbar/bar_start.png -text
@@ -371,6 +372,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/black_green/logo-org.png -text
 CloverPackage/CloverV2/themespkg/black_green/logo.png -text
 CloverPackage/CloverV2/themespkg/black_green/logo_trans.png -text
+CloverPackage/CloverV2/themespkg/black_green/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_start.png -text
@@ -421,6 +423,7 @@ CloverPackage/CloverV2/themespkg/iClover/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/iClover/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/iClover/logo.png -text
 CloverPackage/CloverV2/themespkg/iClover/logo_usb.png -text
+CloverPackage/CloverV2/themespkg/iClover/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/iClover/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/iClover/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/iClover/scrollbar/bar_start.png -text
@@ -496,6 +499,7 @@ CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_012.png -text
 CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_013.png -text
 CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_014.png -text
 CloverPackage/CloverV2/themespkg/metal/logo_metal4.png -text
+CloverPackage/CloverV2/themespkg/metal/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_start.png -text
@@ -571,6 +575,7 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_shared.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_time_machine.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_usb.icns -text
+CloverPackage/CloverV2/themespkg/mrengles/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/bar_start.png -text
