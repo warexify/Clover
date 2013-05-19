@@ -70,6 +70,10 @@ BootSector/start32H.S -text
 BootSector/start32H2.S -text
 /Clover.dsc -text
 /Clover.fdf -text
+CloverConfig/Readme.txt -text
+CloverConfig/config-sample-old.plist -text
+CloverConfig/config-sample.plist -text
+CloverConfig/genconfig.c -text
 CloverPackage/CREDITS -text
 CloverPackage/CloverPrefpane/CloverPrefpane.strings -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
@@ -1314,8 +1318,6 @@ VBoxFsDxe/test/lsroot.c -text
 /buildgcc.sh -text
 /buildgettext.sh -text
 /cbuild.bat -text
-/config-sample-old.plist -text
-/config-sample.plist -text
 /ebuild.sh -text
 font/BoG_DejaVuSans_9W.png -text
 font/BoG_LucidaConsole_10W.png -text
