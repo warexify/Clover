@@ -131,6 +131,7 @@ CloverPackage/CloverV2/BootSectors/cdboot -text
 CloverPackage/CloverV2/BootSectors/fdisk440 -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
+CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/UEFI/config.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/config.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt -text
