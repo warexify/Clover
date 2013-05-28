@@ -79,6 +79,7 @@ CloverPackage/CloverPrefpane/CloverPrefpane.strings -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/xcshareddata/xcschemes/Clover.xcscheme -text
+CloverPackage/CloverPrefpane/Localizable.strings -text
 CloverPackage/CloverPrefpane/install.sh -text
 CloverPackage/CloverPrefpane/makefile -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
@@ -90,6 +91,7 @@ CloverPackage/CloverPrefpane/src/DefaultThemes.plist -text
 CloverPackage/CloverPrefpane/src/NoPreview.png -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
 CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
+CloverPackage/CloverPrefpane/translate_source.sh -text
 CloverPackage/CloverPrefpane/translate_xib.sh -text
 CloverPackage/CloverUpdater/CloverUpdater.strings -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility -text
