@@ -142,6 +142,8 @@ CloverPackage/CloverV2/EFI/CLOVER/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -
 CloverPackage/CloverV2/EFI/CLOVER/doc/boot1f32-install.sh -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/ACPI.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/CPU.png -text
+CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/DisableDrivers.png -text
+CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/GUI.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/Graphics.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/KernelAndKextPatches.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/PCI.png -text
