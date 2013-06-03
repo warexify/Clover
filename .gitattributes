@@ -1082,12 +1082,12 @@ CloverPackage/package/po/ja.po -text
 CloverPackage/package/po/ko.po -text
 CloverPackage/package/po/nl.po -text
 CloverPackage/package/po/pl.po -text
+CloverPackage/package/po/pt-BR.po -text
 CloverPackage/package/po/pt.po -text
-CloverPackage/package/po/pt_BR.po -text
 CloverPackage/package/po/ru.po -text
 CloverPackage/package/po/uk.po -text
-CloverPackage/package/po/zh_CN.po -text
-CloverPackage/package/po/zh_TW.po -text
+CloverPackage/package/po/zh-Hans-CN.po -text
+CloverPackage/package/po/zh-Hant-TW.po -text
 CloverPackage/package/po4a-clover.cfg -text
 CloverPackage/package/translate.sh -text
 /CloverPkg.dec -text
