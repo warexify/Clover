@@ -1840,6 +1840,8 @@ rEFIt_UEFI/refit/egemb_refit_banner.h -text
 rEFIt_UEFI/refit/icns.c -text
 rEFIt_UEFI/refit/lib.c -text
 rEFIt_UEFI/refit/lib.h -text
+rEFIt_UEFI/refit/list.c -text
+rEFIt_UEFI/refit/list.h -text
 rEFIt_UEFI/refit/main.c -text
 rEFIt_UEFI/refit/menu.c -text
 rEFIt_UEFI/refit/screen.c -text
