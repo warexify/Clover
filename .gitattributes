@@ -82,11 +82,13 @@ CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/xcshareddata/xcschemes/Clo
 CloverPackage/CloverPrefpane/Localizable.strings -text
 CloverPackage/CloverPrefpane/install.sh -text
 CloverPackage/CloverPrefpane/makefile -text
+CloverPackage/CloverPrefpane/src/CloverLogo.png -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Prefix.pch -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.h -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.m -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/CloverTitle.png -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/DefaultThemes.plist -text
 CloverPackage/CloverPrefpane/src/NoPreview.png -text svneol=unset#unset
 CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
