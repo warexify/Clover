@@ -206,6 +206,7 @@ CloverPackage/CloverV2/themespkg/applestyle/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_lynx.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_unknown.icns -text
@@ -356,6 +357,7 @@ CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8.icns -tex
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8_2.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_clover_hdd.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_internal_hdd.icns -text
+CloverPackage/CloverV2/themespkg/black_green/back_black_green.png -text
 CloverPackage/CloverV2/themespkg/black_green/bg_block_192px.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/boot_win.icns -text
@@ -380,6 +382,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_lynx.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_mac.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_netbsd.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_openbsd.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns -text
@@ -433,6 +436,7 @@ CloverPackage/CloverV2/themespkg/bluemac/icons/os_leo.icns -text svneol=unset#un
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_mint.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_recovery.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_snow.icns -text svneol=unset#unset
@@ -504,6 +508,7 @@ CloverPackage/CloverV2/themespkg/bootcamp/icons/os_linux.icns -text svneol=unset
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_lynx.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mint.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_netbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_openbsd.icns -text svneol=unset#unset
@@ -618,6 +623,7 @@ CloverPackage/CloverV2/themespkg/iclover/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_lynx.icns -text
+CloverPackage/CloverV2/themespkg/iclover/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/iclover/icons/os_unknown.icns -text
@@ -658,6 +664,7 @@ CloverPackage/CloverV2/themespkg/magnifico/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/magnifico/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_tiger.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/os_win.icns -text
@@ -705,6 +712,7 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_lynx.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_mac.icns -text
+CloverPackage/CloverV2/themespkg/metal/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_netbsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_openbsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_snow.icns -text
@@ -785,6 +793,7 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_lynx.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_mac.icns -text
+CloverPackage/CloverV2/themespkg/mrengles/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_mint.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_netbsd.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/os_openbsd.icns -text
@@ -852,6 +861,7 @@ CloverPackage/CloverV2/themespkg/orange/icons/os_leo.icns -text svneol=unset#uns
 CloverPackage/CloverV2/themespkg/orange/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/orange/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/orange/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/orange/icons/os_netbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/orange/icons/os_openbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/orange/icons/os_snow.icns -text svneol=unset#unset
@@ -890,6 +900,7 @@ CloverPackage/CloverV2/themespkg/os_box/icons/os_leo.icns -text svneol=unset#uns
 CloverPackage/CloverV2/themespkg/os_box/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/os_box/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/os_box/icons/os_snow.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/icons/os_tiger.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/icons/os_unknown.icns -text svneol=unset#unset
@@ -924,6 +935,7 @@ CloverPackage/CloverV2/themespkg/os_one/icons/os_leo.icns -text svneol=unset#uns
 CloverPackage/CloverV2/themespkg/os_one/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/os_one/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/os_one/icons/os_snow.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/icons/os_tiger.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/icons/os_unknown.icns -text svneol=unset#unset
@@ -976,6 +988,7 @@ CloverPackage/CloverV2/themespkg/thinkpad/icons/os_leo.icns -text svneol=unset#u
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_lion.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/thinkpad/icons/os_mav.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_mint.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_netbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_openbsd.icns -text svneol=unset#unset
