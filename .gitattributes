@@ -1464,6 +1464,7 @@ Patches_for_EDK2/BaseLib/Readme.txt -text
 Patches_for_EDK2/BaseLib/X64/Thunk16-best.S -text
 Patches_for_EDK2/BaseLib/X64/Thunk16-orig.S -text
 Patches_for_EDK2/BaseLib/X86FxSave.c -text
+Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
