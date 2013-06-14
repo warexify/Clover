@@ -141,6 +141,7 @@ CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
+CloverPackage/CloverV2/EFI/CLOVER/doc/bcfg.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/boot1f32-install.sh -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/ACPI.png -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/CPU.png -text
@@ -162,7 +163,6 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi -text
-CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64new.efi -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/Info.plist -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/Info.plist -text
