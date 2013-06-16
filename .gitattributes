@@ -101,6 +101,8 @@ CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
 CloverPackage/CloverUpdater/makefile -text
 CloverPackage/CloverUpdater/src/Arguments.h -text
+CloverPackage/CloverUpdater/src/CloverLogo.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/CloverTitle.png -text svneol=unset#unset
 CloverPackage/CloverUpdater/src/CloverUpdater-Info.plist -text
 CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.pbxproj -text
 CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
