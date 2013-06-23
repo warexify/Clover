@@ -168,13 +168,6 @@ CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/Info.plist -t
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/Info.plist -text
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/MacOS/HWInfo -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/Info.plist -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/MacOS/CloverUpdater -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/PkgInfo -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/Resources/English.lproj/InfoPlist.strings -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/Resources/English.lproj/MainMenu.nib -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/Resources/ru.lproj/InfoPlist.strings -text
-CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/Resources/ru.lproj/MainMenu.nib -text
 CloverPackage/CloverV2/etc/rc.boot.d/10.save_and_rotate_boot_log.local -text
 CloverPackage/CloverV2/etc/rc.boot.d/20.mount_ESP.local -text
 CloverPackage/CloverV2/etc/rc.boot.d/70.disable_sleep_proxy_client.local.disabled -text
