@@ -337,7 +337,6 @@ CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_clover_BoW.icn
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_debian.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_knoppix.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_puppy.icns -text
-CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7_2.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8.icns -text
@@ -381,6 +380,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_redhat.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_suse.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns -text
