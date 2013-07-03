@@ -1101,6 +1101,7 @@ CloverPackage/utils/clover-genconfig/Makefile -text
 CloverPackage/utils/clover-genconfig/Readme.txt -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.c -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.pbxproj -text
+CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/utils/clover-genconfig/config-sample-old.plist -text
 CloverPackage/utils/clover-genconfig/config-sample.plist -text
 CloverPackage/utils/fdisk440/Makefile -text
