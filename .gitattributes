@@ -1103,7 +1103,6 @@ CloverPackage/utils/clover-genconfig/clover-genconfig.c -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.pbxproj -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/xcshareddata/xcschemes/clover-genconfig.xcscheme -text
-CloverPackage/utils/clover-genconfig/config-sample-old.plist -text
 CloverPackage/utils/clover-genconfig/config-sample.plist -text
 CloverPackage/utils/fdisk440/Makefile -text
 CloverPackage/utils/fdisk440/auto.c -text
