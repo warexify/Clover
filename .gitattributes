@@ -1187,6 +1187,8 @@ Include/Guid/LdrMemoryDescriptor.h -text
 Include/Guid/PciExpressBaseAddress.h -text
 Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandard/AtomBios.h -text
+Include/IndustryStandard/PciBus.h -text
+Include/IndustryStandard/PciCommand.h -text
 Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/PiBootMode.h -text
 Include/IndustryStandard/SmbiosA.h -text
@@ -1201,6 +1203,7 @@ Include/Library/VideoBiosPatchLib.h -text
 Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/MsgLog.h -text
+Include/Protocol/PciIoImp.h -text
 Include/Protocol/UsbMassImpl.h -text
 Include/Protocol/efiConsoleControl.h -text
 LegacyBios/BlockIoDxe/BiosBlkIo.c -text
@@ -1499,6 +1502,7 @@ Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.dsc -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.fdf -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
+Patches_for_EDK2/Pci22.h -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
 Patches_for_EDK2/ShellPkg/build64.sh -text
 Patches_for_EDK2/ShellPkg/build64c.sh -text
@@ -1537,7 +1541,6 @@ PciRootBridgeDxe/PcatPciRootBridge.c -text
 PciRootBridgeDxe/PcatPciRootBridge.h -text
 PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
-PciRootBridgeDxe/Pci22.h -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
 Ps2MouseDxe/CommPs2.c -text
