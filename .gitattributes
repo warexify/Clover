@@ -1270,6 +1270,7 @@ Library/LzmaCustomDecompressLib/Sdk/C/Types.h -text
 Library/LzmaCustomDecompressLib/Sdk/history.txt -text
 Library/LzmaCustomDecompressLib/Sdk/lzma.txt -text
 Library/LzmaCustomDecompressLib/UefiLzma.h -text
+Library/MemLogLibDefault/GenericIch.h -text
 Library/MemLogLibDefault/MemLogLib.c -text
 Library/MemLogLibDefault/MemLogLibDefault.inf -text
 Library/OsxBdsPlatformLib/AcpiTable.h -text
