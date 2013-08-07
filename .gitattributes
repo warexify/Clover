@@ -1811,6 +1811,7 @@ rEFIt_UEFI/Platform/Console.c -text
 rEFIt_UEFI/Platform/DataHubCpu.c -text
 rEFIt_UEFI/Platform/DevicePath.c -text
 rEFIt_UEFI/Platform/Display.h -text
+rEFIt_UEFI/Platform/Edid.c -text
 rEFIt_UEFI/Platform/Events.c -text
 rEFIt_UEFI/Platform/FixBiosDsdt.c -text
 rEFIt_UEFI/Platform/Injectors.c -text
