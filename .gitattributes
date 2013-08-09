@@ -1503,6 +1503,7 @@ Patches_for_EDK2/MdeModulePkgSample.dec -text
 Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.dsc -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.fdf -text
+Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/Pci22.h -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
