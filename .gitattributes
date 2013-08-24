@@ -1645,14 +1645,6 @@ Trash/PciBusDxe/PciRomTable.c -text
 Trash/PciBusDxe/PciRomTable.h -text
 Trash/Resolutions.c -text
 Trash/Resolutions.h -text
-Trash/VBoxAppleSim/Console.c -text
-Trash/VBoxAppleSim/ConsoleControl.h -text
-Trash/VBoxAppleSim/Cpu.c -text
-Trash/VBoxAppleSim/DataHubRecords.h -text
-Trash/VBoxAppleSim/SmBios.h -text
-Trash/VBoxAppleSim/VBoxAppleSim.c -text
-Trash/VBoxAppleSim/VBoxAppleSim.inf -text
-Trash/VBoxAppleSim/llmul.c -text
 Trash/VBoxIdeBusDxe/Ata.c -text
 Trash/VBoxIdeBusDxe/Atapi.c -text
 Trash/VBoxIdeBusDxe/ComponentName.c -text
