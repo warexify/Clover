@@ -1531,6 +1531,17 @@ Patches_for_EDK2/UsbMouseDxe/MouseHid.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.h -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.inf -text
+Patches_for_EDK2/XhciDxe/ComponentName.c -text
+Patches_for_EDK2/XhciDxe/ComponentName.h -text
+Patches_for_EDK2/XhciDxe/UsbHcMem.c -text
+Patches_for_EDK2/XhciDxe/UsbHcMem.h -text
+Patches_for_EDK2/XhciDxe/Xhci.c -text
+Patches_for_EDK2/XhciDxe/Xhci.h -text
+Patches_for_EDK2/XhciDxe/XhciDxe.inf -text
+Patches_for_EDK2/XhciDxe/XhciReg.c -text
+Patches_for_EDK2/XhciDxe/XhciReg.h -text
+Patches_for_EDK2/XhciDxe/XhciSched.c -text
+Patches_for_EDK2/XhciDxe/XhciSched.h -text
 Patches_for_EDK2/build_rule.txt -text
 Patches_for_EDK2/clover.log -text
 Patches_for_EDK2/tools_def.txt -text
