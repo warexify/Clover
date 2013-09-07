@@ -631,6 +631,14 @@ CloverPackage/CloverV2/themespkg/iclover/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/iclover/logo.png -text
 CloverPackage/CloverV2/themespkg/iclover/logo_usb.png -text
 CloverPackage/CloverV2/themespkg/iclover/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/iclover/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/iclover/selection_big.png -text
 CloverPackage/CloverV2/themespkg/iclover/selection_small.png -text
 CloverPackage/CloverV2/themespkg/iclover/theme.plist -text
@@ -667,6 +675,14 @@ CloverPackage/CloverV2/themespkg/magnifico/icons/vol_internal.icns -text svneol=
 CloverPackage/CloverV2/themespkg/magnifico/icons/vol_optical.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/logo.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/magnifico/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/magnifico/selection_big.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/selection_small.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/theme.plist -text
@@ -870,6 +886,14 @@ CloverPackage/CloverV2/themespkg/orange/icons/vol_internal_ntfs.icns -text svneo
 CloverPackage/CloverV2/themespkg/orange/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/orange/icons/vol_recovery.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/orange/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/orange/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/orange/theme.plist -text
 CloverPackage/CloverV2/themespkg/os_box/BoG_LucidaConsole_10W.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/Generic_OSX_Icon.icns -text svneol=unset#unset
@@ -906,6 +930,14 @@ CloverPackage/CloverV2/themespkg/os_box/icons/vol_internal_ntfs.icns -text svneo
 CloverPackage/CloverV2/themespkg/os_box/icons/vol_optical.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/logo.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_box/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/os_box/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/os_box/theme.plist -text
 CloverPackage/CloverV2/themespkg/os_clover.psd -text
 CloverPackage/CloverV2/themespkg/os_one/BoW_Chicago_10W.png -text svneol=unset#unset
@@ -942,6 +974,14 @@ CloverPackage/CloverV2/themespkg/os_one/icons/vol_internal_ntfs.icns -text svneo
 CloverPackage/CloverV2/themespkg/os_one/icons/vol_optical.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/logo.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/os_one/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/os_one/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/os_one/theme.plist -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/Banner1_ThinkPad.png -text svneol=unset#unset
