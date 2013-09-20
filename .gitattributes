@@ -1544,6 +1544,7 @@ Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
+Patches_for_EDK2/OvmfPkg/Csm/CsmSupportLib/LegacyPlatform.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.S -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.asm -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/Ipf/IpfBootSupport.c -text
