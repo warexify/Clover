@@ -1613,6 +1613,8 @@ Patches_for_EDK2/XhciDxe/XhciSched.h -text
 Patches_for_EDK2/build_rule.txt -text
 Patches_for_EDK2/clover.log -text
 Patches_for_EDK2/tools_def.txt -text
+Patches_to_compilers/binutils-2.23.2/binutils/readelf-new.c -text
+Patches_to_compilers/binutils-2.23.2/opcodes/i386-dis-new.c -text
 PcatRealTimeClockRuntimeDxe/PcRtc.c -text
 PcatRealTimeClockRuntimeDxe/PcRtc.h -text
 PcatRealTimeClockRuntimeDxe/PcRtcEntry.c -text
