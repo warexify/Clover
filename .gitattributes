@@ -1544,6 +1544,7 @@ Patches_for_EDK2/BaseTools/Source/C/Makefiles/header.makefile -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.cpp -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.h -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrSyntax.cpp -text
+Patches_for_EDK2/BaseTools_XCode5.patch -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
