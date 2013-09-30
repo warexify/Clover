@@ -1581,6 +1581,13 @@ Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiospatches.diff -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/Qemu.c -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/Qemu.h -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/QemuInternal.h -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/QemuType0.c -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/QemuType1.c -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/SmbiosPlatformDxe.c -text
+Patches_for_EDK2/OvmfPkg/SmbiosPlatformDxe/SmbiosPlatformDxe.inf -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/Pci22.h -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ConsoleLogger.c -text
