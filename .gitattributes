@@ -161,10 +161,10 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi -text
-CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/Info.plist -text
-CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC -text
-CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/Info.plist -text
-CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/MacOS/HWInfo -text
+CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/Info.plist -text
+CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC -text
+CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/Info.plist -text
+CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/MacOS/HWInfo -text
 CloverPackage/CloverV2/etc/rc.boot.d/10.save_and_rotate_boot_log.local -text
 CloverPackage/CloverV2/etc/rc.boot.d/20.mount_ESP.local -text
 CloverPackage/CloverV2/etc/rc.boot.d/70.disable_sleep_proxy_client.local.disabled -text
