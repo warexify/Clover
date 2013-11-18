@@ -2275,6 +2275,7 @@ rEFIt_UEFI/entry_scan/common.c -text
 rEFIt_UEFI/entry_scan/entry_scan.h -text
 rEFIt_UEFI/entry_scan/legacy.c -text
 rEFIt_UEFI/entry_scan/loader.c -text
+rEFIt_UEFI/entry_scan/secureboot.c -text
 rEFIt_UEFI/entry_scan/tool.c -text
 rEFIt_UEFI/entry_scan/uefibootoption.c -text
 rEFIt_UEFI/include/Handle.h -text
