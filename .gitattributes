@@ -434,6 +434,8 @@ CloverPackage/CloverV2/themespkg/BGM/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot.png -text
+CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/logo.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_arch.icns -text
@@ -664,6 +666,8 @@ CloverPackage/CloverV2/themespkg/black_green/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/black_green/icons/func_secureboot.png -text
+CloverPackage/CloverV2/themespkg/black_green/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/logo.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_arch.icns -text
