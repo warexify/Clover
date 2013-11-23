@@ -1023,6 +1023,8 @@ CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot.png -text
+CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_cougar.icns -text
