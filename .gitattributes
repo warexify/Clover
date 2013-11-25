@@ -1556,6 +1556,7 @@ Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/PiBootMode.h -text
 Include/IndustryStandard/SmbiosA.h -text
 Include/IndustryStandard/VesaBiosExtensions.h -text
+Include/Library/BaseCryptLib.h -text
 Include/Library/GenericBdsLib.h -text
 Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
