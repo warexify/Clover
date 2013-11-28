@@ -649,7 +649,6 @@ CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_knoppix.
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_puppy.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7_2.icns -text
-CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8_2.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_clover_hdd.icns -text
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_internal_hdd.icns -text
@@ -672,6 +671,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/logo.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_arch.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_clover_BoW.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_fedora.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_freebsd.icns -text
@@ -698,7 +698,6 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_external.icns -text
@@ -707,10 +706,8 @@ CloverPackage/CloverV2/themespkg/black_green/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/black_green/logo-org.png -text
-CloverPackage/CloverV2/themespkg/black_green/logo.png -text
 CloverPackage/CloverV2/themespkg/black_green/logo_trans.png -text
-CloverPackage/CloverV2/themespkg/black_green/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/black_green/screenshot.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_start.png -text
