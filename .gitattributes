@@ -1082,13 +1082,21 @@ CloverPackage/CloverV2/themespkg/mrengles/Apple_Logo.png -text svneol=unset#unse
 CloverPackage/CloverV2/themespkg/mrengles/Background.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Background_Gradient.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/mrengles/Background_Linen.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/mrengles/Background_Simple.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Clover_Logo.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Logo_Apple.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Logo_Clover.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Logo_Empty.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco_Extra.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Monaco_Extra_Smooth.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Monaco_Sharp.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco_Smooth.png -text
 CloverPackage/CloverV2/themespkg/mrengles/No_Logo.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Screenshot.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Selection_Big.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Selection_Small.png -text
+CloverPackage/CloverV2/themespkg/mrengles/Theme.plist -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/boot_win.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_about.png -text
@@ -1100,6 +1108,8 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/func_help_alt2.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_reset.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_reset_alt.png -text
+CloverPackage/CloverV2/themespkg/mrengles/icons/func_secureboot.png -text
+CloverPackage/CloverV2/themespkg/mrengles/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_shutdown_alt.png -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_shutdown_alt2.png -text
@@ -1141,6 +1151,7 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_netboot.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_recovery.icns -text
+CloverPackage/CloverV2/themespkg/mrengles/icons/vol_removable.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_shared.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_time_machine.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_usb.icns -text
