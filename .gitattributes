@@ -1086,6 +1086,7 @@ CloverPackage/CloverV2/themespkg/mrengles/Logo_Empty.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco_Extra_Smooth.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco_Sharp.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Monaco_Smooth.png -text
+CloverPackage/CloverV2/themespkg/mrengles/ReadMe.txt -text
 CloverPackage/CloverV2/themespkg/mrengles/Screenshot.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Selection_Big.png -text
 CloverPackage/CloverV2/themespkg/mrengles/Selection_Small.png -text
@@ -1147,7 +1148,6 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_removable.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_shared.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_time_machine.icns -text
-CloverPackage/CloverV2/themespkg/mrengles/icons/vol_usb.icns -text
 CloverPackage/CloverV2/themespkg/mrengles/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/bar_fill.png -text
