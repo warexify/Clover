@@ -485,39 +485,54 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
-CloverPackage/CloverV2/themespkg/applestyle/B_PTMono_10W.png -text
 CloverPackage/CloverV2/themespkg/applestyle/Background.png -text
-CloverPackage/CloverV2/themespkg/applestyle/LogoBlack.png -text
-CloverPackage/CloverV2/themespkg/applestyle/LogoBlack_F1.png -text
-CloverPackage/CloverV2/themespkg/applestyle/LogoLightGray.png -text
-CloverPackage/CloverV2/themespkg/applestyle/LogoLightGray_F1.png -text
-CloverPackage/CloverV2/themespkg/applestyle/None.png -text
-CloverPackage/CloverV2/themespkg/applestyle/NoneBlack.png -text
-CloverPackage/CloverV2/themespkg/applestyle/NoneLightGray.png -text
-CloverPackage/CloverV2/themespkg/applestyle/Selection_Alpha_Big.png -text
-CloverPackage/CloverV2/themespkg/applestyle/Selection_Alpha_Small.png -text
-CloverPackage/CloverV2/themespkg/applestyle/W_PTMono_10W.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Background1.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Background2.png -text
+CloverPackage/CloverV2/themespkg/applestyle/BootCampGray.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Logo.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Logo1.png -text
+CloverPackage/CloverV2/themespkg/applestyle/PTMono_10B.png -text
+CloverPackage/CloverV2/themespkg/applestyle/PTMono_10W.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Selection_Big.png -text
+CloverPackage/CloverV2/themespkg/applestyle/Selection_Small.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_about.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_clover.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/func_secureboot.png -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_arch.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_cougar.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_ecomstation.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_fedora.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_freebsd.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_freedos.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_gentoo.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_grub.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_kubuntu.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_leo.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_lion.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_mav.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_mint.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_netbsd.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_openbsd.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_redhat.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_snow.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_suse.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_tiger.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_unknown.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_win7.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/os_win8.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/icons/os_winvista.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/icons/os_winxp.icns -text
+CloverPackage/CloverV2/themespkg/applestyle/icons/os_xp.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/osx.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/tool_part.png -text
@@ -528,14 +543,11 @@ CloverPackage/CloverV2/themespkg/applestyle/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_ext3.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_ext3_disable.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_hfs.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_hfs_disable.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_ntfs.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/icons/vol_internal_ntfs_disable.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/applestyle/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/applestyle/screenshot.png -text
 CloverPackage/CloverV2/themespkg/applestyle/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/applestyle/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/applestyle/scrollbar/bar_start.png -text
@@ -782,117 +794,117 @@ CloverPackage/CloverV2/themespkg/bluemac/selection_small.png -text svneol=unset#
 CloverPackage/CloverV2/themespkg/bluemac/theme.plist -text
 CloverPackage/CloverV2/themespkg/bootcamp/Select_trans_big.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/Select_trans_small.png -text
-CloverPackage/CloverV2/themespkg/bootcamp/Selection_big.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/Selection_small.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/bootcamp.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/OtherMac.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/apple.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/arrow.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/boot_linux.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/boot_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/frame.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_about.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_about_2.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_clover.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_help.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_options.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_reset.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_shutdown.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/func_shutdown_alt.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_clover.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_cougar.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_ecomstation.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_fedora.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_freebsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_freedos.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_legacy.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_leo.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_linux.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_lion.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/Selection_big.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/Selection_small.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/bootcamp.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/OtherMac.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/apple.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/arrow.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/boot_linux.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/boot_win.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/frame.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_about_2.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_clover.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_help.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_options.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/func_shutdown_alt.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_clover.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_cougar.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_ecomstation.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_fedora.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_freebsd.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_freedos.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_legacy.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_leo.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_linux.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_lion.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mav.icns -text
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mint.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_netbsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_openbsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_recovery.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_snow.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_suse.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_tiger.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_ubuntu.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_unknown.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_vista.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win7.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win8.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_winvista.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/os_winxp.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/osx.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_mint.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_netbsd.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_openbsd.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_recovery.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_snow.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_suse.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_tiger.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_ubuntu.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_unknown.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_vista.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win7.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_win8.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_winvista.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/os_winxp.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/osx.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/pointer-black.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/bootcamp/icons/tool_shell.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/tool_shell.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/icons/tool_shell.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_firewire.icns -text
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_ext3.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_hfs.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_ntfs.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_netboot.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_ext3.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_hfs.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_internal_ntfs.icns -text
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_netboot.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_optical.icns -text
-CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_recovery.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/bootcamp/logo-trans.png -text
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_000.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_001.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_002.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_003.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_004.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_005.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_006.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_007.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_008.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_009.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_010.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_011.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_012.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_013.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_014.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_015.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_016.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_017.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_018.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_019.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_020.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_021.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_022.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_023.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_024.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_025.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_026.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_027.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_028.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_029.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_030.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_031.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_032.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_033.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_034.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_035.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_036.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_037.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_038.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_039.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_040.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_041.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_042.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_043.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_044.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_045.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_046.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_047.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_048.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_049.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bootcamp/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_000.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_001.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_002.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_003.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_004.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_005.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_006.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_007.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_008.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_009.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_010.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_011.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_012.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_013.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_014.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_015.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_016.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_017.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_018.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_019.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_020.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_021.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_022.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_023.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_024.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_025.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_026.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_027.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_028.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_029.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_030.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_031.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_032.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_033.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_034.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_035.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_036.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_037.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_038.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_039.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_040.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_041.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_042.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_043.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_044.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_045.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_046.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_047.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_048.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/logo_3D/logo_3D_049.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/screenshot.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/bar_start.png -text
@@ -1158,53 +1170,53 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/mrengles/theme.plist -text
-CloverPackage/CloverV2/themespkg/orange/Selection_big.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/Selection_small.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/WoG_Monaco_ExtraSmooth_10W.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/clover_logo.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/dwm_3d_smudged_boot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/Selection_big.png -text
+CloverPackage/CloverV2/themespkg/orange/Selection_small.png -text
+CloverPackage/CloverV2/themespkg/orange/WoG_Monaco_ExtraSmooth_10W.png -text
+CloverPackage/CloverV2/themespkg/orange/clover_logo.png -text
+CloverPackage/CloverV2/themespkg/orange/dwm_3d_smudged_boot.png -text
 CloverPackage/CloverV2/themespkg/orange/iCloverBG.png -text
-CloverPackage/CloverV2/themespkg/orange/icons/boot_linux.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/boot_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/cd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/cd_lin.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/cd_mac.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/cd_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_about.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_clover.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_help.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_options.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_reset.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/func_shutdown.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_clover.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_cougar.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_freebsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_freedos.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_legacy.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_leo.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_linux.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_lion.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/icons/boot_linux.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/boot_win.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/cd.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/cd_lin.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/cd_mac.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/cd_win.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_clover.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_help.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_options.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_clover.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_cougar.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_freebsd.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_freedos.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_legacy.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_leo.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_linux.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_lion.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/orange/icons/os_mav.icns -text
-CloverPackage/CloverV2/themespkg/orange/icons/os_netbsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_openbsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_snow.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_tiger.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_unknown.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_vista.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/os_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/pointer.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/icons/os_netbsd.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_openbsd.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_snow.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_tiger.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_unknown.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_vista.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/orange/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/orange/icons/tool_shell.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/tool_shell.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/vol_clover.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/vol_external.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/vol_firewire.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/vol_internal.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/icons/vol_internal_ntfs.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/icons/tool_shell.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/orange/icons/vol_clover.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/vol_external.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/vol_firewire.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/orange/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/orange/icons/vol_optical.icns -text
-CloverPackage/CloverV2/themespkg/orange/icons/vol_recovery.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/orange/screenshot.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/orange/icons/vol_recovery.icns -text
+CloverPackage/CloverV2/themespkg/orange/screenshot.png -text
 CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_fill.png -text
 CloverPackage/CloverV2/themespkg/orange/scrollbar/bar_start.png -text
