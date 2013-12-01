@@ -727,68 +727,68 @@ CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/black_green/theme.plist -text
-CloverPackage/CloverV2/themespkg/bluemac/GoB_PTMono_10W.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/banner_bluemac.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/banner_bluemac_f1.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/dot_bluemac_tile.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/cd_lin.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/cd_mac.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/cd_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_about.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_clover.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_help.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_options.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_reset.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/func_shutdown.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_clover.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_cougar.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_fedora.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_freebsd.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_legacy.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_leo.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_linux.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_lion.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_mac.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bluemac/GoB_PTMono_10W.png -text
+CloverPackage/CloverV2/themespkg/bluemac/banner_bluemac.png -text
+CloverPackage/CloverV2/themespkg/bluemac/banner_bluemac_f1.png -text
+CloverPackage/CloverV2/themespkg/bluemac/dot_bluemac_tile.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/cd_lin.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/cd_mac.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/cd_win.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_about.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_clover.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_help.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_options.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_reset.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_clover.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_cougar.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_fedora.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_freebsd.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_legacy.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_leo.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_linux.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_lion.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/bluemac/icons/os_mav.icns -text
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_mint.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_recovery.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_snow.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_suse.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_tiger.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_ubuntu.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_unknown.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_vista.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_win.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/os_win8.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/pointer.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/pointer.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/tool_shell.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/tool_shell.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_clover.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_external.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_firewire.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_ext3.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_hfs.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_ntfs.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_optical.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/icons/vol_recovery.icns -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/linen_bluemac_tile.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_000.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_001.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_002.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_003.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/screenshot.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_end.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_fill.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_start.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/down_button.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_end.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_fill.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_start.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/scrollbar/up_button.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/selection_big.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/bluemac/selection_small.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_mint.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_recovery.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_snow.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_suse.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_tiger.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_ubuntu.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_unknown.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_vista.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/os_win8.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/pointer.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/pointer.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/tool_shell.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_clover.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_external.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_firewire.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_ext3.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_hfs.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_internal_ntfs.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_optical.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/icons/vol_recovery.icns -text
+CloverPackage/CloverV2/themespkg/bluemac/linen_bluemac_tile.png -text
+CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_000.png -text
+CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_001.png -text
+CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_002.png -text
+CloverPackage/CloverV2/themespkg/bluemac/rotary_logo_bluemac/rotary_logo_bluemac_003.png -text
+CloverPackage/CloverV2/themespkg/bluemac/screenshot.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_end.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_fill.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/bar_start.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/down_button.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_end.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_fill.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/scroll_start.png -text
+CloverPackage/CloverV2/themespkg/bluemac/scrollbar/up_button.png -text
+CloverPackage/CloverV2/themespkg/bluemac/selection_big.png -text
+CloverPackage/CloverV2/themespkg/bluemac/selection_small.png -text
 CloverPackage/CloverV2/themespkg/bluemac/theme.plist -text
 CloverPackage/CloverV2/themespkg/bootcamp/Select_trans_big.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/Select_trans_small.png -text
