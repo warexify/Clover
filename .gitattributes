@@ -486,13 +486,11 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
 CloverPackage/CloverV2/themespkg/applestyle/Background.png -text
-CloverPackage/CloverV2/themespkg/applestyle/Background1.png -text
-CloverPackage/CloverV2/themespkg/applestyle/Background2.png -text
 CloverPackage/CloverV2/themespkg/applestyle/BootCampGray.png -text
 CloverPackage/CloverV2/themespkg/applestyle/Logo.png -text
-CloverPackage/CloverV2/themespkg/applestyle/Logo1.png -text
 CloverPackage/CloverV2/themespkg/applestyle/PTMono_10B.png -text
 CloverPackage/CloverV2/themespkg/applestyle/PTMono_10W.png -text
+CloverPackage/CloverV2/themespkg/applestyle/ReadMe.txt -text
 CloverPackage/CloverV2/themespkg/applestyle/Selection_Big.png -text
 CloverPackage/CloverV2/themespkg/applestyle/Selection_Small.png -text
 CloverPackage/CloverV2/themespkg/applestyle/icons/func_about.png -text
