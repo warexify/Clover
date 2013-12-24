@@ -4231,6 +4231,7 @@ Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrSyntax.cpp -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmuVariable.c -text
 Patches_for_EDK2/IsaAcpi.c -text
+Patches_for_EDK2/MdeModulePkg/Universal/PCD/Dxe/Service.c -text
 Patches_for_EDK2/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
