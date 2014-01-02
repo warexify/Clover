@@ -1811,6 +1811,8 @@ Library/OpensslLib/Include/sys/un.h -text
 Library/OpensslLib/Include/syslog.h -text
 Library/OpensslLib/Include/time.h -text
 Library/OpensslLib/Include/unistd.h -text
+Library/OpensslLib/OpensslLibNull.c -text
+Library/OpensslLib/OpensslLibNull.inf -text
 Library/OpensslLib/SysCall/BaseMemAllocation.c -text
 Library/OpensslLib/SysCall/CrtWrapper.c -text
 Library/OpensslLib/SysCall/Ia32/MathDivU64x64.S -text
