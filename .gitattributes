@@ -1442,6 +1442,7 @@ CloverPackage/CloverV2/themespkg/os_one/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/os_one/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/os_one/theme.plist -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
+CloverPackage/CloverV2/themespkg/theme-sample.plist -text
 CloverPackage/CloverV2/themespkg/thinkpad/Banner1_ThinkPad.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/Banner1_ThinkPad_F1.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/Banner2_ThinkPad.png -text svneol=unset#unset
