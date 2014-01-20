@@ -4672,6 +4672,7 @@ rEFIt_UEFI/Platform/Display.h -text
 rEFIt_UEFI/Platform/Edid.c -text
 rEFIt_UEFI/Platform/Events.c -text
 rEFIt_UEFI/Platform/FixBiosDsdt.c -text
+rEFIt_UEFI/Platform/Hibernate.c -text
 rEFIt_UEFI/Platform/Injectors.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.h -text
