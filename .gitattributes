@@ -1704,6 +1704,9 @@ Include/Library/UefiHiiServicesLib.h -text
 Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
+Include/Protocol/AppleDeviceControl.h -text
+Include/Protocol/AppleDiskIo.h -text
+Include/Protocol/AppleSMC.h -text
 Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/MsgLog.h -text
