@@ -1663,6 +1663,8 @@ DumpUefiCalls/MemLog.c -text
 DumpUefiCalls/MemLog.h -text
 DumpUefiCalls/RuntimeServices.c -text
 DumpUefiCalls/RuntimeServices.h -text
+DumpUefiCalls/StandaloneCompilation.txt -text
+DumpUefiCalls/build.sh -text
 EmuVariableUefi/EmuVariable.c -text
 EmuVariableUefi/EmuVariableRuntimeDxe.inf -text
 EmuVariableUefi/InitVariable.c -text
