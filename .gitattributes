@@ -2607,6 +2607,8 @@ DVDDisk/ScsiDiskDxe.inf -text
 DumpUefiCalls/BootServices.c -text
 DumpUefiCalls/BootServices.h -text
 DumpUefiCalls/Common.h -text
+DumpUefiCalls/DataHub.c -text
+DumpUefiCalls/DataHub.h -text
 DumpUefiCalls/DumpUefiCalls.c -text
 DumpUefiCalls/DumpUefiCalls.dsc -text
 DumpUefiCalls/DumpUefiCalls.inf -text
