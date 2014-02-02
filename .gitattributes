@@ -2589,6 +2589,7 @@ CloverPackage/utils/fdisk440/user.h -text
 CloverPackage/utils/fdisk440/util.h -text
 /CloverPkg.dec -text
 CloverX/CloverX.xcodeproj/project.pbxproj -text
+CloverX/CloverX.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
@@ -2614,6 +2615,8 @@ DumpUefiCalls/DumpUefiCalls.dsc -text
 DumpUefiCalls/DumpUefiCalls.inf -text
 DumpUefiCalls/FileLib.c -text
 DumpUefiCalls/FileLib.h -text
+DumpUefiCalls/Fs.c -text
+DumpUefiCalls/Fs.h -text
 DumpUefiCalls/Lib.c -text
 DumpUefiCalls/Lib.h -text
 DumpUefiCalls/Log.c -text
