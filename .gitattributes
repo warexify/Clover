@@ -5714,8 +5714,7 @@ rEFIt_UEFI/entry_scan/securevars.c -text
 rEFIt_UEFI/entry_scan/tool.c -text
 rEFIt_UEFI/entry_scan/uefibootoption.c -text
 rEFIt_UEFI/include/Handle.h -text
-rEFIt_UEFI/include/egemb_back_selected_small.h -text
-rEFIt_UEFI/include/egemb_refit_banner.h -text
+rEFIt_UEFI/include/egemb_icons.h -text
 rEFIt_UEFI/include/syslinux_mbr.h -text
 rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
@@ -5731,8 +5730,6 @@ rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
-rEFIt_UEFI/refit/egemb_back_selected_small.h -text
-rEFIt_UEFI/refit/egemb_refit_banner.h -text
 rEFIt_UEFI/refit/icns.c -text
 rEFIt_UEFI/refit/lib.c -text
 rEFIt_UEFI/refit/lib.h -text
