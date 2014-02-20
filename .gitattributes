@@ -5107,6 +5107,7 @@ OsxAptioFixDrv/DecodedKernelCheck.c -text
 OsxAptioFixDrv/DecodedKernelCheck.h -text
 OsxAptioFixDrv/FlatDevTree/device_tree.c -text
 OsxAptioFixDrv/FlatDevTree/device_tree.h -text
+OsxAptioFixDrv/Hibernate.h -text
 OsxAptioFixDrv/Lib.c -text
 OsxAptioFixDrv/Lib.h -text
 OsxAptioFixDrv/Mach-O/Mach-O.c -text
@@ -5115,6 +5116,8 @@ OsxAptioFixDrv/Mach-O/UefiLoader.h -text
 OsxAptioFixDrv/Mach-O/loader.h -text
 OsxAptioFixDrv/NVRAMDebug.c -text
 OsxAptioFixDrv/NVRAMDebug.h -text
+OsxAptioFixDrv/OsxAptioFix2Drv.c -text
+OsxAptioFixDrv/OsxAptioFix2Drv.inf -text
 OsxAptioFixDrv/OsxAptioFixDrv.c -text
 OsxAptioFixDrv/OsxAptioFixDrv.inf -text
 OsxAptioFixDrv/VMem.c -text
