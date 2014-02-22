@@ -5327,6 +5327,7 @@ Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/QemuInternal.h -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/QemuType0.c -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/QemuType1.c -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.c -text
+Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.h -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.inf -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
