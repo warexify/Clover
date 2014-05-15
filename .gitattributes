@@ -2556,6 +2556,7 @@ CloverPackage/package/po/zh_TW.po -text
 CloverPackage/package/po4a-clover.cfg -text
 CloverPackage/package/translate.sh -text
 CloverPackage/utils/Make.rules -text
+CloverPackage/utils/Make.rules.gcc48 -text
 CloverPackage/utils/Makefile -text
 CloverPackage/utils/bdmesg/Makefile -text
 CloverPackage/utils/bdmesg/bdmesg.c -text
