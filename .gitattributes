@@ -74,6 +74,7 @@ Certificates/Default/Signing.key -text
 /Clover.dsc -text
 /Clover.fdf -text
 CloverPackage/CREDITS -text
+CloverPackage/CloverPrefpane/CloverPrefpane[!!-~]2.xcodeproj/project.pbxproj -text
 CloverPackage/CloverPrefpane/CloverPrefpane.strings -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.pbxproj -text
 CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
@@ -95,6 +96,7 @@ CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverPrefpane/translate_source.sh -text
 CloverPackage/CloverPrefpane/translate_xib.sh -text
 CloverPackage/CloverUpdater/CloverUpdater.strings -text
+CloverPackage/CloverUpdater/CloverUpdater.xcodeproj/project.pbxproj -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
