@@ -470,6 +470,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/tool_shell.png -text
@@ -1417,6 +1418,7 @@ CloverPackage/CloverV2/themespkg/Shield/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/Shield/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/Shield/icons/tool_shell.png -text
 CloverPackage/CloverV2/themespkg/Shield/icons/vol_clover.icns -text
@@ -1671,6 +1673,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.png -text
@@ -2076,6 +2079,7 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_win.icns -text
+CloverPackage/CloverV2/themespkg/metal/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/pointer-black.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.png -text
