@@ -5339,7 +5339,6 @@ Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.h -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.inf -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
-Patches_for_EDK2/OvmfPkg/SeaBios/seabiospatches.diff -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/Pci22.h -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ConsoleLogger.c -text
