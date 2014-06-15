@@ -2478,6 +2478,8 @@ CloverPackage/CloverV2/themespkg/thinkpad/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/thinkpad/scrollbar/up_button.png -text
 CloverPackage/CloverV2/themespkg/thinkpad/theme.plist -text
 CloverPackage/Makefile -text
+CloverPackage/imgskel/Library/Application[!!-~]Support/Clover/CloverDaemon -text
+CloverPackage/imgskel/Library/Application[!!-~]Support/LaunchDaemons/com.projectosx.clover.daemon.plist -text
 CloverPackage/makeiso -text
 CloverPackage/makepkg -text
 CloverPackage/package/Distribution -text
