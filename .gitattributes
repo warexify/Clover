@@ -5323,6 +5323,11 @@ Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacySio.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/Thunk.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/X64/InterruptTable.S -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/X64/InterruptTable.asm -text
+Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/BiosVideo.c -text
+Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/BiosVideo.h -text
+Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/ComponentName.c -text
+Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VesaBiosExtensions.h -text
+Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VideoDxe.inf -text
 Patches_for_EDK2/OvmfPkg/HowTo-Qemu+Csm.txt -text
 Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.dsc -text
@@ -5337,6 +5342,8 @@ Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/QemuType1.c -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.c -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.h -text
 Patches_for_EDK2/OvmfPkg/QemuSmbiosPlatformDxe/SmbiosPlatformDxe.inf -text
+Patches_for_EDK2/OvmfPkg/QemuVideoDxe/Gop.c -text
+Patches_for_EDK2/OvmfPkg/QemuVideoDxe/QemuVideoDxe.inf -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
