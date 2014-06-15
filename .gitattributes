@@ -5346,6 +5346,7 @@ Patches_for_EDK2/OvmfPkg/QemuVideoDxe/Gop.c -text
 Patches_for_EDK2/OvmfPkg/QemuVideoDxe/QemuVideoDxe.inf -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
+Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/Pci22.h -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ConsoleLogger.c -text
