@@ -5722,6 +5722,8 @@ rEFIt_UEFI/Platform/spd.c -text
 rEFIt_UEFI/Platform/spd.h -text
 rEFIt_UEFI/Platform/sse3_5_patcher.h -text
 rEFIt_UEFI/Platform/sse3_patcher.h -text
+rEFIt_UEFI/Platform/string.c -text
+rEFIt_UEFI/Platform/string.h -text
 rEFIt_UEFI/Platform/usbfix.c -text
 rEFIt_UEFI/entry_scan/common.c -text
 rEFIt_UEFI/entry_scan/entry_scan.h -text
