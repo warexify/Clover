@@ -5731,6 +5731,7 @@ rEFIt_UEFI/entry_scan/common.c -text
 rEFIt_UEFI/entry_scan/entry_scan.h -text
 rEFIt_UEFI/entry_scan/legacy.c -text
 rEFIt_UEFI/entry_scan/loader.c -text
+rEFIt_UEFI/entry_scan/lockedgraphics.c -text
 rEFIt_UEFI/entry_scan/secureboot.c -text
 rEFIt_UEFI/entry_scan/securebootkeys.h -text
 rEFIt_UEFI/entry_scan/securehash.c -text
