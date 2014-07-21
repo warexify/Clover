@@ -2019,10 +2019,15 @@ CloverPackage/CloverV2/themespkg/magnifico/icons/tool_part.icns -text svneol=uns
 CloverPackage/CloverV2/themespkg/magnifico/icons/tool_rescue.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/tool_shell.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/tool_shell.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/magnifico/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/vol_external.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/vol_firewire.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/icons/vol_internal.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/magnifico/icons/vol_internal_ext3.icns -text
+CloverPackage/CloverV2/themespkg/magnifico/icons/vol_internal_hfs.icns -text
+CloverPackage/CloverV2/themespkg/magnifico/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/icons/vol_optical.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/magnifico/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/magnifico/logo.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/screenshot.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/magnifico/scrollbar/bar_end.png -text
@@ -5284,12 +5289,6 @@ PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
-Patches_for_EDK2/BaseLib/IA32/Thunk16-best.S -text
-Patches_for_EDK2/BaseLib/IA32/Thunk16-orig.S -text
-Patches_for_EDK2/BaseLib/Readme.txt -text
-Patches_for_EDK2/BaseLib/X64/Thunk16-best.S -text
-Patches_for_EDK2/BaseLib/X64/Thunk16-orig.S -text
-Patches_for_EDK2/BaseLib/X86FxSave.c -text
 Patches_for_EDK2/BaseTools/Source/C/GenVtf/GenVtf.c -text
 Patches_for_EDK2/BaseTools/Source/C/Makefiles/header.makefile -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.cpp -text
@@ -5297,9 +5296,17 @@ Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.h -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrSyntax.cpp -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmbeddedPkg/Library/EfiFileLib/EfiFileLib.c -text
-Patches_for_EDK2/EmuVariable.c -text
-Patches_for_EDK2/IsaAcpi.c -text
-Patches_for_EDK2/MdeModulePkgSample.dec -text
+Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
+Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
+Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
+Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
+Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
+Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16-best.S -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16-orig.S -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/Readme.txt -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-best.S -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-orig.S -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
 Patches_for_EDK2/OvmfPkg/Csm/CsmSupportLib/LegacyPlatform.c -text
@@ -5348,7 +5355,7 @@ Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
-Patches_for_EDK2/Pci22.h -text
+Patches_for_EDK2/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.c -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ConsoleLogger.c -text
 Patches_for_EDK2/ShellPkg/Application/Shell/FileHandleWrappers.c -text
 Patches_for_EDK2/ShellPkg/Application/Shell/Shell.c -text
@@ -5366,9 +5373,7 @@ Patches_for_EDK2/ShellPkg/ShellPkg.dec -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
 Patches_for_EDK2/ShellPkg/build64.sh -text
 Patches_for_EDK2/ShellPkg/build64c.sh -text
-Patches_for_EDK2/UefiBaseType.h -text
 Patches_for_EDK2/UefiCpuPkg/Library/CpuExceptionHandlerLib/X64/ExceptionHandlerAsm.S -text
-Patches_for_EDK2/UefiHiiServicesLib.c -text
 Patches_for_EDK2/UsbBusDxe/ComponentName.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.h -text
@@ -5381,7 +5386,6 @@ Patches_for_EDK2/UsbBusDxe/UsbHub.c -text
 Patches_for_EDK2/UsbBusDxe/UsbHub.h -text
 Patches_for_EDK2/UsbBusDxe/UsbUtility.c -text
 Patches_for_EDK2/UsbBusDxe/UsbUtility.h -text
-Patches_for_EDK2/UsbHcMem.c -text
 Patches_for_EDK2/UsbMouseDxe/ComponentName.c -text
 Patches_for_EDK2/UsbMouseDxe/MouseHid.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.c -text
