@@ -5296,6 +5296,10 @@ Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.h -text
 Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrSyntax.cpp -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmbeddedPkg/Library/EfiFileLib/EfiFileLib.c -text
+Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
+Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
+Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
+Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16-best.S -text
