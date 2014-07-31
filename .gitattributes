@@ -5314,7 +5314,6 @@ Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-best.S -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-orig.S -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
-Patches_for_EDK2/OvmfPkg/Csm/CsmSupportLib/LegacyPlatform.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.S -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.asm -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/Ipf/IpfBootSupport.c -text
