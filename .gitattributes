@@ -2613,6 +2613,7 @@ CpuDxe/Ia32/CpuInterrupt.S -text
 CpuDxe/Ia32/CpuInterrupt.asm -text
 CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
+CpuDxe/X64/CpuInterrupt.nasm -text
 DVDBus/ComponentName.c -text
 DVDBus/ScsiBus.c -text
 DVDBus/ScsiBus.h -text
