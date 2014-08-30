@@ -5685,6 +5685,7 @@ VBoxFsDxe/test/lsroot.c -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
+/buildnasm.sh -text
 /cbuild.bat -text
 /ebuild.sh -text
 font/BoG_DejaVuSans_9W.png -text
