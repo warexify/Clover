@@ -5354,6 +5354,8 @@ Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBda.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBios.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBios.h -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBiosDxe.inf -text
+Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBiosDxe.uni -text
+Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBiosDxeExtra.uni -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBiosInterface.h -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBootSupport.c -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyCmos.c -text
