@@ -5409,7 +5409,6 @@ Patches_for_EDK2/ShellPkg/ShellPkg.dec -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
 Patches_for_EDK2/ShellPkg/build64.sh -text
 Patches_for_EDK2/ShellPkg/build64c.sh -text
-Patches_for_EDK2/UefiCpuPkg/Library/CpuExceptionHandlerLib/X64/ExceptionHandlerAsm.S -text
 Patches_for_EDK2/UsbBusDxe/ComponentName.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.h -text
