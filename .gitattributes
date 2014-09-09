@@ -2605,6 +2605,7 @@ CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
 CpuDxe/Ia32/CpuInterrupt.S -text
 CpuDxe/Ia32/CpuInterrupt.asm -text
+CpuDxe/Ia32/CpuInterrupt.nasm -text
 CpuDxe/X64/CpuInterrupt.S -text
 CpuDxe/X64/CpuInterrupt.asm -text
 CpuDxe/X64/CpuInterrupt.nasm -text
