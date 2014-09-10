@@ -5168,6 +5168,7 @@ OsxAptioFixDrv/VMem.c -text
 OsxAptioFixDrv/VMem.h -text
 OsxAptioFixDrv/X64/AsmFuncsX64.S -text
 OsxAptioFixDrv/X64/AsmFuncsX64.asm -text
+OsxAptioFixDrv/X64/AsmFuncsX64.nasm -text
 OsxAptioFixDrv/X64/TestAsm32.asm -text
 OsxBdsDxe/Bds.h -text
 OsxBdsDxe/BdsDxe.inf -text
