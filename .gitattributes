@@ -2507,12 +2507,12 @@ CloverPackage/package/Scripts.templates/VboxHfs/postinstall -text
 CloverPackage/package/Scripts.templates/bootNo/postinstall -text
 CloverPackage/package/bin/clean_po_headers.sh -text
 CloverPackage/package/bin/po4a/COPYING -text
-CloverPackage/package/bin/po4a/MANIFEST -text
 CloverPackage/package/bin/po4a/NEWS -text
 CloverPackage/package/bin/po4a/README -text
 CloverPackage/package/bin/po4a/README.maintainers -text
 CloverPackage/package/bin/po4a/README.tests -text
 CloverPackage/package/bin/po4a/README.translators -text
+CloverPackage/package/bin/po4a/lib/Locale/Po4a/AsciiDoc.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/BibTeX.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Chooser.pm -text
 CloverPackage/package/bin/po4a/lib/Locale/Po4a/Common.pm -text
