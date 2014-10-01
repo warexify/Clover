@@ -133,6 +133,7 @@ CloverPackage/CloverUpdater/translate_xib.sh -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe -text
 CloverPackage/CloverV2/BootSectors/cdboot -text
+CloverPackage/CloverV2/BootSectors/lzma -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
 CloverPackage/CloverV2/BootSectors/usbs32.bin -text
 CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/UEFI/config.plist -text
