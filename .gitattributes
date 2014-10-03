@@ -5173,6 +5173,8 @@ OsxAptioFixDrv/X64/AsmFuncsX64.nasm -text
 OsxAptioFixDrv/X64/TestAsm32.asm -text
 OsxBdsDxe/Bds.h -text
 OsxBdsDxe/BdsDxe.inf -text
+OsxBdsDxe/BdsDxe.uni -text
+OsxBdsDxe/BdsDxeExtra.uni -text
 OsxBdsDxe/BdsEntry.c -text
 OsxBdsDxe/BootMaint/BBSsupport.c -text
 OsxBdsDxe/BootMaint/BBSsupport.h -text
