@@ -162,6 +162,7 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/logo_main.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/logo_metal.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-green.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
+CloverPackage/CloverV2/EFI/CLOVER/tools/Shell.inf -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi -text
