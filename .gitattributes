@@ -5378,6 +5378,7 @@ Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VesaBiosExtensions.h -text
 Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VideoDxe.inf -text
 Patches_for_EDK2/OvmfPkg/HowTo-Qemu+Csm.txt -text
 Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
+Patches_for_EDK2/OvmfPkg/Library/PlatformBdsLib/BdsPlatform.c -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.dsc -text
 Patches_for_EDK2/OvmfPkg/OvmfCloverX64.fdf -text
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp -text
