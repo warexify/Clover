@@ -5325,11 +5325,6 @@ PartitionDxe/Mbr.c -text
 PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
-Patches_for_EDK2/BaseTools/Source/C/GenVtf/GenVtf.c -text
-Patches_for_EDK2/BaseTools/Source/C/Makefiles/header.makefile -text
-Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.cpp -text
-Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrFormPkg.h -text
-Patches_for_EDK2/BaseTools/Source/C/VfrCompile/VfrSyntax.cpp -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/EmbeddedPkg/Library/EfiFileLib/EfiFileLib.c -text
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
@@ -5338,14 +5333,6 @@ Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/BaseLib.inf -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16-best.S -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16-orig.S -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/IA32/Thunk16.nasm -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/Readme.txt -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-best.S -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16-orig.S -text
-Patches_for_EDK2/MdePkg/Library/BaseLib/X64/Thunk16.nasm -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.S -text
