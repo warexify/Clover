@@ -6234,6 +6234,7 @@ OsxEfiLdr/TianoDecompress.c -text
 OsxEfiLdr/TianoDecompress.h -text
 OsxEfiLdr/efildr.c -text
 OsxFatBinaryDrv/OsxFatBinaryDrv.c -text
+OsxFatBinaryDrv/OsxFatBinaryDrv.h -text
 OsxFatBinaryDrv/OsxFatBinaryDrv.inf -text
 OsxLowMemFixDrv/Lib.c -text
 OsxLowMemFixDrv/Lib.h -text
