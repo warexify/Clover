@@ -2687,7 +2687,6 @@ GraphicsConsoleDxe/GraphicsConsole.c -text
 GraphicsConsoleDxe/GraphicsConsole.h -text
 GraphicsConsoleDxe/GraphicsConsoleDxe.inf -text
 GraphicsConsoleDxe/LaffStd.c -text
-GrubFS/.gitmodules -text
 GrubFS/COPYING -text
 GrubFS/THANKS -text
 GrubFS/TODO -text
