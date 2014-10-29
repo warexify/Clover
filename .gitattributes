@@ -10,6 +10,7 @@ AtaAtapi/AhciMode.h -text
 AtaAtapi/AtaAtapiPassThru.c -text
 AtaAtapi/AtaAtapiPassThru.h -text
 AtaAtapi/AtaAtapiPassThru.inf -text
+AtaAtapi/AtaAtapiPassThruDxe.uni -text
 AtaAtapi/ComponentName.c -text
 AtaAtapi/IdeMode.c -text
 AtaAtapi/IdeMode.h -text
