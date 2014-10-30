@@ -6357,6 +6357,8 @@ Patches_for_EDK2/UsbBusDxe/ComponentName.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.c -text
 Patches_for_EDK2/UsbBusDxe/UsbBus.h -text
 Patches_for_EDK2/UsbBusDxe/UsbBusDxe.inf -text
+Patches_for_EDK2/UsbBusDxe/UsbBusDxe.uni -text
+Patches_for_EDK2/UsbBusDxe/UsbBusDxeExtra.uni -text
 Patches_for_EDK2/UsbBusDxe/UsbDesc.c -text
 Patches_for_EDK2/UsbBusDxe/UsbDesc.h -text
 Patches_for_EDK2/UsbBusDxe/UsbEnumer.c -text
@@ -6370,6 +6372,8 @@ Patches_for_EDK2/UsbMouseDxe/MouseHid.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.c -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouse.h -text
 Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.inf -text
+Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.uni -text
+Patches_for_EDK2/UsbMouseDxe/UsbMouseDxeExtra.uni -text
 Patches_for_EDK2/XhciDxe/ComponentName.c -text
 Patches_for_EDK2/XhciDxe/ComponentName.h -text
 Patches_for_EDK2/XhciDxe/UsbHcMem.c -text
