@@ -6645,6 +6645,11 @@ VBoxFsDxe/test/fsw_posix.h -text
 VBoxFsDxe/test/fsw_posix_base.h -text
 VBoxFsDxe/test/lslr.c -text
 VBoxFsDxe/test/lsroot.c -text
+Xcode/Clover.xcworkspace/contents.xcworkspacedata -text
+Xcode/Clover/Clover.xcodeproj/project.pbxproj -text
+Xcode/EDK2/EDK2.xcodeproj/project.pbxproj -text
+Xcode/GrubFS/GrubFS.xcodeproj/project.pbxproj -text
+Xcode/rEFIt_UEFI/rEFIt_UEFI.xcodeproj/project.pbxproj -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
