@@ -6274,6 +6274,8 @@ PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
 Patches_for_EDK2/BaseTools/Source/Python/AutoGen/GenC.py -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
+Patches_for_EDK2/Conf/build_rule.txt -text
+Patches_for_EDK2/Conf/tools_def.txt -text
 Patches_for_EDK2/EmbeddedPkg/Library/EfiFileLib/EfiFileLib.c -text
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
@@ -6387,9 +6389,7 @@ Patches_for_EDK2/XhciDxe/XhciReg.c -text
 Patches_for_EDK2/XhciDxe/XhciReg.h -text
 Patches_for_EDK2/XhciDxe/XhciSched.c -text
 Patches_for_EDK2/XhciDxe/XhciSched.h -text
-Patches_for_EDK2/build_rule.txt -text
 Patches_for_EDK2/clover.log -text
-Patches_for_EDK2/tools_def.txt -text
 PcatRealTimeClockRuntimeDxe/PcRtc.c -text
 PcatRealTimeClockRuntimeDxe/PcRtc.h -text
 PcatRealTimeClockRuntimeDxe/PcRtcEntry.c -text
