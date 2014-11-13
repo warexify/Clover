@@ -2602,7 +2602,6 @@ CloverPackage/utils/fdisk440/user.c -text
 CloverPackage/utils/fdisk440/user.h -text
 CloverPackage/utils/fdisk440/util.h -text
 /CloverPkg.dec -text
-CloverX/CloverX.xcodeproj/project.pbxproj -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
@@ -6679,7 +6678,6 @@ rEFIt_UEFI/libeg/libscreen.c -text
 rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/text.c -text
-rEFIt_UEFI/rEFIt_proj/rEFIt_proj.xcodeproj/project.pbxproj -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
 rEFIt_UEFI/refit/IO.h -text
