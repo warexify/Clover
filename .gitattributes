@@ -2575,6 +2575,7 @@ CloverPackage/utils/bdmesg/Makefile -text
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.pbxproj -text
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate -text
+CloverPackage/utils/bdmesg/bdmesg.xcodeproj/xcshareddata/xcschemes/bdmesg.xcscheme -text
 CloverPackage/utils/bdmesg/bdmesg/main.c -text
 CloverPackage/utils/clover-genconfig/Makefile -text
 CloverPackage/utils/clover-genconfig/Readme.txt -text
