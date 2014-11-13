@@ -36,6 +36,7 @@ BootHFS/Installation.txt -text
 BootHFS/Makefile -text
 BootHFS/boot0ab.s -text
 BootHFS/boot0af.s -text
+BootHFS/boot0md.s -text
 BootHFS/boot0ss.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
@@ -2571,7 +2572,10 @@ CloverPackage/utils/Make.rules -text
 CloverPackage/utils/Make.rules.gcc48 -text
 CloverPackage/utils/Makefile -text
 CloverPackage/utils/bdmesg/Makefile -text
-CloverPackage/utils/bdmesg/bdmesg.c -text
+CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.pbxproj -text
+CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate -text
+CloverPackage/utils/bdmesg/bdmesg/main.c -text
 CloverPackage/utils/clover-genconfig/Makefile -text
 CloverPackage/utils/clover-genconfig/Readme.txt -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.c -text
