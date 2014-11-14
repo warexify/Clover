@@ -6220,6 +6220,10 @@ Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/BiosVideo.h -text
 Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/ComponentName.c -text
 Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VesaBiosExtensions.h -text
 Patches_for_EDK2/OvmfPkg/Csm/VideoDxe/VideoDxe.inf -text
+Patches_for_EDK2/OvmfPkg/GccBugReproducer/GccBugReproducer-O0.inf -text
+Patches_for_EDK2/OvmfPkg/GccBugReproducer/GccBugReproducer-Os.inf -text
+Patches_for_EDK2/OvmfPkg/GccBugReproducer/GccBugReproducer.c -text
+Patches_for_EDK2/OvmfPkg/GccBugReproducer/readme.txt -text
 Patches_for_EDK2/OvmfPkg/HowTo-Qemu+Csm.txt -text
 Patches_for_EDK2/OvmfPkg/HowToStartQemu.txt -text
 Patches_for_EDK2/OvmfPkg/Library/PlatformBdsLib/BdsPlatform.c -text
