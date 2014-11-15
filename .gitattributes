@@ -6256,6 +6256,8 @@ Patches_for_EDK2/ShellPkg/Application/Shell/ShellParametersProtocol.c -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ShellProtocol.c -text
 Patches_for_EDK2/ShellPkg/Include/Protocol/EfiShell.h -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellBcfgCommandLib/UefiShellBcfgCommandLib.c -text
+Patches_for_EDK2/ShellPkg/Library/UefiShellCommandLib/ConsistMapping.c -text
+Patches_for_EDK2/ShellPkg/Library/UefiShellCommandLib/UefiShellCommandLib.inf -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellDebug1CommandsLib/DmpStore.c -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellDriver1CommandsLib/Dh.c -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellInstall1CommandsLib/Bcfg.c -text
