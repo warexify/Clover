@@ -6679,6 +6679,7 @@ rEFIt_UEFI/entry_scan/tool.c -text
 rEFIt_UEFI/entry_scan/uefibootoption.c -text
 rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/egemb_icons.h -text
+rEFIt_UEFI/include/scroll_images.h -text
 rEFIt_UEFI/include/syslinux_mbr.h -text
 rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
