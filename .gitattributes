@@ -38,11 +38,13 @@ BootHFS/boot0ab.s -text
 BootHFS/boot0af.s -text
 BootHFS/boot0md.s -text
 BootHFS/boot0ss.s -text
+BootHFS/boot0xg.s -text
 BootHFS/boot1f32-install.sh -text
 BootHFS/boot1f32.s -text
 BootHFS/boot1f32alt.s -text
 BootHFS/boot1h.s -text
 BootHFS/boot1h2.s -text
+BootHFS/boot1x.s -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
@@ -2577,6 +2579,8 @@ CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/contents.xcworks
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate -text
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/xcshareddata/xcschemes/bdmesg.xcscheme -text
 CloverPackage/utils/bdmesg/bdmesg/main.c -text
+CloverPackage/utils/boot1-install/Makefile -text
+CloverPackage/utils/boot1-install/boot1-install.c -text
 CloverPackage/utils/clover-genconfig/Makefile -text
 CloverPackage/utils/clover-genconfig/Readme.txt -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.c -text
