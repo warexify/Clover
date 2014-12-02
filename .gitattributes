@@ -2628,6 +2628,8 @@ DVDDisk/ComponentName.c -text
 DVDDisk/ScsiDisk.c -text
 DVDDisk/ScsiDisk.h -text
 DVDDisk/ScsiDiskDxe.inf -text
+DriverOverride/DriverOverride.c -text
+DriverOverride/DriverOverride.inf -text
 DumpUefiCalls/BootServices.c -text
 DumpUefiCalls/BootServices.h -text
 DumpUefiCalls/Common.h -text
