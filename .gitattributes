@@ -6629,6 +6629,7 @@ rEFIt_UEFI/Platform/LegacyBiosThunk.c -text
 rEFIt_UEFI/Platform/LegacyBiosThunk.h -text
 rEFIt_UEFI/Platform/LegacyBoot.c -text
 rEFIt_UEFI/Platform/LoaderUefi.h -text
+rEFIt_UEFI/Platform/Net.c -text
 rEFIt_UEFI/Platform/Nvram.c -text
 rEFIt_UEFI/Platform/Platform.h -text
 rEFIt_UEFI/Platform/PlatformDriverOverride.c -text
