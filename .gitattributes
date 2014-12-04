@@ -6570,6 +6570,8 @@ Xcode/Clover.xcworkspace/contents.xcworkspacedata -text
 Xcode/Clover/Clover.xcodeproj/project.pbxproj -text
 Xcode/EDK2/EDK2.xcodeproj/project.pbxproj -text
 Xcode/GrubFS/GrubFS.xcodeproj/project.pbxproj -text
+Xcode/Package/Package.xcodeproj/project.pbxproj -text
+Xcode/Package/Package.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 Xcode/rEFIt_UEFI/rEFIt_UEFI.xcodeproj/project.pbxproj -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
