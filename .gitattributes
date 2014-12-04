@@ -2580,6 +2580,9 @@ CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/xcshareddata/xcschemes/bdmesg.xcscheme -text
 CloverPackage/utils/bdmesg/bdmesg/main.c -text
 CloverPackage/utils/boot1-install/Makefile -text
+CloverPackage/utils/boot1-install/boot1-inst.xcodeproj/project.pbxproj -text
+CloverPackage/utils/boot1-install/boot1-inst.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/utils/boot1-install/boot1-inst.xcodeproj/xcshareddata/xcschemes/boot1-install.xcscheme -text
 CloverPackage/utils/boot1-install/boot1-install.c -text
 CloverPackage/utils/clover-genconfig/Makefile -text
 CloverPackage/utils/clover-genconfig/Readme.txt -text
