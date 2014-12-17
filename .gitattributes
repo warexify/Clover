@@ -55,6 +55,7 @@ BootSector/bin/Readme.txt -text
 BootSector/bin/Start64.com -text
 BootSector/bin/Start64H.com -text
 BootSector/bin/Start64H2.com -text
+BootSector/bin/Start64H3.com -text
 BootSector/bin/boot0 -text
 BootSector/bin/boot0md -text
 BootSector/bin/boot1f32 -text
