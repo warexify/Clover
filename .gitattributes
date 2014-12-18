@@ -56,6 +56,7 @@ BootSector/bin/Start64.com -text
 BootSector/bin/Start64H.com -text
 BootSector/bin/Start64H2.com -text
 BootSector/bin/Start64H3.com -text
+BootSector/bin/Start64H4.com -text
 BootSector/bin/boot0 -text
 BootSector/bin/boot0md -text
 BootSector/bin/boot1f32 -text
@@ -2827,11 +2828,6 @@ GrubFS/grub/grub-core/kern/i386/realmode.S -text
 GrubFS/grub/grub-core/kern/i386/tsc.c -text
 GrubFS/grub/grub-core/kern/i386/xen/hypercall.S -text
 GrubFS/grub/grub-core/kern/i386/xen/startup.S -text
-GrubFS/grub/grub-core/kern/ia64/cache.c -text
-GrubFS/grub/grub-core/kern/ia64/dl.c -text
-GrubFS/grub/grub-core/kern/ia64/dl_helper.c -text
-GrubFS/grub/grub-core/kern/ia64/efi/init.c -text
-GrubFS/grub/grub-core/kern/ia64/efi/startup.S -text
 GrubFS/grub/grub-core/kern/list.c -text
 GrubFS/grub/grub-core/kern/main.c -text
 GrubFS/grub/grub-core/kern/misc.c -text
