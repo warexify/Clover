@@ -2584,10 +2584,6 @@ CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/contents.xcworks
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate -text
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/xcshareddata/xcschemes/bdmesg.xcscheme -text
 CloverPackage/utils/bdmesg/bdmesg/main.c -text
-CloverPackage/utils/binaries/bdmesg -text
-CloverPackage/utils/binaries/boot1-install -text
-CloverPackage/utils/binaries/clover-genconfig -text
-CloverPackage/utils/binaries/fdisk440 -text
 CloverPackage/utils/boot1-install/Makefile -text
 CloverPackage/utils/boot1-install/boot1-inst.xcodeproj/project.pbxproj -text
 CloverPackage/utils/boot1-install/boot1-inst.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
