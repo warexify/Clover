@@ -2683,6 +2683,8 @@ FatPkg/EnhancedFatDxe/Fat.c -text
 FatPkg/EnhancedFatDxe/Fat.h -text
 FatPkg/EnhancedFatDxe/Fat.inf -text
 FatPkg/EnhancedFatDxe/Fat.msa -text
+FatPkg/EnhancedFatDxe/Fat.uni -text
+FatPkg/EnhancedFatDxe/FatExtra.uni -text
 FatPkg/EnhancedFatDxe/FatFileSystem.h -text
 FatPkg/EnhancedFatDxe/FileName.c -text
 FatPkg/EnhancedFatDxe/FileSpace.c -text
@@ -2695,12 +2697,11 @@ FatPkg/EnhancedFatDxe/Open.c -text
 FatPkg/EnhancedFatDxe/OpenVolume.c -text
 FatPkg/EnhancedFatDxe/ReadWrite.c -text
 FatPkg/EnhancedFatDxe/UnicodeCollation.c -text
-FatPkg/FatPei/FatLiteAccess.c -text
-FatPkg/FatPei/FatLiteLib.c -text
-FatPkg/FatPei/FatPei.inf -text
 FatPkg/FatPkg.dec -text
 FatPkg/FatPkg.dsc -text
 FatPkg/FatPkg.fdf -text
+FatPkg/FatPkg.uni -text
+FatPkg/FatPkgExtra.uni -text
 GraphicsConsoleDxe/ComponentName.c -text
 GraphicsConsoleDxe/GraphicsConsole.c -text
 GraphicsConsoleDxe/GraphicsConsole.h -text
