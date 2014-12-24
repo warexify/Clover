@@ -2617,6 +2617,10 @@ CloverPackage/utils/fdisk440/part.h -text
 CloverPackage/utils/fdisk440/user.c -text
 CloverPackage/utils/fdisk440/user.h -text
 CloverPackage/utils/fdisk440/util.h -text
+CloverPackage/utils/showfstype/Makefile -text
+CloverPackage/utils/showfstype/showfstype.c -text
+CloverPackage/utils/showfstype/showfstype.xcodeproj/project.pbxproj -text
+CloverPackage/utils/showfstype/showfstype.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 /CloverPkg.dec -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
