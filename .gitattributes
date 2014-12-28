@@ -2624,12 +2624,6 @@ CloverPackage/utils/partutil/partutil.xcodeproj/project.pbxproj -text
 CloverPackage/utils/partutil/partutil.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/partutil.xcscheme -text
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist -text
-CloverPackage/utils/showfstype/Makefile -text
-CloverPackage/utils/showfstype/showfstype.c -text
-CloverPackage/utils/showfstype/showfstype.xcodeproj/project.pbxproj -text
-CloverPackage/utils/showfstype/showfstype.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
-CloverPackage/utils/showfstype/showfstype.xcodeproj/xcshareddata/xcschemes/showfstype.xcscheme -text
-CloverPackage/utils/showfstype/showfstype.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist -text
 /CloverPkg.dec -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
