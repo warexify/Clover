@@ -2617,6 +2617,13 @@ CloverPackage/utils/fdisk440/part.h -text
 CloverPackage/utils/fdisk440/user.c -text
 CloverPackage/utils/fdisk440/user.h -text
 CloverPackage/utils/fdisk440/util.h -text
+CloverPackage/utils/partutil/Makefile -text
+CloverPackage/utils/partutil/partutil.c -text
+CloverPackage/utils/partutil/partutil.h -text
+CloverPackage/utils/partutil/partutil.xcodeproj/project.pbxproj -text
+CloverPackage/utils/partutil/partutil.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
+CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/partutil.xcscheme -text
+CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist -text
 CloverPackage/utils/showfstype/Makefile -text
 CloverPackage/utils/showfstype/showfstype.c -text
 CloverPackage/utils/showfstype/showfstype.xcodeproj/project.pbxproj -text
