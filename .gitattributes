@@ -5537,6 +5537,8 @@ Xcode/GrubFS/GrubFS.xcodeproj/project.pbxproj -text
 Xcode/Package/Package.xcodeproj/project.pbxproj -text
 Xcode/Package/Package.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 Xcode/rEFIt_UEFI/rEFIt_UEFI.xcodeproj/project.pbxproj -text
+bdmesg_efi/bdmesg.c -text
+bdmesg_efi/bdmesg.inf -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
