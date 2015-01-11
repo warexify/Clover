@@ -45,6 +45,7 @@ BootHFS/boot1f32alt.s -text
 BootHFS/boot1h.s -text
 BootHFS/boot1h2.s -text
 BootHFS/boot1x.s -text
+BootHFS/boot1xalt.s -text
 BootSector/BootDuet.S -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
