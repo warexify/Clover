@@ -164,11 +164,14 @@ CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/Screen[!!-~]Shot[!
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/Screen[!!-~]Shot[!!-~]2014-04-04[!!-~]at[!!-~]21.23.59.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp -text
+CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/screenshot.png -text
+CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/theme.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/frame.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/logo_main.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/logo_metal.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-green.png -text
 CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
+CloverPackage/CloverV2/EFI/CLOVER/themes/random/theme.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell.inf -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
