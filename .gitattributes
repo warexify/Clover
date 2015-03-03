@@ -5687,3 +5687,4 @@ rEFIt_UEFI/refit/list.h -text
 rEFIt_UEFI/refit/main.c -text
 rEFIt_UEFI/refit/menu.c -text
 rEFIt_UEFI/refit/screen.c -text
+/update.sh -text
