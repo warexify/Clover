@@ -5543,6 +5543,7 @@ Xcode/Package/Package.xcodeproj/project.xcworkspace/contents.xcworkspacedata -te
 Xcode/rEFIt_UEFI/rEFIt_UEFI.xcodeproj/project.pbxproj -text
 bdmesg_efi/bdmesg.c -text
 bdmesg_efi/bdmesg.inf -text
+/build_gcc5.sh -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
