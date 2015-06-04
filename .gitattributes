@@ -5574,6 +5574,11 @@ font/device.png -text
 font/mrenglesTheme.png -text
 font/print-cyr.png -text
 font/print.png -text
+font/type2_Athelas_24pt_Cell_25x27.png -text
+font/type2_Candara_24pt_Cell_23x29.png -text
+font/type2_Candara_24pt_Cell_23x29_noAA.png -text
+font/type2_Cochin_24pt_Cell_26x28.png -text
+font/type2_Copperplate_24pt_Cell_23x25.png -text
 gptsync/clover_boot0ss_mbr.h -text
 gptsync/gptsync.c -text
 gptsync/gptsync.h -text
