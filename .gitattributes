@@ -455,6 +455,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/logo.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_arch.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_fedora.icns -text
@@ -1415,6 +1416,7 @@ CloverPackage/CloverV2/themespkg/Shield/icons/func_reset.png -text
 CloverPackage/CloverV2/themespkg/Shield/icons/func_secureboot.png -text
 CloverPackage/CloverV2/themespkg/Shield/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/Shield/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/Shield/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/os_legacy.icns -text
@@ -1657,6 +1659,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/func_secureboot_config.png -t
 CloverPackage/CloverV2/themespkg/black_green/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/logo.png -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_arch.icns -text
+CloverPackage/CloverV2/themespkg/black_green/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover_BoW.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns -text
