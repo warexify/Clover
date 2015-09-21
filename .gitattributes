@@ -5356,6 +5356,8 @@ Patches_for_EDK2/XhciDxe/UsbHcMem.h -text
 Patches_for_EDK2/XhciDxe/Xhci.c -text
 Patches_for_EDK2/XhciDxe/Xhci.h -text
 Patches_for_EDK2/XhciDxe/XhciDxe.inf -text
+Patches_for_EDK2/XhciDxe/XhciDxe.uni -text
+Patches_for_EDK2/XhciDxe/XhciDxeExtra.uni -text
 Patches_for_EDK2/XhciDxe/XhciReg.c -text
 Patches_for_EDK2/XhciDxe/XhciReg.h -text
 Patches_for_EDK2/XhciDxe/XhciSched.c -text
