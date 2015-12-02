@@ -107,7 +107,6 @@ CloverPackage/CloverPrefpane/translate_source.sh -text
 CloverPackage/CloverPrefpane/translate_xib.sh -text
 CloverPackage/CloverUpdater/CloverUpdater.strings -text
 CloverPackage/CloverUpdater/CloverUpdater.xcodeproj/project.pbxproj -text
-CloverPackage/CloverUpdater/CloverUpdater.xcodeproj/xcshareddata/xcschemes/CloverUpdater.xcscheme -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility -text
 CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
