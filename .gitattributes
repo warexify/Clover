@@ -5250,6 +5250,7 @@ Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -te
 Patches_for_EDK2/MdePkg/Include/Base.h -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
+Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
 Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/IA32/InterruptTable.S -text
