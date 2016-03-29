@@ -5238,8 +5238,6 @@ PartitionDxe/Partition.c -text
 PartitionDxe/Partition.h -text
 PartitionDxe/PartitionDxe.inf -text
 Patches_for_EDK2/BaseTools/Scripts/gcc4.9-ld-script -text
-Patches_for_EDK2/BaseTools/Source/Python/AutoGen/AutoGen.py -text
-Patches_for_EDK2/BaseTools/Source/Python/AutoGen/GenC.py -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
