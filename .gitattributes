@@ -5367,7 +5367,9 @@ Patches_for_EDK2/XhciDxe/XhciSched.h -text
 Patches_for_EDK2/clover.log -text
 PcatRealTimeClockRuntimeDxe/PcRtc.c -text
 PcatRealTimeClockRuntimeDxe/PcRtc.h -text
+PcatRealTimeClockRuntimeDxe/PcRtc.uni -text
 PcatRealTimeClockRuntimeDxe/PcRtcEntry.c -text
+PcatRealTimeClockRuntimeDxe/PcRtcExtra.uni -text
 PcatRealTimeClockRuntimeDxe/PcatRealTimeClockRuntimeDxe.inf -text
 PciRootBridgeDxe/DeviceIo.c -text
 PciRootBridgeDxe/DeviceIo.h -text
