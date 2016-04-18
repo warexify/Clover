@@ -58,6 +58,8 @@ BootSector/bin/Start64H.com -text
 BootSector/bin/Start64H2.com -text
 BootSector/bin/Start64H3.com -text
 BootSector/bin/Start64H4.com -text
+BootSector/bin/Start64H5.com -text svneol=unset#unset
+BootSector/bin/Start64H6.com -text svneol=unset#unset
 BootSector/bin/boot0 -text
 BootSector/bin/boot0md -text
 BootSector/bin/boot1f32 -text
@@ -77,6 +79,8 @@ BootSector/fix-embedded-paths -text
 BootSector/gnu-gcc -text
 BootSector/gnu-ld -text
 BootSector/st32_64.S -text
+BootSector/st32_64H.S -text
+BootSector/st32_64H.mak -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
