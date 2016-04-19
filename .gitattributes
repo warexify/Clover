@@ -47,6 +47,7 @@ BootHFS/boot1h2.s -text
 BootHFS/boot1x.s -text
 BootHFS/boot1xalt.s -text
 BootSector/BootDuet.S -text
+BootSector/Clover.mak -text
 BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
 BootSector/b64.sh -text
@@ -80,7 +81,6 @@ BootSector/gnu-gcc -text
 BootSector/gnu-ld -text
 BootSector/st32_64.S -text
 BootSector/st32_64H.S -text
-BootSector/st32_64H.mak -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
