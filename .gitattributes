@@ -5638,6 +5638,7 @@ Xcode/rEFIt_UEFI/rEFIt_UEFI.xcodeproj/project.pbxproj -text
 bdmesg_efi/bdmesg.c -text
 bdmesg_efi/bdmesg.inf -text
 /build-compiler.readme.txt -text
+/buildExtras.sh -text
 /build_gcc5.sh -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
@@ -5645,6 +5646,7 @@ bdmesg_efi/bdmesg.inf -text
 /buildnasm.sh -text
 /cbuild.bat -text
 /ebuild.sh -text
+/ebuild5.sh -text
 font/BoG_DejaVuSans_9W.png -text
 font/BoG_LucidaConsole_10W.png -text
 font/BoG_LucidaConsole_10W_NA.png -text
