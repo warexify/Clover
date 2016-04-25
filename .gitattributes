@@ -5249,9 +5249,11 @@ Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
+Patches_for_EDK2/MdeModulePkg/Universal/Variable/RuntimeDxe/Variable.c -text svneol=native#unset
 Patches_for_EDK2/MdePkg/Include/Base.h -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
+Patches_for_EDK2/MdePkg/Library/UefiDevicePathLib/DevicePathToText.c -text svneol=native#unset
 Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin -text
@@ -5307,6 +5309,7 @@ Patches_for_EDK2/OvmfPkg/SeaBios/seabiosget.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/seabiosmake.sh -text
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin -text
 Patches_for_EDK2/OvmfPkg/XenBusDxe/XenHypercall.h -text
+Patches_for_EDK2/OvmfPkg/XenBusDxe/XenStore.c -text svneol=native#unset
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.c -text
 Patches_for_EDK2/ShellPkg/Application/Shell/ConsoleLogger.c -text
