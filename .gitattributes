@@ -5649,7 +5649,6 @@ bdmesg_efi/bdmesg.inf -text
 /buildnasm.sh -text
 /cbuild.bat -text
 /ebuild.sh -text
-/ebuild5.sh -text
 font/BoG_DejaVuSans_9W.png -text
 font/BoG_LucidaConsole_10W.png -text
 font/BoG_LucidaConsole_10W_NA.png -text
