@@ -84,6 +84,7 @@ BootSector/st32_64H.S -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
+BuildTools/usr/local/bin/mtoc.NEW.zip -text
 Certificates/Default/Signing.crt -text
 Certificates/Default/Signing.key -text
 /Clover.dsc -text
