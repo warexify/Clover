@@ -48,7 +48,6 @@ BootHFS/boot1x.s -text
 BootHFS/boot1xalt.s -text
 BootSector/BootDuet.S -text
 BootSector/Clover.mak -text
-BootSector/HowToCompileAsm.txt -text
 BootSector/Makefile -text
 BootSector/b64.sh -text
 BootSector/bin/Gpt.com -text
@@ -76,9 +75,6 @@ BootSector/cbuild.sh -text
 BootSector/cdboot.s -text
 BootSector/efi32.S -text
 BootSector/efi64.S -text
-BootSector/fix-embedded-paths -text
-BootSector/gnu-gcc -text
-BootSector/gnu-ld -text
 BootSector/st32_64.S -text
 BootSector/st32_64H.S -text
 BootSector/start32.S -text
