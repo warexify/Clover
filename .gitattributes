@@ -74,9 +74,13 @@ BootSector/boot1.s -text
 BootSector/cbuild.sh -text
 BootSector/cdboot.s -text
 BootSector/efi32.S -text
+BootSector/efi32.nasm -text
 BootSector/efi64.S -text
+BootSector/efi64.nasm -text
+BootSector/nasm.mak -text
 BootSector/st32_64.S -text
 BootSector/st32_64H.S -text
+BootSector/start.nasm -text
 BootSector/start32.S -text
 BootSector/start32H.S -text
 BootSector/start32H2.S -text
