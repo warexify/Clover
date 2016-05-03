@@ -5013,9 +5013,7 @@ Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Library/UefiHiiServicesLib/UefiHiiServicesLib.inf -text
 Library/VBoxPeCoffLib/BasePeCoff.c -text
 Library/VBoxPeCoffLib/BasePeCoffLibInternals.h -text
-Library/VBoxPeCoffLib/PeCoffLib.h -text
 Library/VBoxPeCoffLib/PeCoffLoaderEx.c -text
-Library/VBoxPeCoffLib/PeImage.h -text
 Library/VBoxPeCoffLib/VBoxPeCoffLib.inf -text
 Library/VideoBiosPatchLib/915resolution.c -text
 Library/VideoBiosPatchLib/915resolution.h -text
