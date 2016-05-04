@@ -5251,6 +5251,7 @@ Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -te
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/RuntimeDxe/Variable.c -text svneol=native#unset
 Patches_for_EDK2/MdePkg/Include/Base.h -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
+Patches_for_EDK2/MdePkg/Include/Library/PeCoffLib.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
 Patches_for_EDK2/MdePkg/Library/UefiDevicePathLib/DevicePathToText.c -text svneol=native#unset
 Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
