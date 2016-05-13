@@ -5394,7 +5394,7 @@ Ps2MouseDxe/ComponentName.c -text
 Ps2MouseDxe/Ps2Mouse.c -text
 Ps2MouseDxe/Ps2Mouse.h -text
 Ps2MouseDxe/Ps2MouseDxe.inf -text
-/Readme.rtf -text
+/Readme.md -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
