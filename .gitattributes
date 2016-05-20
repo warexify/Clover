@@ -2720,6 +2720,11 @@ CloverPackage/utils/partutil/partutil.xcodeproj/project.xcworkspace/contents.xcw
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/partutil.xcscheme -text
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist -text
 /CloverPkg.dec -text
+Conf/ReadMe.txt -text
+Conf/Tpl/MSFT/build_rule.template -text
+Conf/Tpl/MSFT/config.template -text
+Conf/Tpl/MSFT/target.template -text
+Conf/Tpl/MSFT/tools_def.template -text
 CpuDxe/Cpu.c -text
 CpuDxe/Cpu.inf -text
 CpuDxe/CpuDxe.h -text
