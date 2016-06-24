@@ -469,6 +469,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/os_mint.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_netbsd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_openbsd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_redhat.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/os_sierra.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_suse.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_tiger.icns -text
@@ -484,6 +485,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ext3.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_recovery.icns -text
