@@ -1959,6 +1959,8 @@ CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/bootcamp/scrollbar/up_button.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/selection_indicator.png -text
+CloverPackage/CloverV2/themespkg/bootcamp/theme-bcstyle.plist -text
 CloverPackage/CloverV2/themespkg/bootcamp/theme.plist -text
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_000.png -text
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_001.png -text
