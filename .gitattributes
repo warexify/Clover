@@ -3718,7 +3718,7 @@ GrubFS/src/missing.c -text
 GrubFS/src/path.c -text
 GrubFS/src/utf8.c -text
 HFSPlus/HFSPlus.inf -text
-HFSPlus/ReadMe.rtf -text
+HFSPlus/ReadMe.md -text
 Include/EfiFlashMap.h -text
 Include/EfiLdrHandoff.h -text
 Include/FlashLayout.h -text
