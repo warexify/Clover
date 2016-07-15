@@ -1771,6 +1771,8 @@ CloverPackage/CloverV2/themespkg/black_green/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/black_green/logo_trans.png -text
+CloverPackage/CloverV2/themespkg/black_green/radio_button.png -text
+CloverPackage/CloverV2/themespkg/black_green/radio_button_selected.png -text
 CloverPackage/CloverV2/themespkg/black_green/screenshot.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_fill.png -text
@@ -1780,6 +1782,7 @@ CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/up_button.png -text
+CloverPackage/CloverV2/themespkg/black_green/selection_indicator.png -text
 CloverPackage/CloverV2/themespkg/black_green/theme.plist -text
 CloverPackage/CloverV2/themespkg/bluemac/GoB_PTMono_10W.png -text
 CloverPackage/CloverV2/themespkg/bluemac/banner_bluemac.png -text
