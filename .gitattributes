@@ -490,6 +490,8 @@ CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/BGM/logo_trans.png -text
+CloverPackage/CloverV2/themespkg/BGM/radio_button.png -text
+CloverPackage/CloverV2/themespkg/BGM/radio_button_selected.png -text
 CloverPackage/CloverV2/themespkg/BGM/screenshot.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_end.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_fill.png -text
@@ -499,6 +501,7 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_end.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text
+CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png -text
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
 CloverPackage/CloverV2/themespkg/Shield/Anim_10_Options_SMBIOS_Settings/Anim_10_Options_SMBIOS_Settings_000.png -text
 CloverPackage/CloverV2/themespkg/Shield/Anim_10_Options_SMBIOS_Settings/Anim_10_Options_SMBIOS_Settings_001.png -text
@@ -1441,6 +1444,8 @@ CloverPackage/CloverV2/themespkg/Shield/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/Shield/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/Shield/logo_trans.png -text
+CloverPackage/CloverV2/themespkg/Shield/radio_button.png -text
+CloverPackage/CloverV2/themespkg/Shield/radio_button_selected.png -text
 CloverPackage/CloverV2/themespkg/Shield/screenshot.png -text
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/#scroll_start.png -text
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/bar_end.png -text
@@ -1459,6 +1464,7 @@ CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_end.png -te
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_fill.png -text
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_start.png -text
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/up_button.png -text
+CloverPackage/CloverV2/themespkg/Shield/selection_indicator.png -text
 CloverPackage/CloverV2/themespkg/Shield/theme.plist -text
 CloverPackage/CloverV2/themespkg/Space/SelectBig.png -text
 CloverPackage/CloverV2/themespkg/Space/SelectSmall.png -text
