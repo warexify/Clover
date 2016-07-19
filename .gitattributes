@@ -5421,7 +5421,9 @@ Patches_for_EDK2/BaseTools/Scripts/gcc4.9-ld-script -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
+Patches_for_EDK2/MdeModulePkg/Application/UiApp/FrontPageCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
+Patches_for_EDK2/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
