@@ -5959,6 +5959,8 @@ rEFIt_UEFI/libeg/libegint.h -text
 rEFIt_UEFI/libeg/libscreen.c -text
 rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
+rEFIt_UEFI/libeg/lodepng.c -text
+rEFIt_UEFI/libeg/lodepng.h -text
 rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
