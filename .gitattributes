@@ -2695,9 +2695,13 @@ CloverPackage/CloverV2/themespkg/thinkpad/Banner2_ThinkPad_F1.png -text svneol=u
 CloverPackage/CloverV2/themespkg/thinkpad/Dot_ThinkPad_tile.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/GoB_PTMono_10W.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/Leaf_ThinkPad_scale.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/thinkpad/LogoBlack.png -text
+CloverPackage/CloverV2/themespkg/thinkpad/LogoWhite.png -text
 CloverPackage/CloverV2/themespkg/thinkpad/Selection_big.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/Selection_small.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/WoB_PTMono_10W_NA.png -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/thinkpad/WoB_mplus2mMedium_9W.png -text
+CloverPackage/CloverV2/themespkg/thinkpad/font.png -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/boot_linux.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/boot_win.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/cd.icns -text svneol=unset#unset
@@ -2711,6 +2715,7 @@ CloverPackage/CloverV2/themespkg/thinkpad/icons/func_options.png -text svneol=un
 CloverPackage/CloverV2/themespkg/thinkpad/icons/func_reset.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/func_shutdown.png -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/logo.png -text
+CloverPackage/CloverV2/themespkg/thinkpad/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_clover.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_cougar.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_fedora.icns -text svneol=unset#unset
@@ -2726,6 +2731,7 @@ CloverPackage/CloverV2/themespkg/thinkpad/icons/os_mint.icns -text svneol=unset#
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_netbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_openbsd.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_recovery.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/thinkpad/icons/os_sierra.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_snow.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_suse.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_tiger.icns -text svneol=unset#unset
@@ -2735,6 +2741,7 @@ CloverPackage/CloverV2/themespkg/thinkpad/icons/os_vista.icns -text svneol=unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_win.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_win7.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/os_win8.icns -text svneol=unset#unset
+CloverPackage/CloverV2/themespkg/thinkpad/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/pointer.icns -text svneol=unset#unset
 CloverPackage/CloverV2/themespkg/thinkpad/icons/pointer.png -text
 CloverPackage/CloverV2/themespkg/thinkpad/icons/tool_shell.icns -text svneol=unset#unset
