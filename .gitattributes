@@ -3903,8 +3903,10 @@ LegacyBios/Region2Dxe/LegacyRegion2Dxe.inf -text
 LegacyBios/Thunk/Thunk.c -text
 LegacyBios/VideoDxe/BiosVideo.c -text
 LegacyBios/VideoDxe/BiosVideo.h -text
+LegacyBios/VideoDxe/BiosVideo2.c -text
 LegacyBios/VideoDxe/ComponentName.c -text
 LegacyBios/VideoDxe/VideoDxe.inf -text
+LegacyBios/VideoDxe/VideoDxe2.inf -text
 LegacyBios/X64/InterruptTable.S -text
 LegacyBios/X64/InterruptTable.asm -text
 Library/DuetTimerLib/DuetTimerLib.inf -text
