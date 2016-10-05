@@ -3626,6 +3626,7 @@ Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/Mv.c -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellLevel3CommandsLib/Help.c -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellLib/UefiShellLib.c -text
+Patches_for_EDK2/ShellPkg/Library/UefiShellLib/UefiShellLib.h -text
 Patches_for_EDK2/ShellPkg/Library/UefiShellLib/UefiShellLib.inf -text
 Patches_for_EDK2/ShellPkg/ShellPkg.dec -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
