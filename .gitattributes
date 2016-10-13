@@ -5,7 +5,6 @@ AppleImageCodec/AppleImageCodec.c -text
 AppleImageCodec/AppleImageCodec.inf -text
 AppleImageCodec/load_bmp.c -text
 AppleImageCodec/load_icns.c -text
-AppleImageCodec/picopng-old.c -text
 AppleImageCodec/picopng.c -text
 AppleImageCodec/picopng.h -text
 AtaAtapi/AhciMode.c -text
