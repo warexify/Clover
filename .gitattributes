@@ -1974,6 +1974,7 @@ Include/Library/VideoBiosPatchLib.h -text
 Include/Protocol/AppleDeviceControl.h -text
 Include/Protocol/AppleDiskIo.h -text
 Include/Protocol/AppleImageCodecProtocol.h -text
+Include/Protocol/AppleKeyState.h -text
 Include/Protocol/AppleSMC.h -text
 Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
