@@ -3327,6 +3327,8 @@ Logo/LogoBW.bmp -text
 Logo/Logo_CloverEFI.bmp -text
 MsgLog/MsgLog.c -text
 MsgLog/MsgLog.inf -text
+OSInfo/OSInfo.c -text
+OSInfo/OSInfo.inf -text
 OhciDxe/ComponentName.c -text
 OhciDxe/ComponentName.h -text
 OhciDxe/Descriptor.h -text
