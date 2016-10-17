@@ -1979,6 +1979,7 @@ Include/Protocol/AppleSMC.h -text
 Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/MsgLog.h -text
+Include/Protocol/OSInfo.h -text
 Include/Protocol/PciIoImp.h -text
 Include/Protocol/UsbMassImpl.h -text
 Include/Protocol/efiConsoleControl.h -text
