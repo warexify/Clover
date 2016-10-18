@@ -1967,6 +1967,7 @@ Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
 Include/Protocol/AppleDeviceControl.h -text
 Include/Protocol/AppleDiskIo.h -text
+Include/Protocol/AppleGraphConfig.h -text
 Include/Protocol/AppleImageCodecProtocol.h -text
 Include/Protocol/AppleKeyState.h -text
 Include/Protocol/AppleSMC.h -text
