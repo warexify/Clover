@@ -1,12 +1,6 @@
 * text=auto !eol
 AcpiReset/Reset.c -text
 AcpiReset/Reset.inf -text
-AppleImageCodec/AppleImageCodec.c -text
-AppleImageCodec/AppleImageCodec.inf -text
-AppleImageCodec/load_bmp.c -text
-AppleImageCodec/load_icns.c -text
-AppleImageCodec/picopng.c -text
-AppleImageCodec/picopng.h -text
 AtaAtapi/AhciMode.c -text
 AtaAtapi/AhciMode.h -text
 AtaAtapi/AtaAtapiPassThru.c -text
@@ -3328,8 +3322,6 @@ Logo/LogoBW.bmp -text
 Logo/Logo_CloverEFI.bmp -text
 MsgLog/MsgLog.c -text
 MsgLog/MsgLog.inf -text
-OSInfo/OSInfo.c -text
-OSInfo/OSInfo.inf -text
 OhciDxe/ComponentName.c -text
 OhciDxe/ComponentName.h -text
 OhciDxe/Descriptor.h -text
@@ -3691,6 +3683,16 @@ PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
+Protocols/AppleImageCodec/AppleImageCodec.c -text
+Protocols/AppleImageCodec/AppleImageCodec.inf -text
+Protocols/AppleImageCodec/load_bmp.c -text
+Protocols/AppleImageCodec/load_icns.c -text
+Protocols/AppleImageCodec/picopng.c -text
+Protocols/AppleImageCodec/picopng.h -text
+Protocols/OSInfo/OSInfo.c -text
+Protocols/OSInfo/OSInfo.inf -text
+Protocols/SMCHelper/SMCHelper.c -text
+Protocols/SMCHelper/SMCHelper.inf -text
 Ps2MouseDxe/CommPs2.c -text
 Ps2MouseDxe/CommPs2.h -text
 Ps2MouseDxe/ComponentName.c -text
@@ -3698,8 +3700,6 @@ Ps2MouseDxe/Ps2Mouse.c -text
 Ps2MouseDxe/Ps2Mouse.h -text
 Ps2MouseDxe/Ps2MouseDxe.inf -text
 /Readme.md -text
-SMCHelper/SMCHelper.c -text
-SMCHelper/SMCHelper.inf -text
 SataControllerDxe/ComponentName.c -text
 SataControllerDxe/SataController.c -text
 SataControllerDxe/SataController.h -text
