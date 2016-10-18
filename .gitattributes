@@ -3683,6 +3683,8 @@ PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
+Protocols/AppleGraphicsConfig/GraphicsConfig.c -text
+Protocols/AppleGraphicsConfig/GraphicsConfig.inf -text
 Protocols/AppleImageCodec/AppleImageCodec.c -text
 Protocols/AppleImageCodec/AppleImageCodec.inf -text
 Protocols/AppleImageCodec/load_bmp.c -text
