@@ -1024,6 +1024,13 @@ DVDDisk/ComponentName.c -text
 DVDDisk/ScsiDisk.c -text
 DVDDisk/ScsiDisk.h -text
 DVDDisk/ScsiDiskDxe.inf -text
+FSInject/FSInject.c -text
+FSInject/FSInject.dec -text
+FSInject/FSInject.h -text
+FSInject/FSInject.inf -text
+FSInject/Include/Protocol/FSInjectProtocol.h -text
+FSInject/Test.c -text
+FSInject/Test.h -text
 FatPkg/EnhancedFatDxe/ComponentName.c -text
 FatPkg/EnhancedFatDxe/Data.c -text
 FatPkg/EnhancedFatDxe/Debug.c -text
@@ -3682,13 +3689,6 @@ Protocols/EmuVariableUefi/EmuVariable.c -text
 Protocols/EmuVariableUefi/EmuVariableRuntimeDxe.inf -text
 Protocols/EmuVariableUefi/InitVariable.c -text
 Protocols/EmuVariableUefi/Variable.h -text
-Protocols/FSInject/FSInject.c -text
-Protocols/FSInject/FSInject.dec -text
-Protocols/FSInject/FSInject.h -text
-Protocols/FSInject/FSInject.inf -text
-Protocols/FSInject/Include/Protocol/FSInjectProtocol.h -text
-Protocols/FSInject/Test.c -text
-Protocols/FSInject/Test.h -text
 Protocols/FirmwareVolume/FirmwareVolume.c -text
 Protocols/FirmwareVolume/FirmwareVolume.inf -text
 Protocols/MsgLog/MsgLog.c -text
