@@ -3659,6 +3659,8 @@ Protocols/AppleImageCodec/load_bmp.c -text
 Protocols/AppleImageCodec/load_icns.c -text
 Protocols/AppleImageCodec/picopng.c -text
 Protocols/AppleImageCodec/picopng.h -text
+Protocols/AppleKeyState/AppleKeyState.c -text
+Protocols/AppleKeyState/AppleKeyState.inf -text
 Protocols/DriverOverride/DriverOverride.c -text
 Protocols/DriverOverride/DriverOverride.inf -text
 Protocols/DumpUefiCalls/AppleProtocols.c -text
