@@ -641,6 +641,8 @@ CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_winXP.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/vol_clover_hdd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/vol_internal_hdd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/background.png -text
+CloverPackage/CloverV2/themespkg/BGM/checkbox.png -text
+CloverPackage/CloverV2/themespkg/BGM/checkbox_checked.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/cd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_about.png -text
 CloverPackage/CloverV2/themespkg/BGM/icons/func_clover.png -text
