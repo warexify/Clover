@@ -3663,6 +3663,8 @@ Protocols/AppleImageCodec/picopng.c -text
 Protocols/AppleImageCodec/picopng.h -text
 Protocols/AppleKeyState/AppleKeyState.c -text
 Protocols/AppleKeyState/AppleKeyState.inf -text
+Protocols/AppleUITheme/AppleUITheme.c -text
+Protocols/AppleUITheme/AppleUITheme.inf -text
 Protocols/DriverOverride/DriverOverride.c -text
 Protocols/DriverOverride/DriverOverride.inf -text
 Protocols/DumpUefiCalls/AppleProtocols.c -text
