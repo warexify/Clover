@@ -1940,6 +1940,7 @@ Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
 Include/Protocol/AppleDeviceControl.h -text
 Include/Protocol/AppleDiskIo.h -text
+Include/Protocol/AppleEvent.h -text
 Include/Protocol/AppleGraphConfig.h -text
 Include/Protocol/AppleImageCodecProtocol.h -text
 Include/Protocol/AppleKeyState.h -text
@@ -3653,6 +3654,8 @@ PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
+Protocols/AppleEvent/AppleEvent.c -text
+Protocols/AppleEvent/AppleEvent.inf -text
 Protocols/AppleGraphicsConfig/GraphicsConfig.c -text
 Protocols/AppleGraphicsConfig/GraphicsConfig.inf -text
 Protocols/AppleImageCodec/AppleImageCodec.c -text
