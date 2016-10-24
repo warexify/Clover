@@ -3705,7 +3705,7 @@ Protocols/EmuVariableUefi/InitVariable.c -text
 Protocols/EmuVariableUefi/Variable.h -text
 Protocols/FirmwareVolume/FirmwareVolume.c -text
 Protocols/FirmwareVolume/FirmwareVolume.inf -text
-Protocols/FirmwareVolume/FirmwareVolumeBMP.c -text
+Protocols/FirmwareVolume/FirmwareVolumePNG.c -text
 Protocols/HashServiceFix/HashServiceFix.c -text
 Protocols/HashServiceFix/HashServiceFix.inf -text
 Protocols/HashServiceFix/sha1.c -text
