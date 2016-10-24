@@ -3706,6 +3706,10 @@ Protocols/EmuVariableUefi/Variable.h -text
 Protocols/FirmwareVolume/FirmwareVolume.c -text
 Protocols/FirmwareVolume/FirmwareVolume.inf -text
 Protocols/FirmwareVolume/FirmwareVolumeBMP.c -text
+Protocols/HashServiceFix/HashServiceFix.c -text
+Protocols/HashServiceFix/HashServiceFix.inf -text
+Protocols/HashServiceFix/sha1.c -text
+Protocols/HashServiceFix/sha1.h -text
 Protocols/MsgLog/MsgLog.c -text
 Protocols/MsgLog/MsgLog.inf -text
 Protocols/OSInfo/OSInfo.c -text
