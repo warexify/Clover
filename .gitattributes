@@ -3669,9 +3669,9 @@ Protocols/AppleImageCodec/load_bmp.c -text
 Protocols/AppleImageCodec/load_icns.c -text
 Protocols/AppleImageCodec/picopng.c -text
 Protocols/AppleImageCodec/picopng.h -text
-Protocols/AppleKeyMap/AppleKeyMapAggregator.c -text
-Protocols/AppleKeyMap/AppleKeyMapAggregator.h -text
-Protocols/AppleKeyMap/AppleKeyMapAggregator.inf -text
+Protocols/AppleKeyAggregator/AppleKeyAggregator.c -text
+Protocols/AppleKeyAggregator/AppleKeyAggregator.h -text
+Protocols/AppleKeyAggregator/AppleKeyAggregator.inf -text
 Protocols/AppleKeyState/AppleKeyState.c -text
 Protocols/AppleKeyState/AppleKeyState.inf -text
 Protocols/AppleUITheme/AppleUITheme.c -text
