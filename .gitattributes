@@ -3924,6 +3924,8 @@ UefiCpuPkg/Universal/Acpi/S3Resume2Pei/S3Resume.c -text
 UefiCpuPkg/Universal/Acpi/S3Resume2Pei/S3Resume2Pei.inf -text
 UefiCpuPkg/build.sh -text
 UefiCpuPkg/edk2.patch-idtgdt -text
+UsbKbDxe/AppleKey.c -text
+UsbKbDxe/AppleKey.h -text
 UsbKbDxe/ComponentName.c -text
 UsbKbDxe/EfiKey.c -text
 UsbKbDxe/EfiKey.h -text
