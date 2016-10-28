@@ -15,6 +15,8 @@ AtaBus/AtaBus.h -text
 AtaBus/AtaBusDxe.inf -text
 AtaBus/AtaPassThruExecute.c -text
 AtaBus/ComponentName.c -text
+BiosKeyboard/AppleKey.c -text
+BiosKeyboard/AppleKey.h -text
 BiosKeyboard/BiosKeyboard.c -text
 BiosKeyboard/BiosKeyboard.h -text
 BiosKeyboard/ComponentName.c -text
@@ -1967,6 +1969,8 @@ LegacyBios/BlockIoDxe/Edd.h -text
 LegacyBios/BlockIoDxe/LegacyBiosThunk.c -text
 LegacyBios/IA32/InterruptTable.S -text
 LegacyBios/IA32/InterruptTable.asm -text
+LegacyBios/KeyboardDxe/AppleKey.c -text
+LegacyBios/KeyboardDxe/AppleKey.h -text
 LegacyBios/KeyboardDxe/BiosKeyboard.c -text
 LegacyBios/KeyboardDxe/BiosKeyboard.h -text
 LegacyBios/KeyboardDxe/ComponentName.c -text
