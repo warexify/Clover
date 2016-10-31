@@ -3663,10 +3663,6 @@ PciRootBridgeDxe/PcatPciRootBridgeDevicePath.c -text
 PciRootBridgeDxe/PcatPciRootBridgeIo.c -text
 PciRootBridgeDxe/PciRootBridge.inf -text
 PciRootBridgeDxe/X64/PcatIo.c -text
-Protocols/AppleEvent/AppleEvent.c -text
-Protocols/AppleEvent/AppleEvent.inf -text
-Protocols/AppleGraphicsConfig/GraphicsConfig.c -text
-Protocols/AppleGraphicsConfig/GraphicsConfig.inf -text
 Protocols/AppleImageCodec/AppleImageCodec.c -text
 Protocols/AppleImageCodec/AppleImageCodec.inf -text
 Protocols/AppleImageCodec/load_bmp.c -text
@@ -3676,8 +3672,6 @@ Protocols/AppleImageCodec/picopng.h -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.c -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.h -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.inf -text
-Protocols/AppleKeyState/AppleKeyState.c -text
-Protocols/AppleKeyState/AppleKeyState.inf -text
 Protocols/AppleUITheme/AppleUITheme.c -text
 Protocols/AppleUITheme/AppleUITheme.inf -text
 Protocols/DriverOverride/DriverOverride.c -text
@@ -3719,8 +3713,6 @@ Protocols/HashServiceFix/sha1.c -text
 Protocols/HashServiceFix/sha1.h -text
 Protocols/MsgLog/MsgLog.c -text
 Protocols/MsgLog/MsgLog.inf -text
-Protocols/OSInfo/OSInfo.c -text
-Protocols/OSInfo/OSInfo.inf -text
 Protocols/OsxFatBinaryDrv/OsxFatBinaryDrv.c -text
 Protocols/OsxFatBinaryDrv/OsxFatBinaryDrv.h -text
 Protocols/OsxFatBinaryDrv/OsxFatBinaryDrv.inf -text
