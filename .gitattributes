@@ -4079,6 +4079,8 @@ rEFIt_UEFI/Platform/device_tree.h -text
 rEFIt_UEFI/Platform/gma.c -text
 rEFIt_UEFI/Platform/gma.h -text
 rEFIt_UEFI/Platform/guid.c -text
+rEFIt_UEFI/Platform/hda.c -text
+rEFIt_UEFI/Platform/hda.h -text
 rEFIt_UEFI/Platform/kernel_patcher.c -text
 rEFIt_UEFI/Platform/kernel_patcher.h -text
 rEFIt_UEFI/Platform/kext_inject.c -text
