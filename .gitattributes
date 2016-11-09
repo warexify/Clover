@@ -1958,6 +1958,7 @@ Include/Protocol/KeyboardInfo.h -text
 Include/Protocol/MsgLog.h -text
 Include/Protocol/OSInfo.h -text
 Include/Protocol/PciIoImp.h -text
+Include/Protocol/SimpleAudioOut.h -text
 Include/Protocol/UsbMassImpl.h -text
 Include/Protocol/efiConsoleControl.h -text
 LegacyBios/BlockIoDxe/BiosBlkIo.c -text
