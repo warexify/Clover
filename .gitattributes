@@ -4115,12 +4115,11 @@ rEFIt_UEFI/entry_scan/securevars.c -text
 rEFIt_UEFI/entry_scan/tool.c -text
 rEFIt_UEFI/entry_scan/uefibootoption.c -text
 rEFIt_UEFI/include/Handle.h -text
-rEFIt_UEFI/include/egemb_icons.h -text
-rEFIt_UEFI/include/scroll_images.h -text
 rEFIt_UEFI/include/syslinux_mbr.h -text
 rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
-rEFIt_UEFI/libeg/egemb_font.h -text
+rEFIt_UEFI/libeg/egemb_font.c -text
+rEFIt_UEFI/libeg/egemb_icons.c -text
 rEFIt_UEFI/libeg/image.c -text
 rEFIt_UEFI/libeg/libeg.h -text
 rEFIt_UEFI/libeg/libegint.h -text
@@ -4129,6 +4128,7 @@ rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/lodepng.c -text
 rEFIt_UEFI/libeg/lodepng.h -text
+rEFIt_UEFI/libeg/scroll_images.c -text
 rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/refit.inf -text
 rEFIt_UEFI/refit/IO.c -text
