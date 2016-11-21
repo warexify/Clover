@@ -1344,6 +1344,13 @@ Drivers/UsbKbDxe/KeyBoard.h -text
 Drivers/UsbKbDxe/UsbKbDxe.inf -text
 Drivers/UsbKbDxe/UsbKbDxe.uni -text
 Drivers/UsbKbDxe/UsbKbDxeExtra.uni -text
+Drivers/UsbMouseDxe/ComponentName.c -text
+Drivers/UsbMouseDxe/MouseHid.c -text
+Drivers/UsbMouseDxe/UsbMouse.c -text
+Drivers/UsbMouseDxe/UsbMouse.h -text
+Drivers/UsbMouseDxe/UsbMouseDxe.inf -text
+Drivers/UsbMouseDxe/UsbMouseDxe.uni -text
+Drivers/UsbMouseDxe/UsbMouseDxeExtra.uni -text
 Drivers/XhciDxe/ComponentName.c -text
 Drivers/XhciDxe/ComponentName.h -text
 Drivers/XhciDxe/UsbHcMem.c -text
@@ -3762,13 +3769,6 @@ Patches_for_EDK2/ShellPkg/ShellPkg.dec -text
 Patches_for_EDK2/ShellPkg/ShellPkgX64.dsc -text
 Patches_for_EDK2/ShellPkg/build64.sh -text
 Patches_for_EDK2/ShellPkg/build64c.sh -text
-Patches_for_EDK2/UsbMouseDxe/ComponentName.c -text
-Patches_for_EDK2/UsbMouseDxe/MouseHid.c -text
-Patches_for_EDK2/UsbMouseDxe/UsbMouse.c -text
-Patches_for_EDK2/UsbMouseDxe/UsbMouse.h -text
-Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.inf -text
-Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.uni -text
-Patches_for_EDK2/UsbMouseDxe/UsbMouseDxeExtra.uni -text
 Patches_for_EDK2/clover.log -text
 Protocols/AppleImageCodec/AppleImageCodec.c -text
 Protocols/AppleImageCodec/AppleImageCodec.inf -text
