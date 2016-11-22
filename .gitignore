@@ -13,8 +13,8 @@ CloverPackage/CloverV2/BootSectors/boot1altV3
 CloverPackage/CloverV2/BootSectors/boot1f32
 CloverPackage/CloverV2/BootSectors/boot1f32alt
 CloverPackage/CloverV2/BootSectors/boot1h
-HFSPlus/Ia32/HFSPlus.efi
-HFSPlus/X64/HFSPlus.efi
+FileSystems/HFSPlus/Ia32/HFSPlus.efi
+FileSystems/HFSPlus/X64/HFSPlus.efi
 /Version.h
 rEFIt_UEFI/Version.h
 /vers.txt
