@@ -2289,6 +2289,7 @@ Include/EfiImageFormat.h -text
 Include/EfiLdrHandoff.h -text
 Include/FlashLayout.h -text
 Include/Guid/AcpiDescription.h -text
+Include/Guid/ApplePlatformInfo.h -text
 Include/Guid/ConsoleOutConfig.h -text
 Include/Guid/DxeCoreFileName.h -text
 Include/Guid/FlashMapHob.h -text
