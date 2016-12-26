@@ -999,6 +999,7 @@ CloverPackage/CloverV2/themespkg/christmas/icons/func_reset.png -text
 CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot.png -text
 CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot_config.png -text
 CloverPackage/CloverV2/themespkg/christmas/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/christmas/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_linux.icns -text
@@ -1150,6 +1151,7 @@ CloverPackage/CloverV2/themespkg/newyear/icons/func_help.png -text
 CloverPackage/CloverV2/themespkg/newyear/icons/func_options.png -text
 CloverPackage/CloverV2/themespkg/newyear/icons/func_reset.png -text
 CloverPackage/CloverV2/themespkg/newyear/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/newyear/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_freebsd.icns -text
