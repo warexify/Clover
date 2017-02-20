@@ -3792,7 +3792,6 @@ Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
 Patches_for_EDK2/MdePkg/Include/X64/ProcessorBind.h -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/SafeString.c -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/String.c -text
-Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/CsmOld/Csm16/Csm16.bin -text
 Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/IA32/InterruptTable.S -text
