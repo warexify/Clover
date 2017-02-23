@@ -3775,6 +3775,8 @@ OsxLowMemFixDrv/NVRAMDebug.h -text
 OsxLowMemFixDrv/OsxLowMemFixDrv.c -text
 OsxLowMemFixDrv/OsxLowMemFixDrv.inf -text
 Patches_for_EDK2/BaseTools/Scripts/gcc4.9-ld-script -text
+Patches_for_EDK2/BaseTools/Source/Python/Workspace/MetaFileParser.py -text
+Patches_for_EDK2/BaseTools/Source/Python/Workspace/WorkspaceDatabase.py -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
