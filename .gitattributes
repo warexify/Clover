@@ -4056,7 +4056,7 @@ bdmesg_efi/bdmesg.c -text
 bdmesg_efi/bdmesg.inf -text
 /build-compiler.readme.txt -text
 /buildExtras.sh -text
-/build_gcc5.sh -text
+/build_gcc6.sh -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
