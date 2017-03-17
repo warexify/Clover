@@ -618,6 +618,7 @@ CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSM
 CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/Info.plist -text
 CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/MacOS/HWInfo -text
 CloverPackage/CloverV2/rcScripts/Library/Application[!!-~]Support/Clover/CloverDaemon -text
+CloverPackage/CloverV2/rcScripts/Library/Application[!!-~]Support/Clover/CloverDaemon-stopservice -text
 CloverPackage/CloverV2/rcScripts/Library/LaunchDaemons/com.projectosx.clover.daemon.plist -text
 CloverPackage/CloverV2/rcScripts/etc/rc.boot.d/10.save_and_rotate_boot_log.local -text
 CloverPackage/CloverV2/rcScripts/etc/rc.boot.d/20.mount_ESP.local -text
