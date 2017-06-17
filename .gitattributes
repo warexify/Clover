@@ -918,6 +918,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/os_freebsd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_freedos.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_gentoo.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_grub.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/os_hsierra.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_kubuntu.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_legacy.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_leo.icns -text
@@ -1003,6 +1004,7 @@ CloverPackage/CloverV2/themespkg/christmas/icons/func_shutdown.png -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_cougar.icns -text
+CloverPackage/CloverV2/themespkg/christmas/icons/os_hsierra.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_mav.icns -text
