@@ -615,8 +615,7 @@ CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi -text
 CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/Info.plist -text
 CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC -text
-CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/Info.plist -text
-CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/MacOS/HWInfo -text
+CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/_CodeSignature/CodeResources -text
 CloverPackage/CloverV2/rcScripts/Library/Application[!!-~]Support/Clover/CloverDaemon -text
 CloverPackage/CloverV2/rcScripts/Library/Application[!!-~]Support/Clover/CloverDaemon-stopservice -text
 CloverPackage/CloverV2/rcScripts/Library/LaunchDaemons/com.projectosx.clover.daemon.plist -text
