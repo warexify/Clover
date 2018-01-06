@@ -3770,11 +3770,13 @@ OsxAptioFixDrv/OsxAptioFix2Drv.c -text
 OsxAptioFixDrv/OsxAptioFix2Drv.inf -text
 OsxAptioFixDrv/OsxAptioFixDrv.c -text
 OsxAptioFixDrv/OsxAptioFixDrv.inf -text
+OsxAptioFixDrv/RTShims.h -text
 OsxAptioFixDrv/VMem.c -text
 OsxAptioFixDrv/VMem.h -text
 OsxAptioFixDrv/X64/AsmFuncsX64.S -text
 OsxAptioFixDrv/X64/AsmFuncsX64.asm -text
 OsxAptioFixDrv/X64/AsmFuncsX64.nasm -text
+OsxAptioFixDrv/X64/RTShims.nasm -text
 OsxAptioFixDrv/X64/TestAsm32.asm -text
 OsxLowMemFixDrv/Lib.c -text
 OsxLowMemFixDrv/Lib.h -text
