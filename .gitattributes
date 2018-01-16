@@ -3753,6 +3753,8 @@ OsxAptioFixDrv/BootArgs.c -text
 OsxAptioFixDrv/BootArgs.h -text
 OsxAptioFixDrv/BootFixes.c -text
 OsxAptioFixDrv/BootFixes.h -text
+OsxAptioFixDrv/BootFixes3.c -text
+OsxAptioFixDrv/BootFixes3.h -text
 OsxAptioFixDrv/DecodedKernelCheck.c -text
 OsxAptioFixDrv/DecodedKernelCheck.h -text
 OsxAptioFixDrv/FlatDevTree/device_tree.c -text
@@ -3768,6 +3770,8 @@ OsxAptioFixDrv/NVRAMDebug.c -text
 OsxAptioFixDrv/NVRAMDebug.h -text
 OsxAptioFixDrv/OsxAptioFix2Drv.c -text
 OsxAptioFixDrv/OsxAptioFix2Drv.inf -text
+OsxAptioFixDrv/OsxAptioFix3Drv.c -text
+OsxAptioFixDrv/OsxAptioFix3Drv.inf -text
 OsxAptioFixDrv/OsxAptioFixDrv.c -text
 OsxAptioFixDrv/OsxAptioFixDrv.inf -text
 OsxAptioFixDrv/RTShims.h -text
