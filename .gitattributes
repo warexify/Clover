@@ -1873,10 +1873,12 @@ FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/dumpsexp.c -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/fips.c -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/g10lib.h -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/gcrypt-module.h -text
+FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/gcrypt.h -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/gcrypt.h.in -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/gcryptrnd.c -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/getrandom.c -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/global.c -text
+FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/gpg-error.h -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/hmac256.c -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/hmac256.h -text
 FileSystems/GrubFS/grub/grub-core/lib/libgcrypt/src/hwfeatures.c -text
