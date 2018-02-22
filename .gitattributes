@@ -1324,7 +1324,6 @@ CloverPackage/utils/fdisk440/user.c -text
 CloverPackage/utils/fdisk440/user.h -text
 CloverPackage/utils/fdisk440/util.h -text
 CloverPackage/utils/partutil/Makefile -text
-CloverPackage/utils/partutil/findesp.c -text
 CloverPackage/utils/partutil/partutil.c -text
 CloverPackage/utils/partutil/partutil.h -text
 CloverPackage/utils/partutil/partutil.xcodeproj/project.pbxproj -text
