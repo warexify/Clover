@@ -3796,7 +3796,7 @@ Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
 Patches_for_EDK2/MdeModulePkg/Application/UiApp/FrontPageCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
-Patches_for_EDK2/MdeModulePkg/Include/Guid/Performance.h -text svneol=native#unset svn_keywords=Author+Date+Id+Rev+URL
+Patches_for_EDK2/MdeModulePkg/Include/Guid/Performance.h svn_keywords=Author+Date+Id+Rev+URL
 Patches_for_EDK2/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiLib/HiiString.c -text
