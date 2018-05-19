@@ -3819,6 +3819,7 @@ Patches_for_EDK2/MdePkg/Include/X64/ProcessorBind.h -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/BaseLib.inf -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/SafeString.c -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/String.c -text
+Patches_for_EDK2/MdePkg/Library/BaseLib/X86PatchInstruction.c -text
 Patches_for_EDK2/MdePkg/Library/UefiLib/UefiLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/CsmOld/Csm16/Csm16.bin -text
@@ -3876,7 +3877,6 @@ Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin -text
 Patches_for_EDK2/OvmfPkg/XenBusDxe/XenHypercall.h -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.c -text
-Patches_for_EDK2/clover.log -text
 Protocols/AppleImageCodec/AppleImageCodec.c -text
 Protocols/AppleImageCodec/AppleImageCodec.inf -text
 Protocols/AppleImageCodec/load_bmp.c -text
