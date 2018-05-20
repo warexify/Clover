@@ -587,15 +587,7 @@ CloverPackage/CloverUpdater/src/main.m -text
 CloverPackage/CloverUpdater/src/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/CloverUpdater/translate_xib.sh -text
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe -text
-CloverPackage/CloverV2/BootSectors/Description.txt -text
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe -text
-CloverPackage/CloverV2/BootSectors/Installation.txt -text
-CloverPackage/CloverV2/BootSectors/boot0af -text
-CloverPackage/CloverV2/BootSectors/boot0md -text
-CloverPackage/CloverV2/BootSectors/boot0ss -text
-CloverPackage/CloverV2/BootSectors/boot1h2 -text
-CloverPackage/CloverV2/BootSectors/boot1x -text
-CloverPackage/CloverV2/BootSectors/boot1xalt -text
 CloverPackage/CloverV2/BootSectors/cdboot -text
 CloverPackage/CloverV2/BootSectors/lzma -text
 CloverPackage/CloverV2/BootSectors/makeusb.bat -text
