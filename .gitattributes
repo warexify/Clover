@@ -3807,15 +3807,9 @@ Patches_for_EDK2/MdeModulePkg/Application/UiApp/FrontPageCustomizedUiSupport.h -
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
 Patches_for_EDK2/MdeModulePkg/Include/Guid/Performance.h -text svneol=native#unset svn_keywords=Author+Date+Id+Rev+URL
 Patches_for_EDK2/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerCustomizedUiSupport.h -text
-Patches_for_EDK2/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c -text
-Patches_for_EDK2/MdeModulePkg/Library/UefiHiiLib/HiiString.c -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdeModulePkg/Universal/DisplayEngineDxe/Popup.c -text
-Patches_for_EDK2/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigKeywordHandler.c -text
-Patches_for_EDK2/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigRouting.c -text
-Patches_for_EDK2/MdeModulePkg/Universal/HiiDatabaseDxe/Font.c -text
-Patches_for_EDK2/MdeModulePkg/Universal/PlatformDriOverrideDxe/PlatDriOverrideDxe.c -text
 Patches_for_EDK2/MdeModulePkg/Universal/SecurityStubDxe/Defer3rdPartyImageLoad.c -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/RuntimeDxe/Variable.c -text
