@@ -3818,12 +3818,14 @@ Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Library/BaseLib.h -text
 Patches_for_EDK2/MdePkg/Include/Library/PeCoffLib.h -text
 Patches_for_EDK2/MdePkg/Include/Library/UefiLib.h -text
+Patches_for_EDK2/MdePkg/Include/Protocol/Shell.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
 Patches_for_EDK2/MdePkg/Include/X64/ProcessorBind.h -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/BaseLib.inf -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/SafeString.c -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/String.c -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/X86PatchInstruction.c -text
+Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiLib/UefiLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/CsmOld/Csm16/Csm16.bin -text
