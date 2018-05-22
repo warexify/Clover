@@ -351,15 +351,15 @@ CloverPackage/CloverPrefpane/CloverPrefpane.xcodeproj/xcshareddata/xcschemes/Clo
 CloverPackage/CloverPrefpane/Localizable.strings -text
 CloverPackage/CloverPrefpane/install.sh -text
 CloverPackage/CloverPrefpane/makefile -text
-CloverPackage/CloverPrefpane/src/CloverLogo.png -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/CloverLogo.png -text svneol=unset#image/png
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Prefix.pch -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.h -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.m -text
-CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#unset
-CloverPackage/CloverPrefpane/src/CloverTitle.png -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#image/tiff
+CloverPackage/CloverPrefpane/src/CloverTitle.png -text svneol=unset#image/png
 CloverPackage/CloverPrefpane/src/DefaultThemes.plist -text
-CloverPackage/CloverPrefpane/src/NoPreview.png -text svneol=unset#unset
+CloverPackage/CloverPrefpane/src/NoPreview.png -text svneol=unset#image/png
 CloverPackage/CloverPrefpane/src/en.lproj/CloverPrefpane.xib -text
 CloverPackage/CloverPrefpane/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverPrefpane/translate_source.sh -text
@@ -533,14 +533,14 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lp
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lproj/MainMenu.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lproj/Window.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/GPL_V3_LICENSE -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/758v3.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel_o.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow_k.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/overlay.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/preview_noimage.png -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/thumb_noimage.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/758v3.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel_o.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow_k.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/overlay.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/preview_noimage.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/thumb_noimage.png -text svneol=unset#image/png
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/bootlog.sh -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/findThemeDirs.sh -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/script.sh -text
@@ -562,8 +562,8 @@ CloverPackage/CloverUpdater/CloverUpdaterUtility.plist -text
 CloverPackage/CloverUpdater/install-updater.sh -text
 CloverPackage/CloverUpdater/makefile -text
 CloverPackage/CloverUpdater/src/Arguments.h -text
-CloverPackage/CloverUpdater/src/CloverLogo.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/CloverTitle.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/CloverLogo.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/CloverTitle.png -text svneol=unset#image/png
 CloverPackage/CloverUpdater/src/CloverUpdater-Info.plist -text
 CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.pbxproj -text
 CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
@@ -571,16 +571,16 @@ CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/xcshareddata/xcschemes/C
 CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.h -text
 CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.m -text
 CloverPackage/CloverUpdater/src/CloverUpdater_Prefix.pch -text
-CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32@2x.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512.png -text svneol=unset#unset
-CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512@2x.png -text svneol=unset#unset
+CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128@2x.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16@2x.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_256x256@2x.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_32x32@2x.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512.png -text svneol=unset#image/png
+CloverPackage/CloverUpdater/src/clover.iconset/icon_512x512@2x.png -text svneol=unset#image/png
 CloverPackage/CloverUpdater/src/en.lproj/InfoPlist.strings -text
 CloverPackage/CloverUpdater/src/en.lproj/MainMenu.xib -text
 CloverPackage/CloverUpdater/src/main.m -text
@@ -595,20 +595,20 @@ CloverPackage/CloverV2/BootSectors/usbs32.bin -text
 CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/UEFI/config-sample.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/OEM/SystemProductName/config-sample.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist -text
-CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt -text
+CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt -text svneol=unset#unset
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
-CloverPackage/CloverV2/EFI/CLOVER/doc/bcfg.txt -text
+CloverPackage/CloverV2/EFI/CLOVER/doc/bcfg.txt -text svneol=unset#unset
 CloverPackage/CloverV2/EFI/CLOVER/doc/boot1f32-install.sh -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/screenshot.png -text
+CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp -text svneol=unset#image/bmp
+CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp -text svneol=unset#image/bmp
+CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/screenshot.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/theme.plist -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/frame.png -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/logo_main.png -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/logo_metal.png -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-green.png -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text
+CloverPackage/CloverV2/EFI/CLOVER/themes/frame.png -text svneol=unset#image/png
+CloverPackage/CloverV2/EFI/CLOVER/themes/logo_main.png -text svneol=unset#image/png
+CloverPackage/CloverV2/EFI/CLOVER/themes/logo_metal.png -text svneol=unset#image/png
+CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-green.png -text svneol=unset#image/png
+CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/random/theme.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell.inf -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi -text
@@ -625,270 +625,270 @@ CloverPackage/CloverV2/rcScripts/etc/rc.boot.d/20.mount_ESP.local -text
 CloverPackage/CloverV2/rcScripts/etc/rc.boot.d/70.disable_sleep_proxy_client.local.disabled -text
 CloverPackage/CloverV2/rcScripts/etc/rc.clover.lib -text
 CloverPackage/CloverV2/rcScripts/etc/rc.shutdown.d/80.save_nvram_plist.local -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_014.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_015.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_016.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_017.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_018.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_019.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_020.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_021.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_022.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_023.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_024.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_025.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_026.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_027.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_028.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_029.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_030.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_031.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_032.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_033.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_034.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_035.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_036.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_037.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_038.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_039.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_040.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_041.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_042.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_043.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_044.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_045.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_046.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_047.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_048.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_000.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_001.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_002.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_003.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_004.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_005.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_006.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_007.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_008.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_009.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_010.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_011.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_012.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_013.png -text
-CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_064.png -text
-CloverPackage/CloverV2/themespkg/BGM/GoB_PTMono_10W_Bevel3.png -text
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_11_Tables/Anim_11_Tables_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_12_RC_Script/Anim_12_RC_Script_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_13_PCI_Devices/Anim_13_PCI_Devices_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_14_Themes/Anim_14_Themes_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_15_SysVars/Anim_15_SysVars_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_014.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_015.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_016.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_017.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_018.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_019.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_020.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_021.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_022.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_023.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_024.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_025.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_026.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_027.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_028.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_029.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_030.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_031.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_032.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_033.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_034.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_035.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_036.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_037.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_038.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_039.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_040.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_041.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_042.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_043.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_044.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_045.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_046.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_047.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_1_Logo/Anim_1_Logo_048.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_2_About/Anim_2_About_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_3_Help/Anim_3_Help_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_4_Options/Anim_4_Options_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_5_Graphics/Anim_5_Graphics_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_6_CPU/Anim_6_CPU_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_7_Binaries/Anim_7_Binaries_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_8_DSDT/Anim_8_DSDT_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_064.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/GoB_PTMono_10W_Bevel3.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/Notes.txt -text
-CloverPackage/CloverV2/themespkg/BGM/Selection_big.png -text
-CloverPackage/CloverV2/themespkg/BGM/Selection_small.png -text
-CloverPackage/CloverV2/themespkg/BGM/alternative_icons/Selection_big.png -text
+CloverPackage/CloverV2/themespkg/BGM/Selection_big.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/Selection_small.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/alternative_icons/Selection_big.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_debian.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_hsierra.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_kali.icns -text
@@ -900,19 +900,19 @@ CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_winVista.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/os_winXP.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/vol_clover_hdd.icns -text
 CloverPackage/CloverV2/themespkg/BGM/alternative_icons/vol_internal_hdd.icns -text
-CloverPackage/CloverV2/themespkg/BGM/background.png -text
-CloverPackage/CloverV2/themespkg/BGM/checkbox.png -text
-CloverPackage/CloverV2/themespkg/BGM/checkbox_checked.png -text
+CloverPackage/CloverV2/themespkg/BGM/background.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/checkbox.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/checkbox_checked.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/icons/cd.icns -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_about.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_clover.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_help.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_options.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_reset.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot_config.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/logo.png -text
+CloverPackage/CloverV2/themespkg/BGM/icons/func_about.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_clover.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_help.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_options.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_reset.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot_config.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/logo.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/icons/os_arch.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_clover.icns -text
@@ -944,8 +944,8 @@ CloverPackage/CloverV2/themespkg/BGM/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_yos.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/pointer.icns -text
-CloverPackage/CloverV2/themespkg/BGM/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/BGM/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/BGM/icons/pointer.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/icons/tool_shell.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_firewire.icns -text
@@ -954,57 +954,57 @@ CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ext3.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/BGM/logo_trans.png -text
-CloverPackage/CloverV2/themespkg/BGM/radio_button.png -text
-CloverPackage/CloverV2/themespkg/BGM/radio_button_selected.png -text
-CloverPackage/CloverV2/themespkg/BGM/screenshot.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_end.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_fill.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_start.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/down_button.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_end.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_fill.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text
-CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png -text
+CloverPackage/CloverV2/themespkg/BGM/logo_trans.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/radio_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/radio_button_selected.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/screenshot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/down_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_000.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_001.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_002.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_003.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_004.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_005.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_006.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_007.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_008.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_009.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_010.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_011.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_012.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_013.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_014.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_015.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_016.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_017.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_018.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_019.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_020.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_021.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_022.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_023.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_024.png -text
-CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_025.png -text
-CloverPackage/CloverV2/themespkg/christmas/Selection_big.png -text
-CloverPackage/CloverV2/themespkg/christmas/Selection_small.png -text
-CloverPackage/CloverV2/themespkg/christmas/WoR_NovaMono_9W_A.png -text
-CloverPackage/CloverV2/themespkg/christmas/background.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_about.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_clover.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_options.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_reset.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot_config.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_014.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_015.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_016.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_017.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_018.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_019.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_020.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_021.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_022.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_023.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_024.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_025.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Selection_big.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/Selection_small.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/WoR_NovaMono_9W_A.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/background.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_about.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_clover.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_options.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_reset.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_secureboot_config.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/func_shutdown.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_cougar.icns -text
@@ -1018,8 +1018,8 @@ CloverPackage/CloverV2/themespkg/christmas/icons/os_ubuntu.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/os_yos.icns -text
-CloverPackage/CloverV2/themespkg/christmas/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/christmas/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/christmas/icons/pointer.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/icons/tool_shell.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_internal.icns -text
@@ -1028,39 +1028,39 @@ CloverPackage/CloverV2/themespkg/christmas/icons/vol_internal_hfs.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/christmas/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/christmas/logo.png -text
-CloverPackage/CloverV2/themespkg/christmas/screenshot.png -text
+CloverPackage/CloverV2/themespkg/christmas/logo.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/christmas/screenshot.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/theme.plist -text
-CloverPackage/CloverV2/themespkg/metal/Baskerville_20pt_Cell_26x27_l0.png -text
-CloverPackage/CloverV2/themespkg/metal/BoG_DejaVuSans_9W.png -text
-CloverPackage/CloverV2/themespkg/metal/BoG_LucidaConsole_10W_NA.png -text
-CloverPackage/CloverV2/themespkg/metal/Cambria_20pt_Cell_22x25_l-2_ra.png -text
-CloverPackage/CloverV2/themespkg/metal/Candara_24pt_Cell_23x29_noAA.png -text
-CloverPackage/CloverV2/themespkg/metal/FontKorean.png -text
-CloverPackage/CloverV2/themespkg/metal/MetalBack.png -text
-CloverPackage/CloverV2/themespkg/metal/MetalDragon.png -text
-CloverPackage/CloverV2/themespkg/metal/Select_trans_big.png -text
-CloverPackage/CloverV2/themespkg/metal/Select_trans_small.png -text
-CloverPackage/CloverV2/themespkg/metal/Selection_big.png -text
-CloverPackage/CloverV2/themespkg/metal/Selection_small.png -text
-CloverPackage/CloverV2/themespkg/metal/arrow-144.png -text
-CloverPackage/CloverV2/themespkg/metal/arrow-64.png -text
-CloverPackage/CloverV2/themespkg/metal/checkbox.png -text
-CloverPackage/CloverV2/themespkg/metal/checkbox_checked.png -text
-CloverPackage/CloverV2/themespkg/metal/dark-wide.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/apple.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/arrow.png -text
+CloverPackage/CloverV2/themespkg/metal/Baskerville_20pt_Cell_26x27_l0.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/BoG_DejaVuSans_9W.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/BoG_LucidaConsole_10W_NA.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Cambria_20pt_Cell_22x25_l-2_ra.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Candara_24pt_Cell_23x29_noAA.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/FontKorean.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/MetalBack.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/MetalDragon.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Select_trans_big.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Select_trans_small.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Selection_big.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/Selection_small.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/arrow-144.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/arrow-64.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/checkbox.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/checkbox_checked.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/dark-wide.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/apple.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/arrow.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/metal/icons/boot_linux.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/boot_win.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/frame.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_about.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_help.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_options.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_reset.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot_config.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/metal/icons/frame.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_about.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_help.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_options.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_reset.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot_config.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/func_shutdown.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/metal/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_cougar.icns -text
@@ -1083,9 +1083,9 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_unknown.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_vista.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_win.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_yos.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/pointer-black.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/metal/icons/pointer-black.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/metal/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_firewire.icns -text
@@ -1093,72 +1093,72 @@ CloverPackage/CloverV2/themespkg/metal/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_internal_hfs.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/metal/logo-trans.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_000.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_001.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_002.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_003.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_004.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_005.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_006.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_007.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_008.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_009.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_010.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_011.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_012.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_013.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_014.png -text
-CloverPackage/CloverV2/themespkg/metal/logo_metal4.png -text
-CloverPackage/CloverV2/themespkg/metal/radio_button.png -text
-CloverPackage/CloverV2/themespkg/metal/radio_button_selected.png -text
-CloverPackage/CloverV2/themespkg/metal/screenshot.png -text svneol=unset#unset
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_end.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_fill.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_start.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/down_button.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_end.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_fill.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_start.png -text
-CloverPackage/CloverV2/themespkg/metal/scrollbar/up_button.png -text
+CloverPackage/CloverV2/themespkg/metal/logo-trans.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_014.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/logo_metal4.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/radio_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/radio_button_selected.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/screenshot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/down_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/metal/scrollbar/up_button.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/metal/theme.plist -text
-CloverPackage/CloverV2/themespkg/newyear/arrow-144.png -text
-CloverPackage/CloverV2/themespkg/newyear/arrow-64.png -text
-CloverPackage/CloverV2/themespkg/newyear/dark-wide.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_000.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_001.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_002.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_003.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_004.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_005.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_006.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_007.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_008.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_009.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_010.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_011.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_012.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_013.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_014.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_015.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_016.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_017.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_018.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_019.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_020.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_021.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_022.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_023.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_024.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_025.png -text
-CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_026.png -text
-CloverPackage/CloverV2/themespkg/newyear/happy.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_about.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_clover.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_help.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_options.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_reset.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/func_shutdown.png -text
+CloverPackage/CloverV2/themespkg/newyear/arrow-144.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/arrow-64.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/dark-wide.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_000.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_001.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_002.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_003.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_004.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_005.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_006.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_007.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_008.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_009.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_010.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_011.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_012.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_013.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_014.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_015.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_016.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_017.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_018.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_019.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_020.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_021.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_022.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_023.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_024.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_025.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/elka_1/elka_1_026.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/happy.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_about.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_clover.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_help.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_options.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_reset.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/func_shutdown.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/newyear/icons/os_cap.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_cougar.icns -text
@@ -1175,8 +1175,8 @@ CloverPackage/CloverV2/themespkg/newyear/icons/os_sierra.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_snow.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_tiger.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/os_vista.icns -text
-CloverPackage/CloverV2/themespkg/newyear/icons/pointer.png -text
-CloverPackage/CloverV2/themespkg/newyear/icons/tool_shell.png -text
+CloverPackage/CloverV2/themespkg/newyear/icons/pointer.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/icons/tool_shell.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_firewire.icns -text
@@ -1184,16 +1184,16 @@ CloverPackage/CloverV2/themespkg/newyear/icons/vol_internal.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_internal_hfs.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/newyear/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/newyear/screenshot.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_end.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_fill.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_start.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/down_button.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_end.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_fill.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_start.png -text
-CloverPackage/CloverV2/themespkg/newyear/scrollbar/up_button.png -text
-CloverPackage/CloverV2/themespkg/newyear/snow.png -text
+CloverPackage/CloverV2/themespkg/newyear/screenshot.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/bar_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/down_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_end.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_fill.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/scroll_start.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/scrollbar/up_button.png -text svneol=unset#image/png
+CloverPackage/CloverV2/themespkg/newyear/snow.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/newyear/theme.plist -text
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns -text
 CloverPackage/CloverV2/themespkg/theme-sample.plist -text
@@ -1202,7 +1202,7 @@ CloverPackage/makeiso -text
 CloverPackage/makepkg -text
 CloverPackage/package/Distribution -text
 CloverPackage/package/Icon.zip -text
-CloverPackage/package/Resources/background.tiff -text
+CloverPackage/package/Resources/background.tiff -text svneol=unset#image/tiff
 CloverPackage/package/Resources/templates/Conclusion.html -text
 CloverPackage/package/Resources/templates/Description.html -text
 CloverPackage/package/Resources/templates/Localizable.strings -text
@@ -1210,6 +1210,7 @@ CloverPackage/package/Resources/templates/Welcome.html -text
 CloverPackage/package/Scripts.libraries/rc_scripts.lib -text
 CloverPackage/package/Scripts.templates/AltBoot/postinstall -text
 CloverPackage/package/Scripts.templates/CloverEFI/postinstall -text
+CloverPackage/package/Scripts.templates/CloverThemeManager/preinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/MountESP -text
 CloverPackage/package/Scripts.templates/EFIFolder/postinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/preinstall -text
@@ -3327,8 +3328,8 @@ Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/example.c -text
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/example.h -text
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/info.pem -text
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/infokey.pem -text
-Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/a1 -text
-Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/a2 -text
+Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/a1 -text svneol=unset#application/octet-stream
+Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/a2 -text svneol=unset#application/octet-stream
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/cert.p7c -text
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/smime.p7m -text
 Library/OpensslLib/openssl-1.0.1e/crypto/pkcs7/p7/smime.p7s -text
@@ -3747,10 +3748,10 @@ Library/VideoBiosPatchLib/VideoBiosPatchLib.inf -text
 Library/VideoBiosPatchLib/VideoBiosPatchLibInternal.h -text
 Library/VideoBiosPatchLib/edid.c -text
 Library/VideoBiosPatchLib/edid.h -text
-Logo/Logo.bmp -text
+Logo/Logo.bmp -text svneol=unset#image/bmp
 Logo/Logo.inf -text
-Logo/LogoBW.bmp -text
-Logo/Logo_CloverEFI.bmp -text
+Logo/LogoBW.bmp -text svneol=unset#image/bmp
+Logo/Logo_CloverEFI.bmp -text svneol=unset#image/bmp
 OsxAptioFixDrv/AsmFuncs.h -text
 OsxAptioFixDrv/BootArgs.c -text
 OsxAptioFixDrv/BootArgs.h -text
