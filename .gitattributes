@@ -3797,7 +3797,6 @@ Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
 Patches_for_EDK2/MdeModulePkg/Application/UiApp/FrontPageCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
-Patches_for_EDK2/MdeModulePkg/Include/Guid/Performance.h -text
 Patches_for_EDK2/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerCustomizedUiSupport.h -text
 Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
@@ -3878,7 +3877,6 @@ Patches_for_UDK2018/Conf/build_rule.txt -text
 Patches_for_UDK2018/Conf/tools_def.txt -text
 Patches_for_UDK2018/MdeModulePkg/Application/UiApp/FrontPageCustomizedUiSupport.h -text
 Patches_for_UDK2018/MdeModulePkg/Bus/Pci/UhciDxe/UsbHcMem.c -text
-Patches_for_UDK2018/MdeModulePkg/Include/Guid/Performance.h -text
 Patches_for_UDK2018/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerCustomizedUiSupport.h -text
 Patches_for_UDK2018/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -text
 Patches_for_UDK2018/MdeModulePkg/MdeModulePkgSample.dec -text
