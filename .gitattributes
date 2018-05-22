@@ -49,8 +49,8 @@ CloverEFI/BootSector/bin/Start64H.com -text
 CloverEFI/BootSector/bin/Start64H2.com -text
 CloverEFI/BootSector/bin/Start64H3.com -text
 CloverEFI/BootSector/bin/Start64H4.com -text
-CloverEFI/BootSector/bin/Start64H5.com -text svneol=unset#unset
-CloverEFI/BootSector/bin/Start64H6.com -text svneol=unset#unset
+CloverEFI/BootSector/bin/Start64H5.com -text
+CloverEFI/BootSector/bin/Start64H6.com -text
 CloverEFI/BootSector/bin/boot0 -text
 CloverEFI/BootSector/bin/boot0md -text
 CloverEFI/BootSector/bin/boot1f32 -text
@@ -4358,9 +4358,11 @@ bdmesg_efi/bdmesg.c -text
 bdmesg_efi/bdmesg.inf -text
 /build-compiler.readme.txt -text
 /buildExtras.sh -text
+/build_gcc8.sh -text
 /buildgcc-4.9.sh -text
 /buildgcc.sh -text
 /buildgettext.sh -text
+/buildmtoc.sh -text
 /buildnasm.sh -text
 /cbuild.bat -text
 /ebuild.sh -text
