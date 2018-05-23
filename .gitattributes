@@ -3803,11 +3803,8 @@ Patches_for_EDK2/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c -t
 Patches_for_EDK2/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_EDK2/MdeModulePkg/Universal/SecurityStubDxe/Defer3rdPartyImageLoad.c -text
 Patches_for_EDK2/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
-Patches_for_EDK2/MdeModulePkg/Universal/Variable/RuntimeDxe/Variable.c -text
-Patches_for_EDK2/MdePkg/Include/Base.h -text
 Patches_for_EDK2/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_EDK2/MdePkg/Include/Library/PeCoffLib.h -text
-Patches_for_EDK2/MdePkg/Include/Library/UefiLib.h -text
 Patches_for_EDK2/MdePkg/Include/Protocol/Shell.h -text
 Patches_for_EDK2/MdePkg/Include/Uefi/UefiBaseType.h -text
 Patches_for_EDK2/MdePkg/Include/X64/ProcessorBind.h -text
@@ -3815,7 +3812,6 @@ Patches_for_EDK2/MdePkg/Library/BaseLib/BaseLib.inf -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/SafeString.c -text
 Patches_for_EDK2/MdePkg/Library/BaseLib/String.c -text
 Patches_for_EDK2/MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.c -text
-Patches_for_EDK2/MdePkg/Library/UefiLib/UefiLib.c -text
 Patches_for_EDK2/MdePkg/Library/UefiMemoryAllocationLib/MemoryAllocationLib.c -text
 Patches_for_EDK2/OvmfPkg/CsmOld/Csm16/Csm16.bin -text
 Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/IA32/InterruptTable.S -text
@@ -3884,7 +3880,6 @@ Patches_for_UDK2018/MdeModulePkg/MdeModulePkgSample.dec -text
 Patches_for_UDK2018/MdeModulePkg/Universal/SecurityStubDxe/Defer3rdPartyImageLoad.c -text
 Patches_for_UDK2018/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c -text
 Patches_for_UDK2018/MdeModulePkg/Universal/Variable/RuntimeDxe/Variable.c -text
-Patches_for_UDK2018/MdePkg/Include/Base.h -text
 Patches_for_UDK2018/MdePkg/Include/IndustryStandard/Pci22.h -text
 Patches_for_UDK2018/MdePkg/Include/Library/PeCoffLib.h -text
 Patches_for_UDK2018/MdePkg/Include/Library/UefiLib.h -text
