@@ -1308,6 +1308,8 @@ CloverPackage/utils/clover-genconfig/efidevp.c -text
 CloverPackage/utils/clover-genconfig/efidevp.h -text
 CloverPackage/utils/clover-genconfig/gfxutil.c -text
 CloverPackage/utils/clover-genconfig/gfxutil.h -text
+CloverPackage/utils/clover-genconfig/utils.c -text
+CloverPackage/utils/clover-genconfig/utils.h -text
 CloverPackage/utils/fdisk440/Makefile -text
 CloverPackage/utils/fdisk440/auto.c -text
 CloverPackage/utils/fdisk440/auto.h -text
