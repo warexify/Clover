@@ -1302,8 +1302,6 @@ CloverPackage/utils/clover-genconfig/clover-genconfig.c -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.pbxproj -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/project.xcworkspace/contents.xcworkspacedata -text
 CloverPackage/utils/clover-genconfig/clover-genconfig.xcodeproj/xcshareddata/xcschemes/clover-genconfig.xcscheme -text
-CloverPackage/utils/clover-genconfig/config-sample-pre2000.plist -text
-CloverPackage/utils/clover-genconfig/config-sample.plist -text
 CloverPackage/utils/clover-genconfig/efidevp.c -text
 CloverPackage/utils/clover-genconfig/efidevp.h -text
 CloverPackage/utils/clover-genconfig/gfxutil.c -text
