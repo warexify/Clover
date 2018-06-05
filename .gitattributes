@@ -1074,6 +1074,7 @@ CloverPackage/CloverV2/themespkg/metal/icons/os_linux.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_lion.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_mac.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_mav.icns -text
+CloverPackage/CloverV2/themespkg/metal/icons/os_moja.icns -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/metal/icons/os_netbsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_openbsd.icns -text
 CloverPackage/CloverV2/themespkg/metal/icons/os_sierra.icns -text
