@@ -25,6 +25,7 @@ CloverPackage/CloverV2/drivers-Off/drivers32
 CloverPackage/CloverV2/drivers-Off/drivers32UEFI
 CloverPackage/CloverV2/drivers-Off/drivers64
 CloverPackage/CloverV2/drivers-Off/drivers64UEFI
+CloverPackage/sym
 FileSystems/HFSPlus/Ia32/HFSPlus.efi
 FileSystems/HFSPlus/X64/HFSPlus.efi
 /Version.h
