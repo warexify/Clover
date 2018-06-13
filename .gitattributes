@@ -368,6 +368,7 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Spar
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Sparkle -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Info.plist -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/Autoupdate -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/fileop -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/PkgInfo -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib -text
