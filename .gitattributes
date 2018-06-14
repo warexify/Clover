@@ -14,9 +14,6 @@ BootHFS/boot1h.s -text
 BootHFS/boot1h2.s -text
 BootHFS/boot1x.s -text
 BootHFS/boot1xalt.s -text
-BuildTools/usr/local/bin/mtoc -text
-BuildTools/usr/local/bin/mtoc.NEW -text
-BuildTools/usr/local/bin/mtoc.NEW.zip -text
 Certificates/Default/Signing.crt -text
 Certificates/Default/Signing.key -text
 /Clover.dsc -text
