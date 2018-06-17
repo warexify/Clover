@@ -19,6 +19,7 @@ CloverPackage/CloverV2/EFI/CLOVER/drivers32
 CloverPackage/CloverV2/EFI/CLOVER/drivers32UEFI
 CloverPackage/CloverV2/EFI/CLOVER/drivers64
 CloverPackage/CloverV2/EFI/CLOVER/drivers64UEFI
+CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi
 CloverPackage/CloverV2/EFI/CLOVER/tools/bdmesg-32.efi
 CloverPackage/CloverV2/EFI/CLOVER/tools/bdmesg.efi
 CloverPackage/CloverV2/drivers-Off/drivers32
