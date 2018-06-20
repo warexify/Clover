@@ -4465,6 +4465,8 @@ rEFIt_UEFI/include/Handle.h -text
 rEFIt_UEFI/include/syslinux_mbr.h -text
 rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
+rEFIt_UEFI/libeg/FloatLib.c -text
+rEFIt_UEFI/libeg/FloatLib.h -text
 rEFIt_UEFI/libeg/egemb_font.c -text
 rEFIt_UEFI/libeg/egemb_icons.c -text
 rEFIt_UEFI/libeg/image.c -text
@@ -4475,6 +4477,9 @@ rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/lodepng.c -text
 rEFIt_UEFI/libeg/lodepng.h -text
+rEFIt_UEFI/libeg/nanosvg.c -text
+rEFIt_UEFI/libeg/nanosvg.h -text
+rEFIt_UEFI/libeg/nanosvgrast.c -text
 rEFIt_UEFI/libeg/scroll_images.c -text
 rEFIt_UEFI/libeg/text.c -text
 rEFIt_UEFI/refit.inf -text
