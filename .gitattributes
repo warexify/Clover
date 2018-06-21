@@ -4339,6 +4339,7 @@ bdmesg_efi/bdmesg.inf -text
 /buildgettext.sh -text
 /buildmtoc.sh -text
 /buildnasm.sh -text
+/buildpkg.sh -text
 /cbuild.bat -text
 /ebuild.sh -text
 font/BoG_DejaVuSans_9W.png -text svneol=unset#image/png
