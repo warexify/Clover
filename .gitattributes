@@ -350,7 +350,6 @@ CloverPackage/CloverPrefpane/install.sh -text
 CloverPackage/CloverPrefpane/makefile -text
 CloverPackage/CloverPrefpane/src/CloverLogo.png -text svneol=unset#image/png
 CloverPackage/CloverPrefpane/src/CloverPrefpane-Info.plist -text
-CloverPackage/CloverPrefpane/src/CloverPrefpane-Prefix.pch -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.h -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.m -text
 CloverPackage/CloverPrefpane/src/CloverPrefpane.tiff -text svneol=unset#image/tiff
@@ -568,7 +567,6 @@ CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/project.xcworkspace/cont
 CloverPackage/CloverUpdater/src/CloverUpdater.xcodeproj/xcshareddata/xcschemes/CloverUpdater.xcscheme -text
 CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.h -text
 CloverPackage/CloverUpdater/src/CloverUpdaterAppDelegate.m -text
-CloverPackage/CloverUpdater/src/CloverUpdater_Prefix.pch -text
 CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128.png -text svneol=unset#image/png
 CloverPackage/CloverUpdater/src/clover.iconset/icon_128x128@2x.png -text svneol=unset#image/png
 CloverPackage/CloverUpdater/src/clover.iconset/icon_16x16.png -text svneol=unset#image/png
