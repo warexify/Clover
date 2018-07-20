@@ -4465,6 +4465,7 @@ rEFIt_UEFI/libeg/BmLib.c -text
 rEFIt_UEFI/libeg/EfiFileLib.h -text
 rEFIt_UEFI/libeg/FloatLib.c -text
 rEFIt_UEFI/libeg/FloatLib.h -text
+rEFIt_UEFI/libeg/VectorGraphics.c -text
 rEFIt_UEFI/libeg/egemb_font.c -text
 rEFIt_UEFI/libeg/egemb_icons.c -text
 rEFIt_UEFI/libeg/image.c -text
