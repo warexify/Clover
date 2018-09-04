@@ -3933,6 +3933,14 @@ Protocols/AppleImageCodec/picopng.h -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.c -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.h -text
 Protocols/AppleKeyAggregator/AppleKeyAggregator.inf -text
+Protocols/AppleKeyFeeder/AppleKeyFeeder.c -text
+Protocols/AppleKeyFeeder/AppleKeyFeeder.inf -text
+Protocols/AppleKeyFeeder/AppleKeyMapUtils.c -text
+Protocols/AppleKeyFeeder/AppleKeyMapUtils.h -text
+Protocols/AppleKeyFeeder/SimpleTextExProxy.c -text
+Protocols/AppleKeyFeeder/SimpleTextExProxy.h -text
+Protocols/AppleKeyFeeder/SimpleTextProxy.c -text
+Protocols/AppleKeyFeeder/SimpleTextProxy.h -text
 Protocols/AppleUITheme/AppleUITheme.c -text
 Protocols/AppleUITheme/AppleUITheme.inf -text
 Protocols/DriverOverride/DriverOverride.c -text
