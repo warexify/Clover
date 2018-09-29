@@ -3847,6 +3847,7 @@ Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin -text
 Patches_for_EDK2/OvmfPkg/XenBusDxe/XenHypercall.h -text
 Patches_for_EDK2/OvmfPkg/ebuild.sh -text
 Patches_for_EDK2/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.c -text
+Patches_for_EDK2/ShellPkg/Include/Library/ShellLib.h -text svneol=native#unset svn_keywords=Author+Date+Id+Rev+URL
 Patches_for_UDK2018/BaseTools/Scripts/gcc4.9-ld-script -text
 Patches_for_UDK2018/Change_to_BaseTools.txt -text
 Patches_for_UDK2018/Conf/build_rule.txt -text
