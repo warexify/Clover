@@ -1205,7 +1205,6 @@ CloverPackage/package/Resources/templates/Localizable.strings -text
 CloverPackage/package/Resources/templates/Welcome.html -text
 CloverPackage/package/Scripts.libraries/rc_scripts.lib -text
 CloverPackage/package/Scripts.templates/AltBoot/postinstall -text
-CloverPackage/package/Scripts.templates/AppleUiSupport/postinstall -text
 CloverPackage/package/Scripts.templates/CloverEFI/postinstall -text
 CloverPackage/package/Scripts.templates/CloverThemeManager/preinstall -text
 CloverPackage/package/Scripts.templates/EFIFolder/MountESP -text
