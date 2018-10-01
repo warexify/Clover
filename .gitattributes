@@ -1219,6 +1219,7 @@ CloverPackage/package/Scripts.templates/Post/postinstall -text
 CloverPackage/package/Scripts.templates/Pre/preinstall -text
 CloverPackage/package/Scripts.templates/RcScripts/postinstall -text
 CloverPackage/package/Scripts.templates/VboxHfs/postinstall -text
+CloverPackage/package/Scripts.templates/VirtualSMC/postinstall -text
 CloverPackage/package/Scripts.templates/bootNo/postinstall -text
 CloverPackage/package/bin/clean_po_headers.sh -text
 CloverPackage/package/bin/po4a/COPYING -text
