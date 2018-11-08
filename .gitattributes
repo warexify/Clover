@@ -596,14 +596,9 @@ CloverPackage/CloverV2/EFI/CLOVER/doc/HowToInstallOSX.txt -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/UEFI[!!-~]boot[!!-~]with[!!-~]Clover.rtf -text
 CloverPackage/CloverV2/EFI/CLOVER/doc/bcfg.txt -text svneol=unset#unset
 CloverPackage/CloverV2/EFI/CLOVER/doc/boot1f32-install.sh -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp -text svneol=unset#image/bmp
-CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp -text svneol=unset#image/bmp
 CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/screenshot.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/embedded/theme.plist -text
-CloverPackage/CloverV2/EFI/CLOVER/themes/frame.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/logo_main.png -text svneol=unset#image/png
-CloverPackage/CloverV2/EFI/CLOVER/themes/logo_metal.png -text svneol=unset#image/png
-CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-green.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png -text svneol=unset#image/png
 CloverPackage/CloverV2/EFI/CLOVER/themes/random/theme.plist -text
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell.inf -text
@@ -4485,7 +4480,6 @@ rEFIt_UEFI/libeg/image.c -text
 rEFIt_UEFI/libeg/libeg.h -text
 rEFIt_UEFI/libeg/libegint.h -text
 rEFIt_UEFI/libeg/libscreen.c -text
-rEFIt_UEFI/libeg/load_bmp.c -text
 rEFIt_UEFI/libeg/load_icns.c -text
 rEFIt_UEFI/libeg/lodepng.c -text
 rEFIt_UEFI/libeg/lodepng.h -text
