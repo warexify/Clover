@@ -369,7 +369,6 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Spar
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ar.lproj/Sparkle.strings -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ca.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/cs.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/da.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/de.lproj/Sparkle.strings -text
@@ -378,7 +377,7 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Spar
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/es.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fi.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fr.lproj/Sparkle.strings -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/he.lproj/Sparkle.strings -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/hu.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/is.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/it.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ja.lproj/Sparkle.strings -text
@@ -405,7 +404,6 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Spar
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdatePermissionPrompt.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/Sparkle.strings -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdatePermissionPrompt.nib -text
@@ -430,13 +428,19 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Spar
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/Sparkle.strings -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUAutomaticUpdateAlert.nib -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUUpdateAlert.nib -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUUpdatePermissionPrompt.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/Sparkle.strings -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUAutomaticUpdateAlert.nib -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUUpdateAlert.nib -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUUpdatePermissionPrompt.nib -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/Sparkle.strings -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdatePermissionPrompt.nib -text
@@ -530,14 +534,14 @@ CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lp
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lproj/MainMenu.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/en.lproj/Window.nib -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/GPL_V3_LICENSE -text
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/758v3.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel_o.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow_k.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/overlay.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/preview_noimage.png -text svneol=unset#image/png
-CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/thumb_noimage.png -text svneol=unset#image/png
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/758v3.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/cancel_o.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/dropdown_arrow_k.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/overlay.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/preview_noimage.png -text
+CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/assets/thumb_noimage.png -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/bootlog.sh -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/findThemeDirs.sh -text
 CloverPackage/CloverThemeManager/CloverThemeManager.app/Contents/Resources/public/bash/script.sh -text
