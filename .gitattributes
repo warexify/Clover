@@ -945,7 +945,9 @@ CloverPackage/CloverV2/themespkg/BGM/icons/vol_clover.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_external.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_firewire.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_apfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ext3.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_hfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ntfs.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_optical.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_recovery.icns -text
