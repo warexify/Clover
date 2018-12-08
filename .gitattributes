@@ -238,6 +238,10 @@ CloverEFI/OsxPciBusNoEnumerationDxe/PciPowerManagement.c -text
 CloverEFI/OsxPciBusNoEnumerationDxe/PciPowerManagement.h -text
 CloverEFI/OsxPciBusNoEnumerationDxe/PciRomTable.c -text
 CloverEFI/OsxPciBusNoEnumerationDxe/PciRomTable.h -text
+CloverEFI/OsxSmbiosGenDxe/SmbiosGen.c -text
+CloverEFI/OsxSmbiosGenDxe/SmbiosGen.h -text
+CloverEFI/OsxSmbiosGenDxe/SmbiosGen.inf -text
+CloverEFI/OsxSmbiosGenDxe/SmbiosGenStrings.uni -text
 CloverEFI/PcatRealTimeClockRuntimeDxe/PcRtc.c -text
 CloverEFI/PcatRealTimeClockRuntimeDxe/PcRtc.h -text
 CloverEFI/PcatRealTimeClockRuntimeDxe/PcRtc.uni -text
