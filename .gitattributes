@@ -3779,7 +3779,17 @@ OsxLowMemFixDrv/NVRAMDebug.c -text
 OsxLowMemFixDrv/NVRAMDebug.h -text
 OsxLowMemFixDrv/OsxLowMemFixDrv.c -text
 OsxLowMemFixDrv/OsxLowMemFixDrv.inf -text
+Patches_for_EDK2/BaseTools/BinWrappers/PosixLike/EfiLdrImage -text
+Patches_for_EDK2/BaseTools/BinWrappers/PosixLike/GenPage -text
 Patches_for_EDK2/BaseTools/Scripts/gcc4.9-ld-script -text
+Patches_for_EDK2/BaseTools/Source/C/EfiLdrImage/EfiLdrImage.c -text
+Patches_for_EDK2/BaseTools/Source/C/EfiLdrImage/GNUmakefile -text
+Patches_for_EDK2/BaseTools/Source/C/EfiLdrImage/Makefile -text
+Patches_for_EDK2/BaseTools/Source/C/GNUmakefile -text
+Patches_for_EDK2/BaseTools/Source/C/GenPage/GNUmakefile -text
+Patches_for_EDK2/BaseTools/Source/C/GenPage/GenPage.c -text
+Patches_for_EDK2/BaseTools/Source/C/GenPage/Makefile -text
+Patches_for_EDK2/BaseTools/Source/C/GenPage/VirtualMemory.h -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
