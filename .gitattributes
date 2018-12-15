@@ -3790,6 +3790,7 @@ Patches_for_EDK2/BaseTools/Source/C/GenPage/GNUmakefile -text
 Patches_for_EDK2/BaseTools/Source/C/GenPage/GenPage.c -text
 Patches_for_EDK2/BaseTools/Source/C/GenPage/Makefile -text
 Patches_for_EDK2/BaseTools/Source/C/GenPage/VirtualMemory.h -text
+Patches_for_EDK2/BaseTools/Source/C/Makefile -text
 Patches_for_EDK2/Change_to_BaseTools.txt -text
 Patches_for_EDK2/Conf/build_rule.txt -text
 Patches_for_EDK2/Conf/tools_def.txt -text
