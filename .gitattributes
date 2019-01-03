@@ -2371,15 +2371,20 @@ Include/IndustryStandard/PciBus.h -text
 Include/IndustryStandard/PciCommand.h -text
 Include/IndustryStandard/PeImage.h -text
 Include/IndustryStandard/PiBootMode.h -text
+Include/IndustryStandard/Riff.h -text
 Include/IndustryStandard/UsbHid.h -text
 Include/IndustryStandard/VesaBiosExtensions.h -text
 Include/Library/GenericBdsLib.h -text
+Include/Library/HdaModels.h -text
+Include/Library/HdaRegisters.h -text
+Include/Library/HdaVerbs.h -text
 Include/Library/MemLogLib.h -text
 Include/Library/PeCoffLib.h -text
 Include/Library/UefiHiiServicesLib.h -text
 Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
+Include/Library/WaveLib.h -text
 Include/Protocol/AppleDeviceControl.h -text
 Include/Protocol/AppleDiskIo.h -text
 Include/Protocol/AppleEvent.h -text
@@ -2389,9 +2394,13 @@ Include/Protocol/AppleKeyMapDatabase.h -text
 Include/Protocol/AppleKeyState.h -text
 Include/Protocol/ApplePlatformInfoDatabase.h -text
 Include/Protocol/AppleSMC.h -text
+Include/Protocol/AudioIo.h -text
 Include/Protocol/EmuVariableControl.h -text
 Include/Protocol/FSInjectProtocol.h -text
 Include/Protocol/Hash.h -text
+Include/Protocol/HdaCodecInfo.h -text
+Include/Protocol/HdaControllerInfo.h -text
+Include/Protocol/HdaIo.h -text
 Include/Protocol/KeyboardInfo.h -text
 Include/Protocol/MsgLog.h -text
 Include/Protocol/OSInfo.h -text
@@ -3740,6 +3749,8 @@ Library/VideoBiosPatchLib/VideoBiosPatchLib.inf -text
 Library/VideoBiosPatchLib/VideoBiosPatchLibInternal.h -text
 Library/VideoBiosPatchLib/edid.c -text
 Library/VideoBiosPatchLib/edid.h -text
+Library/WaveLib/WaveLib.c -text
+Library/WaveLib/WaveLib.inf -text
 Logo/Logo.bmp -text svneol=unset#image/bmp
 Logo/Logo.inf -text
 Logo/LogoBW.bmp -text svneol=unset#image/bmp
@@ -4433,6 +4444,7 @@ rEFIt_UEFI/Platform/Platform.h -text
 rEFIt_UEFI/Platform/PlatformDriverOverride.c -text
 rEFIt_UEFI/Platform/Pointer.c -text
 rEFIt_UEFI/Platform/Settings.c -text
+rEFIt_UEFI/Platform/StartupSound.c -text
 rEFIt_UEFI/Platform/StateGenerator.c -text
 rEFIt_UEFI/Platform/StateGenerator.h -text
 rEFIt_UEFI/Platform/ati.c -text
