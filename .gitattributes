@@ -1348,7 +1348,6 @@ Drivers/AudioDxe/AudioDxe.c -text
 Drivers/AudioDxe/AudioDxe.h -text
 Drivers/AudioDxe/AudioDxe.inf -text
 Drivers/AudioDxe/HdaCodec/HdaCodec.c -text
-Drivers/AudioDxe/HdaCodec/HdaCodec.h -text
 Drivers/AudioDxe/HdaCodec/HdaCodecAudioIo.c -text
 Drivers/AudioDxe/HdaCodec/HdaCodecComponentName.c -text
 Drivers/AudioDxe/HdaCodec/HdaCodecComponentName.h -text
