@@ -2383,6 +2383,7 @@ Include/Guid/PciOptionRomTable.h -text
 Include/IndustryStandard/AppleHid.h -text
 Include/IndustryStandard/AppleSmBios.h -text
 Include/IndustryStandard/AtomBios.h -text
+Include/IndustryStandard/HdaCodec.h -text
 Include/IndustryStandard/PciBus.h -text
 Include/IndustryStandard/PciCommand.h -text
 Include/IndustryStandard/PeImage.h -text
