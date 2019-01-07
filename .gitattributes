@@ -968,6 +968,7 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png -text svneol=uns
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
+CloverPackage/CloverV2/themespkg/Clovy/sound.wav -text
 CloverPackage/CloverV2/themespkg/Clovy/theme.svg -text
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_000.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_001.png -text svneol=unset#image/png
