@@ -3769,10 +3769,9 @@ Library/VideoBiosPatchLib/edid.c -text
 Library/VideoBiosPatchLib/edid.h -text
 Library/WaveLib/WaveLib.c -text
 Library/WaveLib/WaveLib.inf -text
-Logo/Logo.bmp -text svneol=unset#image/bmp
-Logo/Logo.inf -text
+Logo/Logo.bmp -text
+Logo/Logo.svg -text
 Logo/LogoBW.bmp -text svneol=unset#image/bmp
-Logo/Logo_CloverEFI.bmp -text svneol=unset#image/bmp
 OsxAptioFixDrv/AsmFuncs.h -text
 OsxAptioFixDrv/BootArgs.c -text
 OsxAptioFixDrv/BootArgs.h -text
