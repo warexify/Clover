@@ -3771,7 +3771,6 @@ Library/WaveLib/WaveLib.c -text
 Library/WaveLib/WaveLib.inf -text
 Logo/Logo.bmp -text
 Logo/Logo.svg -text
-Logo/LogoBW.bmp -text svneol=unset#image/bmp
 OsxAptioFixDrv/AsmFuncs.h -text
 OsxAptioFixDrv/BootArgs.c -text
 OsxAptioFixDrv/BootArgs.h -text
@@ -4495,6 +4494,7 @@ rEFIt_UEFI/Platform/picopng.h -text
 rEFIt_UEFI/Platform/platformdata.c -text
 rEFIt_UEFI/Platform/plist.c -text
 rEFIt_UEFI/Platform/smbios.c -text
+rEFIt_UEFI/Platform/sound.c -text
 rEFIt_UEFI/Platform/spd.c -text
 rEFIt_UEFI/Platform/spd.h -text
 rEFIt_UEFI/Platform/sse3_5_patcher.h -text
