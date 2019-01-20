@@ -970,6 +970,12 @@ CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png -text svneol=unset#
 CloverPackage/CloverV2/themespkg/BGM/theme.plist -text
 CloverPackage/CloverV2/themespkg/Clovy/sound.wav -text
 CloverPackage/CloverV2/themespkg/Clovy/theme.svg -text
+CloverPackage/CloverV2/themespkg/cesium/AnfisaGrotesk.svg -text
+CloverPackage/CloverV2/themespkg/cesium/ApercuPro.svg -text
+CloverPackage/CloverV2/themespkg/cesium/DragonIsComing.svg -text
+CloverPackage/CloverV2/themespkg/cesium/sound.wav -text
+CloverPackage/CloverV2/themespkg/cesium/sound_night.wav -text
+CloverPackage/CloverV2/themespkg/cesium/theme.svg -text
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_000.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_001.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/Anim_1_Logo/Anim_1_Logo_002.png -text svneol=unset#image/png
@@ -1035,98 +1041,6 @@ CloverPackage/CloverV2/themespkg/christmas/icons/vol_recovery.icns -text
 CloverPackage/CloverV2/themespkg/christmas/logo.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/screenshot.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/christmas/theme.plist -text
-CloverPackage/CloverV2/themespkg/metal/Baskerville_20pt_Cell_26x27_l0.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/BoG_DejaVuSans_9W.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/BoG_LucidaConsole_10W_NA.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Cambria_20pt_Cell_22x25_l-2_ra.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Candara_24pt_Cell_23x29_noAA.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/FontKorean.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/MetalBack.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/MetalDragon.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Select_trans_big.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Select_trans_small.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Selection_big.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/Selection_small.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/arrow-144.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/arrow-64.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/checkbox.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/checkbox_checked.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/dark-wide.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/apple.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/arrow.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/boot_linux.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/boot_win.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/frame.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_about.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_clover.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_help.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_options.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_reset.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_secureboot_config.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/func_shutdown.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/os_cap.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_clover.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_cougar.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_ecomstation.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_freebsd.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_freedos.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_hsierra.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_legacy.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_leo.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_linux.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_lion.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_mac.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_mav.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_moja.icns -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/os_netbsd.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_openbsd.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_sierra.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_snow.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_tiger.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_unknown.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_vista.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_win.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/os_yos.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/pointer-black.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/pointer.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/tool_shell.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/icons/vol_clover.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_external.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_firewire.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_internal.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_internal_hfs.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_optical.icns -text
-CloverPackage/CloverV2/themespkg/metal/icons/vol_recovery.icns -text
-CloverPackage/CloverV2/themespkg/metal/logo-trans.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_000.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_001.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_002.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_003.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_004.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_005.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_006.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_007.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_008.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_009.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_010.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_011.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_012.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_013.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_3D/logo_3D_014.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/logo_metal4.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/radio_button.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/radio_button_selected.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/screenshot.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_end.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_fill.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/bar_start.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/down_button.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_end.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_fill.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/scroll_start.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/scrollbar/up_button.png -text svneol=unset#image/png
-CloverPackage/CloverV2/themespkg/metal/theme.plist -text
 CloverPackage/CloverV2/themespkg/newyear/arrow-144.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/newyear/arrow-64.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/newyear/dark-wide.png -text svneol=unset#image/png
