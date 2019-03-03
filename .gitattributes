@@ -4446,6 +4446,7 @@ rEFIt_UEFI/libeg/VectorGraphics.c -text
 rEFIt_UEFI/libeg/egemb_font.c -text
 rEFIt_UEFI/libeg/egemb_icons.c -text
 rEFIt_UEFI/libeg/egemb_icons_dark.c -text
+rEFIt_UEFI/libeg/ftol.asm -text
 rEFIt_UEFI/libeg/image.c -text
 rEFIt_UEFI/libeg/libeg.h -text
 rEFIt_UEFI/libeg/libegint.h -text
