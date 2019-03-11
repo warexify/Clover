@@ -2,6 +2,7 @@
 BootHFS/Description.txt -text
 BootHFS/Installation.txt -text
 BootHFS/Makefile -text
+BootHFS/Makefile.win -text
 BootHFS/boot0.s -text
 BootHFS/boot0ab.s -text
 BootHFS/boot0af.s -text
@@ -1240,11 +1241,6 @@ CloverPackage/utils/partutil/partutil.xcodeproj/project.xcworkspace/contents.xcw
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/partutil.xcscheme -text
 CloverPackage/utils/partutil/partutil.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist -text
 /CloverPkg.dec -text
-Conf/ReadMe.txt -text
-Conf/Tpl/MSFT/build_rule.template -text
-Conf/Tpl/MSFT/config.template -text
-Conf/Tpl/MSFT/target.template -text
-Conf/Tpl/MSFT/tools_def.template -text
 Drivers/AtaAtapi/AhciMode.c -text
 Drivers/AtaAtapi/AhciMode.h -text
 Drivers/AtaAtapi/AtaAtapiPassThru.c -text
