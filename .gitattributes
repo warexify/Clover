@@ -913,6 +913,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png -text svneol=unset#
 CloverPackage/CloverV2/themespkg/BGM/icons/logo.png -text svneol=unset#image/png
 CloverPackage/CloverV2/themespkg/BGM/icons/os_arch.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_cap.icns -text
+CloverPackage/CloverV2/themespkg/BGM/icons/os_cata.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_clover.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_cougar.icns -text
 CloverPackage/CloverV2/themespkg/BGM/icons/os_fedora.icns -text
