@@ -1365,6 +1365,11 @@ FSInject/FSInject.inf -text
 FSInject/Include/Protocol/FSInjectProtocol.h -text
 FSInject/Test.c -text
 FSInject/Test.h -text
+FileSystems/ApfsDriverLoader/ApfsDriverLoader.c -text
+FileSystems/ApfsDriverLoader/ApfsDriverLoader.h -text
+FileSystems/ApfsDriverLoader/ApfsDriverLoader.inf -text
+FileSystems/ApfsDriverLoader/EfiComponentName.c -text
+FileSystems/ApfsDriverLoader/EfiComponentName.h -text
 FileSystems/FatPkg/EnhancedFatDxe/ComponentName.c -text
 FileSystems/FatPkg/EnhancedFatDxe/Data.c -text
 FileSystems/FatPkg/EnhancedFatDxe/Debug.c -text
@@ -2285,6 +2290,7 @@ Include/EfiImageFormat.h -text
 Include/EfiLdrHandoff.h -text
 Include/FlashLayout.h -text
 Include/Guid/AcpiDescription.h -text
+Include/Guid/AppleApfsInfo.h -text
 Include/Guid/ApplePlatformInfo.h -text
 Include/Guid/ConsoleOutConfig.h -text
 Include/Guid/DxeCoreFileName.h -text
@@ -2314,6 +2320,7 @@ Include/Library/UsbMass.h -text
 Include/Library/UsbMassBoot.h -text
 Include/Library/VideoBiosPatchLib.h -text
 Include/Library/WaveLib.h -text
+Include/Protocol/ApfsEfiBootRecordInfo.h -text
 Include/Protocol/AppleDeviceControl.h -text
 Include/Protocol/AppleDiskIo.h -text
 Include/Protocol/AppleEvent.h -text
@@ -2321,6 +2328,7 @@ Include/Protocol/AppleGraphConfig.h -text
 Include/Protocol/AppleImageCodecProtocol.h -text
 Include/Protocol/AppleKeyMapDatabase.h -text
 Include/Protocol/AppleKeyState.h -text
+Include/Protocol/ApplePartitionInfo.h -text
 Include/Protocol/ApplePlatformInfoDatabase.h -text
 Include/Protocol/AppleSMC.h -text
 Include/Protocol/AudioIo.h -text
@@ -2332,6 +2340,7 @@ Include/Protocol/HdaControllerInfo.h -text
 Include/Protocol/HdaIo.h -text
 Include/Protocol/KeyboardInfo.h -text
 Include/Protocol/MsgLog.h -text
+Include/Protocol/NullTextOutput.h -text
 Include/Protocol/OSInfo.h -text
 Include/Protocol/PciIoImp.h -text
 Include/Protocol/SimpleAudioOut.h -text
